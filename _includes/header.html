@@ -1,0 +1,22 @@
+<header class="page-header" role="banner">
+  <div class="my-title">
+    <h1 class="project-name"> <img class="my-logo" type="image/svg" src="/logo.svg"/> {{ site.title }}</h1>
+    <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+  </div>
+  <div class="my-topnav">
+    {% if page.category == "home" %} <a href="/"><button type="button" class="active">Home</button></a>
+    {% else %} <a href="/"><button type="button" >Home</button></a> {% endif %}
+
+    {% if page.category == "first" %} <a href="/first"><button type="button" class="active">First Year</button></a>
+    {% else %} <a href="/first"><button type="button" >First Year</button></a> {% endif %}
+
+    {% if page.category == "middle" %} <a href="/middle"><button type="button" class="active">Middle Years</button></a>
+    {% else %} <a href="/middle"><button type="button" >Middle Years</button></a> {% endif %}
+
+    {% if page.category == "last" %} <a href="/last"><button type="button" class="active">Last Year</button></a>
+    {% else %} <a href="/last"><button type="button" >Last Year</button></a> {% endif %}
+
+    {% if page.category == "life" %} <a href="/life"><button type="button" class="active">Life in Lausanne</button></a>
+    {% else %} <a href="/life"><button type="button" >Life in Lausanne</button></a> {% endif %}
+  </div>
+</header>

@@ -98,3 +98,16 @@
   background-color: #04AA6D;
   color: white;
 }
+
+.my-article-title {
+  font-size: 2em;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: bolder;
+  color: $header-bg-color-secondary;
+}
+
+.my-update-date {
+  text-align: right;
+  opacity: 0.7;
+}
