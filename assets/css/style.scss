@@ -14,11 +14,11 @@
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2rem 4rem;
   }
 
   @include small {
-    padding: 4rem 1rem;
+    padding: 1rem 1rem;
   }
 }
 
@@ -60,24 +60,41 @@
 .my-topnav {
   width: 100%;
   position: relative;
-  top: 10px;
+  top: 0.5rem;
+
+  @include small {
+    top: 0;
+  }
 }
 
-.my-topnav a {
+.my-topnav button {
   float: center;
   color: #f2f2f2;
   text-align: center;
   padding: 10px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.25rem;
+  border: none;
+  margin: 1px 2px;
+  background-color: transparent;
+  transition: 0.3s;
+
+  @include medium {
+    font-size: 1.15rem;
+  }
+
+  @include small {
+    padding: 8px 10px;
+    font-size: 1rem;
+  }
 }
 
-.my-topnav a:hover {
+.my-topnav button:hover {
   background-color: #ddd;
   color: black;
 }
 
-.my-topnav a.active {
+.my-topnav button.active {
   background-color: #04AA6D;
   color: white;
 }
