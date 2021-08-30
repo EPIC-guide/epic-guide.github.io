@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Candidacy exam"
-date: 2021-08-10
+date: 2021-08-30
 category: first
 order: 4
 ---
