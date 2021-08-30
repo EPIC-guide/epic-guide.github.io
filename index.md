@@ -5,6 +5,8 @@ category: home
 
 This guide is put together by EDIC PhD students of all years and from different labs, to help you navigate through your research career at EPFL. 
 
+## [Why EPFL?](/why-epfl)
+
 ## Useful links
 
 - EDIC: [Arrival Guide](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-new-phd-students/)

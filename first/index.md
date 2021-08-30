@@ -4,6 +4,12 @@ title: First Year Guide
 category: first
 ---
 
+## New PhD student at EPFL
+You just arrived in Lausanne and you don’t know how to deal with the various administrative and practical tasks that you have to do?
+
+* [The Doctoral School at EPFL](http://phd.epfl.ch/new-students): The EPFL Doctoral School is there to help you with your thesis. The Doctoral school also organizes welcome events for new PhD students. Their very complete website provides plenty of practical informations that are relevant when starting your PhD.
+* [The Student Affairs](https://sae.epfl.ch/welcome): The EPFL student affairs website gathers plenty of information for incoming PhD students. It regroups informations about for instance (but not limited to) cost of living, opening a bank account in Switzerland, or Health issues.
+
 ## 3 words: What's next?
 Welcome to this exciting adventure! You got accepted to the program, filled all of the forms, and looked for an apartment. So what’s next?
 
