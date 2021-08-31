@@ -3,7 +3,7 @@ layout: default
 category: home
 ---
 
-This guide is put together by EDIC PhD students of all years and from different labs, to help you navigate through your research career at EPFL. 
+This guide is put together by EDIC PhD students of all years and from different labs to help you navigate through your research career at EPFL. This information is provided by students, for students and does not officially represent the views of the EDIC department.
 
 ## Useful links
 
@@ -17,9 +17,9 @@ We try to keep the guide up to date, but if you notice any inconsistencies pleas
 
 ## Contributors
 
-- EPIC Committee (2020 - 2021): Vinitra Swamy, Paola Domenzain, Jade Cock, Evann Courdier, Uday Kusupati, Elsa Rizk, Viktor Sanca, Siang-Yun (Sonia) Lee
-- IC Student Representatives (2020 - 2021): Sandra Siby, Ehsan Mohammadpour
-- Talented PhD Volunteers: Michalina Pacholska, Merlin Nimier-David, Solal Pirelli, Arnout Devos, Theresa Stadler
+- **EPIC Committee** (2020 - 2021): Vinitra Swamy, Paola Domenzain, Siang-Yun (Sonia) Lee, Jade Cock, Evann Courdier, Uday Kusupati, Elsa Rizk, Viktor Sanca
+- **IC Student Representatives** (2020 - 2021): Sandra Siby, Ehsan Mohammadpour
+- **Talented PhD Volunteers**: Michalina Pacholska, Merlin Nimier-David, Solal Pirelli, Arnout Devos, Theresa Stadler
 
 
 ## Acknowledgements
