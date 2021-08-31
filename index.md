@@ -5,8 +5,6 @@ category: home
 
 This guide is put together by EDIC PhD students of all years and from different labs, to help you navigate through your research career at EPFL. 
 
-## [Why EPFL?](/why-epfl)
-
 ## Useful links
 
 - EDIC: [Arrival Guide](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-new-phd-students/)
@@ -21,7 +19,8 @@ We try to keep the guide up to date, but if you notice any inconsistencies pleas
 
 - EPIC Committee (2020 - 2021): Vinitra Swamy, Paola Domenzain, Jade Cock, Evann Courdier, Uday Kusupati, Elsa Rizk, Viktor Sanca, Siang-Yun (Sonia) Lee
 - IC Student Representatives (2020 - 2021): Sandra Siby, Ehsan Mohammadpour
-- Talented PhD Volunteers: Michalina Pacholska, Merlin Nimier-David
+- Talented PhD Volunteers: Michalina Pacholska, Merlin Nimier-David, Solal Pirelli, Arnout Devos, Theresa Stadler
+
 
 ## Acknowledgements
 
