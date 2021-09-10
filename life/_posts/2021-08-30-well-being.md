@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Well being"
-date: 2021-08-30
+date: 2021-09-02
 category: life
 order: 10
 ---
@@ -29,6 +29,8 @@ You have rights, and respect and tolerance are the basis of a good working envir
 * If you wish to have temporary medical support or advice, the [psychiatric and psychotherapeutic consultation](https://www.epfl.ch/education/studies/en/support-and-health/individual-support/psy-consultation-epfl/) on EPFL campus is here for you. To request an appointment please send an email at [psy-epfl@chuv.ch](mailto:psy-epfl@chuv.ch). The first consultation is free of charge, paid by EPFL.
 
 * If you are uncomfortable with contacting your mentor, or any member of your doctoral program you can contact the **Person of Trust**, who is a legal expert specialized in workplace issues (work-related stress and anxiety, conflict management, harassment, unethical behavior...) and who is outside of the EPFL hierarchy: she/he doesn’t have any connection with your lab or other academic environments. She/he will work in strict confidence and anonymity, being submitted to professional confidentiality. For PhD students, the Person of Trust can be contacted by [email](mailto:aurelie.defrancesco@epfl.ch).
+
+* If you have questions about LGBT-related issues, or if you are being harassed or bullied due to your sexual orientation or gender, contact EPFL's [Safe Space](https://www.epfl.ch/about/vice-presidencies/vice-presidency-for-responsible-transformation-vpt/safe-space/) initiative.
 
 
 If you observe unethical or illegal behavior, you can either [report a case](https://www.epfl.ch/about/respect/harassment-situations/report-a-case/respect-unit-and-the-ombudsperson/) to an interlocutor internal to EPFL, the **respect unit**, or external to EPFL, the **ombudsperson**. Both will take action as quickly as possible:
