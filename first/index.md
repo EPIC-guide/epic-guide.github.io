@@ -4,8 +4,6 @@ title: First Year Guide
 category: first
 ---
 
-## [Why EPFL?](../why-epfl)
-
 ## New PhD student at EPFL
 You just arrived in Lausanne and you don’t know how to deal with the various administrative and practical tasks that you have to do?
 
