@@ -38,8 +38,9 @@ Also read this: [MF Swiss](https://www.reddit.com/r/AskReddit/comments/11pcs1/wh
 * The salary is way better, and there are no tuition fees
 * There are no qualifying exams, instead you have to pass a "depth" course of your choice and an oral exal called "candidacy exam" that is more of a formality as long as there is an advisor who wants to work with you
 * Switzerland is a stable country with mostly boring politics, you can rest assured you will not have to worry about political turmoil or visa issues
-* Your PhD has a hard limit of 6 years, though most people finish in a shorter time, you cannot prolong it further than 6..
-* You only get a PhD, there is no "intermediate" Masters degree.
-* You have to do 18 course credits (EU ECTS) in total in your EDIC PhD, which corresponds to 4 courses (i.e. 1 depth, 2 breadth courses, and 1-2 seminars) of 6h/week each for 1 semester.
-* You will commute to EPFL by foot or public transport, unless you absolutely want to use a car. While having a car can be convenient, it is not a necessity at all.
+* If you're not a native English speaker, you'll feel less pressure since almost everyone around is not a native English speaker either
+* Your PhD has a hard limit of 6 years, though most people finish in a shorter time, you cannot prolong it further than 6
+* You only get a PhD, there is no "intermediate" Masters degree
+* You have to do 18 course credits (EU ECTS) in total in your EDIC PhD, which corresponds to 4 courses (i.e. 1 depth, 2 breadth courses, and 1-2 seminars) of 6h/week each for 1 semester
+* You will commute to EPFL by foot or public transport, unless you absolutely want to use a car. While having a car can be convenient, it is not a necessity at all
 * You have to TA almost every semester, and it is a part of your normal pay (unless you go above and beyond; professors can award small bonuses)
