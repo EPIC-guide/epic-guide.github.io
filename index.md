@@ -5,7 +5,7 @@ category: home
 
 This guide is put together by EDIC PhD students of all years and from different labs to help you navigate through your research career at EPFL. This information is provided by students, for students and does not officially represent the views of the EDIC department.
 
-> Not yet an EDIC PhD student? Check out the [reasons why you should come](/why-epfl)!
+> Not yet an EDIC PhD student? Check out the [reasons why you should come](why-epfl)!
 
 ## Useful links
 

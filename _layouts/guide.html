@@ -18,7 +18,7 @@
           {% if coll.label == page.collection %}
             {% assign docs = coll.docs | sort: 'order' %}
             {% for doc in docs %}
-              <div class="my-article-list-item"><a href="{{ doc.url }}">{{ doc.title }}</a></div>
+              <div class="my-article-list-item"><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></div>
             {% endfor %}
           {% endif %}
         {% endfor %}

@@ -14,7 +14,7 @@
 
       {{ content }}
 
-      <a href="/{{ page.category }}">Go back</a>
+      <a href="{{ page.category | prepend: "/" | relative_url }}">Go back</a>
 
       {% include footer.html %}
     </main>
