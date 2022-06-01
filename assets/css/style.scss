@@ -20,6 +20,11 @@
   @include small {
     padding: 1rem 1rem;
   }
+
+  a {
+    color: $header-heading-color;
+    text-decoration: none;
+  }
 }
 
 .project-tagline {
