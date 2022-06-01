@@ -6,9 +6,10 @@
     </div>
   </a>
   <div class="my-topnav">
-    {% for categ in site.category_names %}
-      {% if page.category == categ[0] %} <a href="/{{ categ[0] }}"><button type="button" class="active">{{ categ[1] }}</button></a>
-      {% else %} <a href="/{{ categ[0] }}"><button type="button" >{{ categ[1] }}</button></a> {% endif %}
+    {% assign colls = site.collections | sort: 'order' %}
+    {% for coll in colls %}
+      {% if page.collection == coll.label %} <a href="/{{ coll.label }}"><button type="button" class="active">{{ coll.name }}</button></a>
+      {% else %} <a href="/{{ coll.label }}"><button type="button" >{{ coll.name }}</button></a> {% endif %}
     {% endfor %}
   </div>
 </header>

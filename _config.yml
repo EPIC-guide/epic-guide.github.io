@@ -7,8 +7,24 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-category_names:
-  first: First Year
-  middle: Middle Years
-  last: Last Year
-  life: Life in Lausanne
+collections:
+  first:
+    name: First Year
+    output: true
+    permalink: /:collection/:name
+    order: 0
+  middle:
+    name: Middle Years
+    output: true
+    permalink: /:collection/:name
+    order: 1
+  last:
+    name: Last Year
+    output: true
+    permalink: /:collection/:name
+    order: 2
+  life:
+    name: Life in Lausanne
+    output: true
+    permalink: /:collection/:name
+    order: 3

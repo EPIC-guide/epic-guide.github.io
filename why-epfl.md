@@ -1,6 +1,5 @@
 ---
 layout: default
-category: home
 ---
 
 # Why EPFL? Why EDIC?
