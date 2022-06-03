@@ -14,11 +14,12 @@
       {{ content }}
 
       <div class="my-article-list">
-        {% assign posts = site.categories[page.category] | sort:"order" %}
-        {% for post in posts %}
-          {% if post.url %}      
-              <div class="my-article-list-item"><a href="{{ post.url }}">{{ post.title }}</a></div>
-              <!-- {{ post.excerpt }} -->
+        {% for coll in site.collections %}
+          {% if coll.label == page.collection %}
+            {% assign docs = coll.docs | sort: 'order' %}
+            {% for doc in docs %}
+              <div class="my-article-list-item"><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></div>
+            {% endfor %}
           {% endif %}
         {% endfor %}
       </div>

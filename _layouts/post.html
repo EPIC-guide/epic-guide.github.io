@@ -10,12 +10,11 @@
 
     <main id="content" class="main-content" role="main">
       <div class="my-article-title">{{ page.title }}</div>
-      <div class="my-update-date">Last updated: {{ page.date | date_to_string }}</div>
       <hr/>
 
       {{ content }}
 
-      <a href="/{{ page.category }}">Go back</a>
+      <a href="{{ page.category | prepend: "/" | relative_url }}">Go back</a>
 
       {% include footer.html %}
     </main>
