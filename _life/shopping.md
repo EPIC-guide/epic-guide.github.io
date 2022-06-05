@@ -2,10 +2,11 @@
 layout: post
 title: "Shopping"
 category: life
-order: 4
+order: 5
 ---
 
 Switzerland historically has two main grocery chains, Coop and Migros, and a lot of small local stores. Recently, other chains have appeared, such as Aldi and Lidl.
+
 
 ## Supermarkets
 
@@ -63,6 +64,12 @@ Their [website](https://globus.ch) is only available in French and German.
 If you know a good one, please submit a pull request!
 
 
+### TooGoodToGo
+
+The [TooGoodToGo](https://toogoodtogo.com/en-us) app lets you find stores and restaurants near you that have too much food expiring soon,
+and buy it at huge discounts. There is zero guarantee of availability due to the nature of the app, but it's worth checking it out!
+
+
 ### Others
 
 More info is needed on this guide about:
@@ -91,6 +98,14 @@ Note that the non-computer stuff has a minimum of 50.- per order, below which yo
 You can either get it delivered to your place, or go pick it up at their store in Malley.
 
 Their [website](https://galaxus.ch) is available in English, French, German, and Italian.
+
+
+### Laptop shops for EPFL students
+
+[Poseidon](https://www.epfl.ch/campus/services/en/it-services/discount-and-loan-for-personnal-computers/laptop_offer/)
+and [Projekt Neptun](https://projektneptun.ch/en/)
+both have special offers for EPFL students and PhDs.
+However, they tend to focus on specific kinds of laptops such as those with GPUs for 3D rendering, which may not be what you care about.
 
 
 ### Amazon

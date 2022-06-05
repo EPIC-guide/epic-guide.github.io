@@ -1,21 +1,15 @@
 ---
 layout: post
-title: "Money and Savings"
+title: "Money and Taxes"
 category: life
-order: 9
+order: 8
 ---
 
-## Bank accounts
+As a PhD student, you get paid and thus likely need a bank account, you automatically put money into a government-provided savings account but can also add more,
+and you pay taxes. This page will help you make sense of all of this.
 
-Go with whichever Swiss bank you want, they’re all more or less equal, and will have free accounts for students. The main question is whether you want a more traditional account or an app-based one like CSX or Yuh.
-If you are a US citizen, the process will be more complex due to Swiss banks having to report your data to the US.
-
-Switzerland as a whole is in the process of moving away from Maestro for debit cards and towards Debit MasterCard/Visa, but until that is finished (2022?)
-depending on your bank you may need to get a credit card just so you can do online shopping, without actually using the credit part. Generally, it’s possible to pay for almost everything by card (cashless).
-
-You can pay most if not all recurring bills, such as insurance or phone, with the "e-Bill" system. In your bank's online portal, go to the e-Bill section and look up your service providers to register.
-
-Do not expect any yields from non-investment bank accounts, even the savings ones, due to negative interest rates on CHF.
+For your personal financial information at EPFL, use [SESAME](https://sesame2.epfl.ch), the EPFL financial online portal.
+It provides your payment slips, including those necessary for taxes, the reimbursement of professional expenses, the ordering of professional material, and so on.
 
 
 ## Pay
@@ -28,27 +22,54 @@ The 13th salary system means that your salary is split into 13 and you get 1/13t
 with the last 1/13th being given to you partly in November and partly in December.
 The origins of this system are historically not so clear, but nowadays it’s basically a way for you to pay for Christmas presents and such.
 
-Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary. Here's an example breakdown for a first year monthly PhD salary **as of September 2017** (the amounts will have slightly changed since then):
+Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary.
+Here's an example breakdown for a first year monthly PhD salary **as of September 2017** (the amounts will have slightly changed since then):
 This is from a non-November/December months, in those months it would be more due to the 13th salary mentioned above.
 
 | Gross salary             | 3,930.80 CHF |
-| First pillar (AHV/AVS)   | -201.45 CHF  |
+| First pillar (AVS)       | -201.45 CHF  |
 | Various other deductions | -88.15 CHF   |
 | Second pillar (Publica)  | -137.10 CHF  |
 | Income tax               | -279.50 CHF  |
-| **Net income**               | **3,224.60 CHF** |
+| **Net income**           | **3,224.60 CHF** |
 
 
-## First pillar
+## Banks
+
+Go with whichever Swiss bank you want, they're all more or less equal, and will have free accounts for students. The main question is whether you want a more traditional account or an app-based one like CSX or Yuh.
+If you are a US citizen, the process will be more complex due to Swiss banks having to report your data to the US.
+
+Get the [TWINT](https://www.twint.ch/en/) app for your bank so you can pay in online shops, supermarkets, and small businesses such as local farms easily.
+The latter typically do not accept cards as card payment fees are too high.
+
+While it is possible to make a direct bank transfer from anywhere to Switzerland, that could result in large transfer and currency conversion fees.
+A cheaper way is to use a service such as [Wise](https://wise.com/) (formerly Transferwise), where fees are small and known upfront.
+Wise and Revolut both offer payment cards that can be used in any country and for online shopping with cheap / free currency conversion.
+
+Switzerland as a whole is in the process of moving away from Maestro for debit cards and towards Debit MasterCard/Visa, but until that is finished (2022?)
+depending on your bank you may need to get a credit card just so you can do online shopping, without actually using the credit part. Generally, it’s possible to pay for almost everything by card (cashless).
+
+You can pay most if not all recurring bills, such as insurance or phone, with the "e-Bill" system. In your bank's online portal, go to the e-Bill section and look up your service providers to register.
+
+Do not expect any yields from non-investment bank accounts, even the savings ones, due to negative interest rates on CHF.
+
+While you technically can cash checks, banks will charge large fees for doing so, as virtually no one in Switzerland uses checks any more.
+
+
+## Retirement
+
+Switzerland has a system based on three pillars: shared mandatory, personal mandatory, and personal optional.
+
+### First pillar
 
 Mandatory retirement savings, taken out of the salary, as a global pool for everyone. Called "AVS". Equivalent to "social security".
 
-## Second pillar
+### Second pillar
 
 Mandatory retirement savings, taken out of the salary, for yourself. Provider is always [Publica](https://publica.ch/) for EPFL employees.
 Money is blocked until retirement or "permanently" leaving the country.
 
-## Third pillar
+### Third pillar
 
 Optional retirement savings for yourself. The money contributed to the Pillar 3a can be deducted from income for tax purposes.
 Capped to about CHF 7000 per year (the exact amount increases slightly every year).
@@ -115,7 +136,7 @@ To file your taxes, open the VaudTax website, log in with your n° de contribuab
   - "Déduction sociale pour le logement", input your yearly rent without charges
   - For the other parts, if applicable, put any donations you made to charities or political parties, as well as medical costs during the year
 - Under "Acomptes" > "Total des acomptes payés...", put your "acomptes" if you paid some and the taxes already paid à la source if applicable
-  - This is crucial, and as of 2022 the software does not automatically sync the à la source amount with the one you declared on your job, so don't skip this step
+  - **This is crucial**, and as of 2022 the software does not automatically sync the à la source amount with the one you declared on your job, so don't skip this step
 - In the right sidebar, under "Outils" > "Gérer des pièces justificatives", in the second group you must upload your 3a certificate for the year, if applicable; nothing else
 - You can then check the entire computation using "Outils" in the right sidebar > "Calculer les impôts".
   - For an average PhD student with a 3a pillar maxed out for the year, the taxes should be 2.5-3k, and the "solde" should be _negative_ 2-2.5k, meaning they owe you money back
@@ -125,40 +146,3 @@ To file your taxes, open the VaudTax website, log in with your n° de contribuab
   - Once it's done, download all three documents you can download: two are PDF statements, and one is a ZIP that will make the process much easier next year as you can simply import it and only edit what changed
 
 After a little delay, a taxation decision will be made and you get refunded (or charged, if you had not paid enough).
-
-
-## Checks
-
-Don't. It is possible to cash checks, but this has large fees, because nobody uses them in Switzerland.
-
-
-## Transferring money to & from abroad
-
-While it is possible to make a direct bank transfer from anywhere to Switzerland, that could result in large transfer and currency conversion fees.
-A cheaper way is to use a service such as [Wise](https://wise.com/) (formerly Transferwise), where fees are small and known upfront.
-
-Wise and Revolut both offer payment cards that can be used in any country and for online shopping with cheap / free currency conversion.
-
-
-## Interesting discounts for PhDs
-
-One of the advantages of the PhD status is that you still are a student! Beyond staying at university, this also means that you can claim discounts in many different stores and restaurants.
-
-This page aims at listing various discount opportunities. Any extra suggestions are of course welcome, by mail or through our WishBox.
-
-* The [CAMIPRO webpage](https://camipro.epfl.ch/external_advantages) lists various discounts opportunities outside EPFL, including car rentals, sports equipment, cinemas and more.
-* EPFL subsidizes monthly or yearly travel passes for public transports. On myCAMIPRO, EPFL employees can get up to a [25% discount coupon](https://mycamipro.epfl.ch/client/mobilisreq) on transport passes. It will be valid when purchasing your pass in a point of sale (SBB, TL, ...) nearby.
-* The [SBB seven25 Travelcard](https://www.sbb.ch/en/travelcards-and-tickets/railpasses/seven25-travelcard.html) allows people under 25 to enjoy unlimited travel anywhere in Switzerland from 7pm to 5am for only 390 CHF/year
-
-
-## Sesame, EPFL’s financial online portal
-
-[SESAME](https://sesame2.epfl.ch) is EPFL’s financial online portal.
-You can find on this website many relevant information and possibilities, such as:
-
-* Your monthly and yearly payment slips, including those necessary for tax declaration (Swiss nationals) or tax refunds (B permit holders, see section “Saving Money”)
-* Reimbursement of professional expenses
-* Camipro automatic monthly recharge directly from your salary
-* Ordering of various professional material, with negotiated EPFL discounts
-
-And many other possibilities.
