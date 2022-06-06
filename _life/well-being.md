@@ -77,16 +77,18 @@ If you observe unethical or illegal behavior, and are unwilling or unable to get
 [**ombudsperson**](https://www.epfl.ch/about/respect/report-a-case/ombudsperson/).
 
 
-
-#### Mental Health Crises
+## Mental health
 
 If you or someone you know is experiencing a mental health crisis that needs immediate intervention, including suicidal thoughts, there are several resources providing anonymous and confidential support.
 
-La Main Tendue is a 24 hour anonymous mental health helpline providing support in French, German and Italian. They can be reached directly by dialing 143 from any Swiss phone.
+[La Main Tendue](https://www.143.ch/fr/) is a 24 hour anonymous mental health helpline providing support in French, German and Italian.
+They can be reached directly by dialing 143 from any Swiss phone.
 
-For telephone support in English, Samaritans is a UK-based crisis line that can be reached by dialing +44 8457 90 90 90.
-The Suicide Prevention Lifeline is an American crisis line that can be reached by dialing +1-800-273-8255. This number is free to call using Skype.
+The [Stop Suicide](https://stopsuicide.ch/) association is an organization working to prevent suicide among youth. Their website has many resources which may be helpful.
 
-The Stop Suicide association is an organization working to prevent suicide among youth. Their website has many resources which may be helpful.
+For telephone support in English, [Samaritans](https://www.samaritans.org/) is a UK-based crisis line that can be reached by dialing +44 8457 90 90 90.
+The [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) is an American crisis line that can be reached by dialing +1-800-273-8255. This number is free to call using Skype.
 
-This section is heavily inspired from the [PolyDoc guide](https://www.epfl.ch/campus/associations/list/polydoc/page-151233-en-html/).
+---
+
+This page was heavily inspired from the [PolyDoc guide](https://www.epfl.ch/campus/associations/list/polydoc/my-well-being/).
