@@ -132,7 +132,7 @@ If you know a good one, please submit a pull request!
 
 ### QoQa
 
-Every day or so, QoQa has a limited-time offer. They have multiple websites for different things, such as Qsport and Qooking.
+Every day or so, [QoQa](https://qoqa.ch) has a limited-time offer. They have multiple websites for different things, such as Qsport and Qooking.
 Sometimes it's worth it, sometimes not.
 
 

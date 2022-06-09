@@ -106,7 +106,7 @@ You then need to file your taxes using [VaudTax](https://www.vd.ch/themes/etat-d
 
 You need to declare your information, income, and wealth. To do so, first get the following documents and information:
 - The letter you got from the tax office that includes your "n° de contribuable" and the "code de contrôle" (the latter changes each year)
-- Your salary certificate from EPFL's SESAME portal (see below)
+- Your salary certificate from EPFL's SESAME portal
 - For each bank account you had on the 31st of December of the elapsed year (in any country/currency), the account number, amount of money there was on the account on that date, and the interest you earned for the year
   - If you opened that account in the elapsed year, you additionally need the opening date
 - For each bank account you closed during the elapsed year, the account number and closing date
