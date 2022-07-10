@@ -8,6 +8,9 @@ order: 3
 Switzerland generally has excellent public transport in the form of trains and buses, meaning you do not need a car.
 However, you may want to get a bike depending on where you live, and may still want to own or rent a car if you frequently need to go to areas poorly served by public transport.
 
+While taxis and apps such as Uber exist, they are far more expensive than public transport, easily by an order of magnitude.
+Due to this, in Switzerland taxis are not a common means of transportation.
+
 
 ## Public transport
 
