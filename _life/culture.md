@@ -40,3 +40,6 @@ It's OK to still do it once in a while, but at least try to do it in the afterno
 Punctuality is not a joke. Even for social events like dinners you are expected to be on time or slightly earlier. Conversely, it also means public transport is very on time.
 
 Try to keep the noise down in house parties or reunions, especially after 22h00. It is a thoughtful idea to let your neighbors know ahead of time if you are hosting a large party. 
+
+
+Also read this: [MF Swiss](https://www.reddit.com/r/AskReddit/comments/11pcs1/while_i_lived_in_an_apartment_i_kept_a_linksys/c6oqc3m)

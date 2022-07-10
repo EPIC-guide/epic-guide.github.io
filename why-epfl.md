@@ -28,8 +28,7 @@ Note that in Switzerland, virtually nobody stops at the Bachelor level, though s
 How much you want to get involved is up to you, you can do anything from purely back-office stuff like grading to giving lectures or even teaching your own small course.
 This is great if you love teaching or want experience to go into academia.
 
-
-Also read this: [MF Swiss](https://www.reddit.com/r/AskReddit/comments/11pcs1/while_i_lived_in_an_apartment_i_kept_a_linksys/c6oqc3m)
+[Here](https://nebelwelt.net/blog/2021/0121-phd_at_epfl.html) is an excellent guide from one of IC's professors [Mathias Payer](https://people.epfl.ch/mathias.payer).
 
 
 ## Specific differences from US universities
