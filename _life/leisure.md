@@ -2,7 +2,7 @@
 layout: post
 title: "Leisure"
 category: life
-order: 6
+order: 7
 ---
 
 

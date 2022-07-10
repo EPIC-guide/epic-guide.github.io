@@ -2,7 +2,7 @@
 layout: post
 title: "Money and Taxes"
 category: life
-order: 8
+order: 9
 ---
 
 As a PhD student, you get paid and thus likely need a bank account, you automatically put money into a government-provided savings account but can also add more,

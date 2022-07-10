@@ -2,7 +2,7 @@
 layout: post
 title: "Shopping"
 category: life
-order: 5
+order: 6
 ---
 
 Switzerland historically has two main grocery chains, Coop and Migros, and a lot of small local stores. Recently, other chains have appeared, such as Aldi and Lidl.
