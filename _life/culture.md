@@ -44,7 +44,9 @@ It's OK to still do it once in a while, but at least try to do it in the afterno
 
 ## Other things to note
 
-Chew with your mouth closed when eating, as keeping your mouth open is considered impolite.
+In Switzerland, it is considered rude to chew with one's mouth open, thus you should close your mouth while chewing.
+Similarly, it is considered rude to stand overly close to someone unless they are a close friend or partner, thus you should keep at least half a meter from others when in a group.
+(This guide is not about making value judgements on such customs, the goal is merely to tell you what is and isn't considered polite in Switzerland)
 
 Speaking to strangers on the street is rare and will usually be considered odd, unless you have something specific to ask such as finding your way, or something specific happened that
 people will talk about, even as simple as a car making a lot of noise while you're waiting at a bus stop.
