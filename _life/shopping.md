@@ -7,6 +7,9 @@ order: 5
 
 Switzerland historically has two main grocery chains, Coop and Migros, and a lot of small local stores. Recently, other chains have appeared, such as Aldi and Lidl.
 
+While going out to eat is always an option, it is far more expensive than buying ingredients and cooking yourself.
+Due to this, in Switzerland going out is typically an activity done occasionally with friends, and not an everyday way to get food.
+
 
 ## Supermarkets
 
