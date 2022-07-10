@@ -5,6 +5,10 @@ category: life
 order: 0
 ---
 
+Switzerland, like any other country, has its fair bit of history and cultural traditions.
+You will likely be interested in [shopping](/life/shopping) and [transportation](/life/transportation) in addition to this page.
+
+
 ## Languages
 
 Switzerland is mostly divided in three cultural parts by language: German, French, and Italian.
@@ -15,6 +19,7 @@ What is important to know is that while we refer to the Swiss-German part as Swi
 
 And in the same way there are some small language differences between the French spoken in France and in the regions around Lausanne.
 These differences are much smaller than between German and Swiss-German but they can still cause some confusion such as whether you are having lunch (déjeuner in France/dîner in Switzerland) or dinner. 
+
 
 ## Recycling
 
@@ -28,6 +33,7 @@ Bins for oil, aluminum/cans, and clothes are available at specific locations, su
 You have to explicitly ask a cashier for them while you're paying, they are not available on shelves.
 (Introvert pro tip: the exception is Aligro, which has them just before the cashiers, if you don't feel like asking.)
 
+
 ## Sunday
 
 Sunday is a rest day in Switzerland. That means that most supermarkets & shops are closed. There are still gas stations and small family-run shops open or supermarkets in train stations.
@@ -35,7 +41,13 @@ Sunday is a rest day in Switzerland. That means that most supermarkets & shops a
 Your neighbours will expect you not to do the laundry, use the vacuum cleaner, throw out the glass bin, or drill holes into your walls on Sundays.
 It's OK to still do it once in a while, but at least try to do it in the afternoon rather than the morning.
 
+
 ## Other things to note
+
+Chew with your mouth closed when eating, as keeping your mouth open is considered impolite.
+
+Speaking to strangers on the street is rare and will usually be considered odd, unless you have something specific to ask such as finding your way, or something specific happened that
+people will talk about, even as simple as a car making a lot of noise while you're waiting at a bus stop.
 
 Punctuality is not a joke. Even for social events like dinners you are expected to be on time or slightly earlier. Conversely, it also means public transport is very on time.
 

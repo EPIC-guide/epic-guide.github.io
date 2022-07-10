@@ -95,7 +95,7 @@ Sometimes this will be some obscure Swiss-German website, but if it has a good s
 
 ### Galaxus / Digitec
 
-Switzerland's replacement for Amazon, essentially.
+Switzerland's replacement for Amazon, essentially. They sell just about everything, from computer keyboards and phones to beer and sex toys.
 Originally a PC gaming store by the name of Digitec, they have expanded under the name of Galaxus, though computer stuff is still sold as Digitec.
 Note that the non-computer stuff has a minimum of 50.- per order, below which you will be charged a fixed 9.- fee.
 You can either get it delivered to your place, or go pick it up at their store in Malley.
