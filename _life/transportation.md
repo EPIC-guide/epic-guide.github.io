@@ -17,6 +17,9 @@ Due to this, in Switzerland taxis are not a common means of transportation.
 Public transport in Switzerland is managed by SBB/CFF/FFS at the federal level, and by public agencies in each town or canton.
 
 You should always have a valid ticket, even though you do not need one to enter buses or trains, as you are very likely to be controlled and will pay a large fine if you have no ticket.
+For trains, you buy a ticket for a _trip_, not for a _train_, with the exception of "super saver" tickets.
+That is, you might buy a ticket "from Lausanne to Zurich", and you can then take any train that does this trip on the day the ticket is valid,
+unless your ticket also specifies a "via" station which is an additional constraint for multi-part trips.
 
 EPFL provides PhD students with a free "half-fare" card, which is good because the full fare is really more of a "tourist tax".
 Get yours as soon as possible; more information [here](https://www.epfl.ch/campus/services/wp-content/uploads/2019/06/CFF_2019AvantageMobiliteFRAANG.pdf).
