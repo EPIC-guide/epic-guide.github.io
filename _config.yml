@@ -1,6 +1,6 @@
 title: EPIC Guide
 email: epic@groupes.epfl.ch
-description: Guidebook for IC PhD life at EPFL
+description: Guide for PhD life in Computer & Communication Sciences at EPFL
 github_username: EPIC-guide
 
 remote_theme: pages-themes/cayman@v0.2.0
@@ -8,23 +8,28 @@ plugins:
   - jekyll-remote-theme
 
 collections:
+  applying:
+    name: Applying
+    output: true
+    permalink: /:collection/:name
+    order: 0
   first:
     name: First Year
     output: true
     permalink: /:collection/:name
-    order: 0
+    order: 1
   middle:
     name: Middle Years
     output: true
     permalink: /:collection/:name
-    order: 1
+    order: 2
   last:
     name: Last Year
     output: true
     permalink: /:collection/:name
-    order: 2
+    order: 3
   life:
     name: Life in Lausanne
     output: true
     permalink: /:collection/:name
-    order: 3
+    order: 4

@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
+title: "Why EPFL?"
+category: applying
+order: 10
 ---
-
-# Why EPFL? Why EDIC?
 
 EPFL does great research in computer science, communication systems, and adjacent areas such as robotics.
 Now that the obvious is out of the way, here are some other good reasons to do a PhD here.
@@ -28,7 +29,7 @@ Note that in Switzerland, virtually nobody stops at the Bachelor level, though s
 How much you want to get involved is up to you, you can do anything from purely back-office stuff like grading to giving lectures or even teaching your own small course.
 This is great if you love teaching or want experience to go into academia.
 
-[Here](https://nebelwelt.net/blog/2021/0121-phd_at_epfl.html) is an excellent guide from one of IC's professors [Mathias Payer](https://people.epfl.ch/mathias.payer).
+[Here](https://nebelwelt.net/blog/2021/0121-phd_at_epfl.html) is an excellent guide from EPFL professor [Mathias Payer](https://people.epfl.ch/mathias.payer).
 
 
 ## Specific differences from US universities
