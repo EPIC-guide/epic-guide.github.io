@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing a Statement of Purpose"
+title: "Statement of Purpose"
 category: applying
 order: 1
 ---
