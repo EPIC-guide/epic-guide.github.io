@@ -16,6 +16,7 @@ For the guide to grow and stay current over time, we need **you** to contribute!
 
 - **EPIC Committee** (2020 - 2021): Vinitra Swamy, Paola Domenzain, Siang-Yun (Sonia) Lee, Jade Cock, Evann Courdier, Uday Kusupati, Elsa Rizk, Viktor Sanca
 - **IC Student Representatives** (2020 - 2021): Sandra Siby, Ehsan Mohammadpour
-- **Talented PhD Volunteers**: Michalina Pacholska, Merlin Nimier-David, Solal Pirelli, Arnout Devos, Theresa Stadler
+- **EPIC Guide Chair** (2021 - 2022): Solal Pirelli
+- **Talented PhD Volunteers**: Michalina Pacholska, Merlin Nimier-David, Arnout Devos, Theresa Stadler, Shailesh Mishra
 
 This guide was partly inspired by the PolyDoc association's [My PhD Life guide](https://www.epfl.ch/campus/associations/list/polydoc/my-phd-life/).
