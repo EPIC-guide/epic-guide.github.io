@@ -60,7 +60,7 @@ societies you are a member of, extra-curricular activities you've done, and your
 However, by this point your resume is likely quite full already, and these kind of points are usually not worth the space they take.
 If you can, fit these inside other points instead, such as mentioning the programming languages you used in your work experience rather than listing them explicitly in a section.
 
-Do not include a list of references, or with "references available upon request", or other such sentences, unless this is specifically requested by the position you're applying to.
+Do not include a list of references, or "references available upon request", or other such sentences, unless this is specifically requested by the position you're applying to.
 
 
 ## Content
