@@ -16,7 +16,7 @@ You can typically ask them during an "open house" visit, which will have one-on-
 If possible, talk to students on their own, without their advisor, so that you can get their point of view as well.
 
 There are mostly no "right" answers to these questions, it's all about matching expectations.
-For instance, some students prefer weekly meetings with their advisor to talk about exactly what to do, whereas others would rather meet once every few months for high-level guidance.
+For instance, some students prefer weekly meetings with their advisor to talk about exactly what to do, whereas others would rather meet once every few months for high-level guidance. Before meeting your potential professor, it is a good idea to think about your desired working style, what you're looking for socially and professionally from a lab, and what you would like from a research relationship with an advisor. This will help you gauge if the answers you recieve fit an advisor-advisee relationship that will work for you over many years.
 
 
 ### Does the advisor have tenure?
