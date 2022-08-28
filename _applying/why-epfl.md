@@ -40,6 +40,6 @@ This is great if you love teaching or want experience to go into academia.
 * If you're not a native English speaker, you'll feel less pressure since almost everyone around is not a native English speaker either
 * Your PhD has a hard limit of 6 years, though most people finish in a shorter time, you cannot prolong it further than 6
 * You only get a PhD, there is no "intermediate" Masters degree
-* You have to do 18 course credits (EU ECTS) in total in your EDIC PhD, which corresponds to 4 courses (i.e. 1 depth, 2 breadth courses, and 1-2 seminars) of 6h/week each for 1 semester
-* You will commute to EPFL by foot or public transport, unless you absolutely want to use a car. While having a car can be convenient, it is not a necessity at all
-* You have to TA almost every semester, and it is a part of your normal pay (unless you go above and beyond; professors can award small bonuses)
+* You have to do 18 course credits (EU ECTS) in total in your PhD in CS, which corresponds to 4 courses (i.e. 1 depth, 2 breadth courses, and 1-2 seminars) of 6h/week each for 1 semester
+* You can commute to EPFL by foot or public transport, unless you absolutely want to use a car. While having a car can be convenient, it is not a necessity at all
+* You have to TA almost every semester but with a lower workload than in the US, and it is a part of your normal pay (unless you go above and beyond; professors can award small bonuses)
