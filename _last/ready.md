@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When am I ready to finish my thesis?"
+title: "When am I ready to finish?"
 category: last
 order: 1
 ---

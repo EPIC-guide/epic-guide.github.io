@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Questions for potential advisors"
+title: "Questions for advisors"
 category: applying
 order: 5
 ---

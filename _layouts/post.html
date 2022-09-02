@@ -1,3 +1,23 @@
+{% if page.collection %}
+  {% for coll in site.collections %}
+    {% if coll.label == page.collection %}
+      {% assign page_collection = coll %}
+    {% endif %}
+  {% endfor %}
+  {% assign sorted_document = site[page.collection] | sort: 'order' %}
+  {% assign found = false %}
+  {% for p in sorted_document %}
+    {% if page.url == p.url %}
+      {% assign found = true %}
+    {% elsif found %}
+      {% assign next = p %}
+      {% break %}
+    {% else %}
+      {% assign prev = p %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -14,7 +34,17 @@
 
       {{ content }}
 
-      <a href="{{ page.category | prepend: "/" | relative_url }}">Go back</a>
+      <div class="pagelinks">
+        <div class="pagelink" style="text-align: start">
+          {% if prev %} <a href="{{ prev.url }}">&larr; {{ prev.title }}</a> {% endif %}
+        </div>
+        <div class="pagelink" style="text-align: center">
+          <a href="{{ page.category | prepend: "/" | relative_url }}">Back to {{ page_collection.name }}</a>
+        </div>
+        <div class="pagelink" style="text-align: end">
+          {% if next %} <a href="{{ next.url }}">{{ next.title }} &rarr;</a> {% endif %}
+        </div>
+      </div>
 
       {% include footer.html %}
     </main>
