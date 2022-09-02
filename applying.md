@@ -12,4 +12,4 @@ This guide is all about maximizing the amount of useful information your applica
 
 Remember that **applying for a CS PhD at EPFL is entirely free and online**.
 If you're preparing application materials anyway, and you think EPFL is a good option, there are no downsides to applying!
-If you are still doing an undergrad, how about [the Summer@EPFL](https://summer.epfl.ch/) internship program?
+If you are still doing an undergrad, how about the [Summer@EPFL](https://summer.epfl.ch/) internship program?
