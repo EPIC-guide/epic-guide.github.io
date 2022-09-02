@@ -35,8 +35,8 @@ In your email, include:
 - a list of the accomplishments that you suggest they can include in the letter
 - your CV and grades transcript, as well as a draft of your statement of purpose if you already have one
 
-Letters of recommendation take time to write, and professors are often busy, so you should start months in advance.
-Remind them one month before the deadline, then two weeks, and so on. This is not considered rude as long as you are polite.
+Letters of recommendation take time to write, and professors are often busy, so you should start months in advance to give them time, and make them aware of the deadline.
+Remind them one month before the deadline, then two weeks, and more as the deadline draws closer. This is not considered rude as long as you are polite.
 
 One way to help your references keep track of what they have to do is to create an online spreadsheet with rows for references and columns for the places you need a letter for.
 You can then share this sheet with your references and ask them to put an 'X' in the corresponding cell when they're done, which lets you track who did what and who needs reminding.

@@ -12,6 +12,7 @@ Some of these questions are answered on the advisor's website already, and other
 Make sure to spend some time looking up this information before asking questions, or you risk looking foolish if the answer is obvious.
 
 You could ask these questions before even applying, for instance if you are already in contact with a potential advisor.
+Even if you are not already talking to a potential advisor, it is acceptable to email a professor expressing your interest.
 You can typically ask them during an "open house" visit, which will have one-on-one chats between prospective students and advisors, as well as chats with existing students.
 If possible, talk to students on their own, without their advisor, so that you can get their point of view as well.
 
