@@ -9,7 +9,7 @@
     {% assign colls = site.collections | sort: 'order' %}
     {% for coll in colls %}
       {% if page.collection == coll.label %} <a href="{{ coll.label | prepend: "/" | relative_url }}"><button type="button" class="active">{{ coll.name }}</button></a>
-      {% else %} <a href="{{ coll.label | prepend: "/" | relative_url }}"><button type="button" >{{ coll.name }}</button></a> {% endif %}
+      {% else %} {% if coll.label != "posts" %} <a href="{{ coll.label | prepend: "/" | relative_url }}"><button type="button" >{{ coll.name }}</button></a> {% endif %} {% endif %}
     {% endfor %}
   </div>
 </header>
