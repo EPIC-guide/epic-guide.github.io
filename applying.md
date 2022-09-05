@@ -1,13 +1,14 @@
 ---
 layout: guide
-title: Applying for a PhD
+title: Applying
 collection: applying
 ---
 
-Thinking about a PhD, or perhaps a research internship? This section is for you!
+Thinking about a PhD or perhaps a research internship? This section is for you!
 
-Unfortunately, most applications get rejected because they do not provide enough information to make an informed decision.
-That is, people who read the applications cannot tell whether the applicant would be a good match, because the application contains too much noise and not enough signal.
+Unfortunately, many applications get rejected because they do not provide enough information to make an informed decision.
+That is, people who read the applications cannot tell whether the applicant would be a good match,
+because the application contains too many unnecessary details and not enough relevant data.
 This guide is all about maximizing the amount of useful information your application contains, so that you can stand out and be evaluated fairly.
 
 Remember that **applying for a CS PhD at EPFL is entirely free and online**.
