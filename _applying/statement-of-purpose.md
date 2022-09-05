@@ -58,8 +58,9 @@ Finish by describing examples of work you like from the place you're applying to
 Specific work that particularly influenced you? This is not a commitment, only a way to explain why you are applying to that specific place.
 Such examples should not merely be one sentence stating names and paper titles.
 Explain why you want to work with specific people and what you found interesting in their work. This is not easy, but it will make you stand out.
-However, do not make your statement entirely about how you'd like to work on a specific existing project, as this risks dooming your application
-if the advisor is looking for people to work on something else, for instance because the research group has shifted focus.
+However, do not make your statement entirely about how you'd like to work on a specific project older than 3-4 years,
+as this risks dooming your application if the advisor is looking for people to work on something else, for instance because the student behind the project has graduated.
+Instead, you can say you enjoyed that project and would love to work on a similar topic.
 
 
 ## Details
