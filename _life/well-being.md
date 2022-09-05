@@ -60,7 +60,7 @@ They have a detailed [guide for PhD students](https://www.epfl.ch/about/respect/
 If you are being discriminated due to your sexual orientation or identity, or generally have questions about LGBT-related issues,
 contact the [**Safe Space**](https://www.epfl.ch/about/vice-presidencies/vice-presidency-for-responsible-transformation-vpt/safe-space/) initiative.
 
-If you need individual support and counseilling for matters related to stress, social integration, adaptation, disability, special needs, and such, you can get _free_ 
+If you need individual support and counseling for matters related to stress, social integration, adaptation, disability, special needs, and such, you can get _free_ 
 [individual support](https://www.epfl.ch/education/studies/en/support-and-health/individual-support/) through
 the [Student Affairs](https://www.epfl.ch/about/vice-presidencies/vice-presidencies/vice-presidency-for-education/educational-affairs/the-student-affairs-sae/).
 To make an appointment, please contact the [Student services desk](https://www.epfl.ch/education/studies/en/support-and-health/student_desk/) in person, by phone or by [email](mailto:services@epfl.ch).

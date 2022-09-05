@@ -26,7 +26,7 @@ These differences are much smaller than between German and Swiss-German but they
 Switzerland takes recycling seriously.
 
 There are separate paper/cardboard, glass, and compost bins are available for every building.
-Bins for PET, HDPE, batteries, and lightbulbs are available at every grocery store.
+Bins for PET, HDPE, batteries, and light bulbs are available at every grocery store.
 Bins for oil, aluminum/cans, and clothes are available at specific locations, such as outside big grocery stores.
 
 "Normal" trash uses special, taxed trash bags in Vaud. You _cannot_ use a black bag for this, you must buy a roll of trash bags, e.g. 10x35l is CHF 20.
@@ -38,7 +38,7 @@ You have to explicitly ask a cashier for them while you're paying, they are not 
 
 Sunday is a rest day in Switzerland. That means that most supermarkets & shops are closed. There are still gas stations and small family-run shops open or supermarkets in train stations.
 
-Your neighbours will expect you not to do the laundry, use the vacuum cleaner, throw out the glass bin, or drill holes into your walls on Sundays.
+Your neighbors will expect you not to do the laundry, use the vacuum cleaner, throw out the glass bin, or drill holes into your walls on Sundays.
 It's OK to still do it once in a while, but at least try to do it in the afternoon rather than the morning.
 
 
@@ -46,7 +46,7 @@ It's OK to still do it once in a while, but at least try to do it in the afterno
 
 In Switzerland, it is considered rude to chew with one's mouth open, thus you should close your mouth while chewing.
 Similarly, it is considered rude to stand overly close to someone unless they are a close friend or partner, thus you should keep at least half a meter from others when in a group.
-(This guide is not about making value judgements on such customs, the goal is merely to tell you what is and isn't considered polite in Switzerland)
+(This guide is not about making value judgments on such customs, the goal is merely to tell you what is and isn't considered polite in Switzerland)
 
 Speaking to strangers on the street is rare and will usually be considered odd, unless you have something specific to ask such as finding your way, or something specific happened that
 people will talk about, even as simple as a car making a lot of noise while you're waiting at a bus stop.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About PhDs and internsips"
+title: "About PhDs and internships"
 category: applying
 order: 0
 ---

@@ -41,7 +41,7 @@ Their [website](https://migros.ch) is only available in French, German, and Ital
 A "cash and carry" restaurant supply store chain with one location in Chavannes, close to EPFL.
 This is the closest to a restaurant supply store that you, a non-restaurant person, can get.
 Some of the stuff is worth it, some not; they have a wide variety of certain things and a weird lack of other things.
-You can check their current sales (2000/week) on their website, don’t forget to go into the filter and uncheck the “main sales only” box.
+You can check their current sales (2000/week) on their website, don’t forget to go into the filter and uncheck the "main sales only" box.
 Surprisingly, their website only has the sales, so if you want to know what they have you must either go there or watch the sales page for some weeks in a row.
 
 Their [website](https://aligro.ch) is only available in French and German.

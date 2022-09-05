@@ -85,7 +85,7 @@ Do not put down people, institutions, or entire research fields, no matter how m
 Be specific whenever possible, illustrating with clear examples.
 Avoid unnecessary introductions, vague philosophical statements, and overly verbose descriptions.
 
-Avoid subjective assessments and hyperboles. If something is "significant", you can state it quantitatively.
+Avoid subjective assessments and hyperbole. If something is "significant", you can state it quantitatively.
 If something is "important", it has some concrete effect you can point to.
 This is doubly true for soft skills, which are harder to provide evidence for.
 Better not say anything than make grandiose claims such as "I am a perfect fit" without evidence.

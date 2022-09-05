@@ -101,7 +101,7 @@ If you have a B permit but do not meet one of the criteria above, typically beca
 The form to request one is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
 Once this is done, you keep being taxed at the source but you follow the procedure detailed next to declare your taxes. This cannot be undone, once requested you will declare your taxes every year.
 
-If you have to file your taxes, typically because you requested so (above) or because you are Swiss, you will receive a letter at the start of the next year with informations.
+If you have to file your taxes, typically because you requested so (above) or because you are Swiss, you will receive a letter at the start of the next year with information.
 You then need to file your taxes using [VaudTax](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/prestation-vaudtax/), a website which is basically a giant form.
 
 You need to declare your information, income, and wealth. To do so, first get the following documents and information:

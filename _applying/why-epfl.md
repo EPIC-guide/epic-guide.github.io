@@ -35,7 +35,7 @@ This is great if you love teaching or want experience to go into academia.
 ## Specific differences from US universities
 
 * The salary is way better, and there are no tuition fees
-* There are no qualifying exams, instead you have to pass a "depth" course of your choice and an oral exal called "candidacy exam" that is more of a formality as long as there is an advisor who wants to work with you
+* There are no qualifying exams, instead you have to pass a "depth" course of your choice and an oral exam called "candidacy exam" that is more of a formality as long as there is an advisor who wants to work with you
 * Switzerland is a stable country with mostly boring politics, you can rest assured you will not have to worry about political turmoil or visa issues
 * If you're not a native English speaker, you'll feel less pressure since almost everyone around is not a native English speaker either
 * Your PhD has a hard limit of 6 years, though most people finish in a shorter time, you cannot prolong it further than 6

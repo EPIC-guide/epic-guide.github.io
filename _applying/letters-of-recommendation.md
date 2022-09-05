@@ -60,7 +60,7 @@ If you are in a position to make an offer to the candidate yourself, state that 
 which could be due to funding, a decision by the candidate to change locations, or any other good reason.
 
 Summarize your qualifications to write the letter. Are you an expert in the field the candidate is interested in?
-Do you have a degree from an institution comparable to the one the candidate is appying to?
+Do you have a degree from an institution comparable to the one the candidate is applying to?
 Make this part short, though, the letter is not about you.
 
 List the candidate's strengths, and justify them with detailed explanations.
