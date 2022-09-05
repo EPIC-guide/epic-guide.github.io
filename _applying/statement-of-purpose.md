@@ -59,7 +59,7 @@ Specific work that particularly influenced you? This is not a commitment, only a
 Such examples should not merely be one sentence stating names and paper titles. Explain why you want to work with specific people and
 what you found interesting in their work. This is not easy, but it will make you stand out.
 However, do not make your statement all about how you'd like to work on a specific existing project, as this risks dooming your application
-if the advisor is looking for people to work on other things, for instance because the research group has moved on to other things.
+if the advisor is looking for people to work on something else, for instance because the research group has shifted focus.
 
 
 ## Details
