@@ -44,7 +44,8 @@ You can then share this sheet with your references and ask them to put an 'X' in
 
 ## Writing a letter
 
-Someone asked you for a letter of recommendation, and want to help that person by maximizing the impact your letter has.
+Someone asked you for a letter of recommendation, and you want to help that person by maximizing the impact your letter has? Great!
+
 Your main goal is to provide useful and detailed information about the candidate that you back up with evidence.
 A short letter, especially one filled with platitudes such as "X is an enthusiastic and quick learner, and I enjoyed working with them, they would be a great fit for your program", is useless.
 
