@@ -54,11 +54,11 @@ Paint a clear picture of you as a scientist and human being: what drives you, ho
 Convince the reader that you have some idea of what research entails and that you would like doing it, even if you've never done it before.
 Include experience that backs up your claims, such as leading a student club as evidence that you have leadership and management skills.
 
-Finish by giving some examples of work you like done at the university you're applying to. Are there specific advisors you'd like to work with?
+Finish by describing examples of work you like from the place you're applying to. Are there specific advisors you'd like to work with?
 Specific work that particularly influenced you? This is not a commitment, only a way to explain why you are applying to that specific place.
-Such examples should not merely be one sentence stating names and paper titles. Explain why you want to work with specific people and
-what you found interesting in their work. This is not easy, but it will make you stand out.
-However, do not make your statement all about how you'd like to work on a specific existing project, as this risks dooming your application
+Such examples should not merely be one sentence stating names and paper titles.
+Explain why you want to work with specific people and what you found interesting in their work. This is not easy, but it will make you stand out.
+However, do not make your statement entirely about how you'd like to work on a specific existing project, as this risks dooming your application
 if the advisor is looking for people to work on something else, for instance because the research group has shifted focus.
 
 
