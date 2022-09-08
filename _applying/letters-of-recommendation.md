@@ -54,7 +54,7 @@ It's typically better to reject a request than to write a letter that cannot sup
 
 Assessing a candidate's skills requires honesty, and presenting a candidate's weaknesses requires tact.
 Lying is never a good idea. If someone is found to have lied, for instance after a committee meets the candidate in person,
-or after people read different letters you have written over the years that contradict each other, nobody will believe their future letters.
+or after people read different letters written over the years that contradict each other, nobody will believe the writer's future letters.
 
 Letters typically start by presenting the candidate and explaining how and how well the writer knows the candidate,
 with an immediate summary of the recommendation, including the specific position the letter is recommending for.
