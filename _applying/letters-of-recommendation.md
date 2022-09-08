@@ -15,15 +15,16 @@ Giving a reference's personal email may jeopardize your application since reader
 
 Unfortunately, academic expectations for letters of recommendation in top universities often do not match what many people think of as a letter of recommendation.
 For instance, a letter writer may genuinely believe they are writing a very strong letter, yet their letter could be perceived as weak by academic readers.
-Thus, if your references have not helped people get into top universities before, you should share the second part of this page with them, so that they know what to write.
+You should suggest that your letter writers read the "Writing a letter" part of this page below, to help them help you.
 
 
 ## Asking for letters
 
-You will typically need 3 references for a PhD position, which should be people who have worked with you.
+You will typically need 3 references for a PhD position, from people who can talk about factors important for the job such as your research abilities and your attitude.
+See the "Writing a letter" part below for examples of what letter writers are expected to talk about.
 In practice, most people have not done research with 3 advisors before starting a PhD.
 It's acceptable to have one or even two letters from people who merely taught a course you got a good grade in,
-or people who worked with you outside of an academic context.
+or people who worked with you at an industry job.
 
 You should email people who you would like a reference from by asking them whether they can write "a strong letter of recommendation",
 which is wording that allows them to easily say no rather than write a weak letter that could doom your application.
@@ -32,7 +33,8 @@ and you can even explicitly tell them that you already have strong letters from 
 
 In your email, include:
 - an introduction of who you are to remind them, unless you have worked with them recently
-- a list of the accomplishments that you suggest they can include in the letter
+- a list of the accomplishments that you suggest they can include in the letter,
+  such as the outcome of a project you did with them;
 - your CV and grades transcript, as well as a draft of your statement of purpose if you already have one
 
 Letters of recommendation take time to write, and professors are often busy, so you should start months in advance to give them time, and make them aware of the deadline.
@@ -46,33 +48,34 @@ You can then share this sheet with your references and ask them to put an 'X' in
 
 Someone asked you for a letter of recommendation, and you want to help that person by maximizing the impact your letter has? Great!
 
-Your main goal is to provide useful and detailed information about the candidate that you back up with evidence.
+Recommendation letters should provide useful and detailed information about the candidate, backed up with evidence.
 A short letter, especially one filled with platitudes such as "X is an enthusiastic and quick learner, and I enjoyed working with them, they would be a great fit for your program", is useless.
+It's typically better to reject a request than to write a letter that cannot support the candidate.
 
-You should be honest in your assessment of the candidate's skills and tactful when presenting the candidate's weaknesses.
-Do not, ever, lie. If you are found to have lied, for instance after a committee meets the candidate in person,
-or after people read different letters you have written over the years that contradict each other, nobody will believe your letters.
-If you do not believe you can honestly write a supportive letter, you should reject the request.
+Assessing a candidate's skills requires honesty, and presenting a candidate's weaknesses requires tact.
+Lying is never a good idea. If someone is found to have lied, for instance after a committee meets the candidate in person,
+or after people read different letters you have written over the years that contradict each other, nobody will believe their future letters.
 
-Start the letter by presenting the candidate and explaining how and how well you know them.
-Immediately give a summary of your recommendation, including the specific position you are recommending for.
-If you are in a position to make an offer to the candidate yourself, state that you will do so, or explain why you cannot,
-which could be due to funding, a decision by the candidate to change locations, or any other good reason.
+Letters typically start by presenting the candidate and explaining how and how well the writer knows the candidate,
+with an immediate summary of the recommendation, including the specific position the letter is recommending for.
+Readers will wonder if the writer would themselves make an offer to the candidate, so it is helpful to explicitly state that you will do so, or explain why you cannot,
+which could be due to funding, a decision by the candidate to change locations, or plenty of other good reasons.
 
-Summarize your qualifications to write the letter. Are you an expert in the field the candidate is interested in?
-Do you have a degree from an institution comparable to the one the candidate is applying to?
-Make this part short, though, the letter is not about you.
+A summary of the writer's qualifications helps the reader understand where the writer is coming from.
+For instance, if the writer has a degree from an institution comparable to where the candidate is applying to, and works in a field close to what the candidate wants to do,
+readers will put more weight on the recommendation.
+However, this part should not be overly long, as the focus of the letter is the candidate.
 
-List the candidate's strengths, and justify them with detailed explanations.
-For instance, if you gave the candidate a specific project, detail what happened and why you believe this reflects well on the candidate.
-In particular, describe what the candidate did that sets them apart from others. Did they achieve results others couldn't?
+Readers expect a list the candidate's strengths, justified with detailed explanations.
+For instance, if the candidate worked on a specific project, the letter should detail what happened and why it reflects well on the candidate.
+Descriptions that sets the candidate apart from others are especially useful. Did they achieve results others couldn't?
 Were they particularly active in meetings? Did they go the extra mile on their own initiative?
-Do other members of your group go to the candidate for advice on writing, or presentation, or any other skill?
-This part can be long if necessary. It's perfectly acceptable for the letter to use more than one page. Show, don't tell.
+Do other members of the research group go to the candidate for advice on writing, or presentation, or any other skill?
+This part can be long if necessary. It's perfectly acceptable for the letter to use more than one page.
+Readers expect evidence of all claims about the candidate, so letters should give clear examples.
 
-Compare the candidate with others, especially if you can give specifics.
-For instance, you can compare the candidate's skills with that of past students who went to the kind of institution the candidate is applying to.
-You can also compare the candidate with yourself, if they obtained results that you could not or had ideas that you did not think of.
+It is helpful for readers if the letter explicitly compares the candidate with others, especially if there are specifics.
+For instance, a letter can compare the candidate with past students who went to the kind of institutions the candidate is applying to, with the letter writer, or with someone famous in the field.
 
-If the candidate is not a native English speaker and you are in a position to judge their English skills, do so.
+If the candidate is not a native English speaker and the letter writer is in a position to judge the candidate's English skills, readers will appreciate a short evaluation.
 Even merely saying that meetings were conducted in English and the candidate's English level was never an issue is better than no information.
