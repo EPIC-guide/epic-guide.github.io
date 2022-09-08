@@ -80,9 +80,9 @@ Use hyperlinks on text when it is nice to be able to click on it but not essenti
 For instance, your GitHub username should be a hyperlink to your GitHub profile.
 
 Your resume will be read by scientists, who expect evidence for claims you make.
-Avoid "skills" sections that aren't backed up by the rest of the resume, such as claiming "time management" or "problem solving".
-Merely being a member of some society says little about you unless you can back it up with some work you did at that society, for instance.
-Do not include a self-evaluation of your skills, such as little bars from 0 to 100%, unless you have some very good reason to do so;
+Avoid "skills" sections that aren't backed up by the rest of the resume, such as claiming "time management" or "problem solving" as skills.
+Merely being a member of some association says little about you unless you can back it up with, for instance, some work you did there.
+Do not self-evaluate your skills, such as bars from 0 to 100% or stars from 1 to 5, unless you have some very good reason to do so;
 remember that one person's 90% is another person's 20%, and the readers have no idea if you're the former or the latter.
 
 Triple-check your writing for grammar and spelling, and get your resume proofread by your friends.
@@ -94,12 +94,12 @@ Keep it to one page if at all possible, and two pages if you really do have a lo
 "A lot" means education, research, work, important projects, important achievements, and languages.
 Do not use two pages just to show off every last programming language or piece of software you know, or to list all of your awards in middle school.
 
-Some stylistic work can help here, such as using a template where section titles are next to the sections rather than above them,
+Some stylistic work can help keep a resume to one page, such as using a template where section titles are next to the sections rather than above them,
 or even a two-column template if really necessary.
 
 
 ## Style
 
-You can find plenty of templates online for MS Word, LaTeX, and so on.
+You can find plenty of templates online for software such as MS Word and LaTeX.
 Use whichever one you think looks good, with whatever software you prefer using.
 The only thing that matters is whether all of the content you want to include fits on a page while looking reasonably good.
