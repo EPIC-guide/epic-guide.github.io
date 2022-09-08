@@ -55,7 +55,7 @@ and what you would like from a research relationship with an advisor. This will 
 
 - Is the funding guaranteed to last for the entire duration of your PhD?
 - What if the funding runs out?
-- Does the funding imply any obligations?
+- Does the funding imply any obligations, such as working on a specific topic or going to specific events?
 
 
 ### Is the advisor open to co-advising?
