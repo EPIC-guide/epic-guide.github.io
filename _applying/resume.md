@@ -72,7 +72,7 @@ If your work led to measurable improvements in performance, user satisfaction, o
 
 Keep everything consistent throughout.
 For instance, do not use "Jan 22" in one place and "November 2021" in another.
-The number of lines for the descriptions of your degrees, work experience, and so on should be consistent.
+The number of lines in the descriptions of degrees and experience should be consistent.
 If you can make the length of the lines consistent, that's even better.
 
 Include links when relevant, such as the repository of a project.

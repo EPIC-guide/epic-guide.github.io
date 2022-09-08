@@ -9,7 +9,7 @@ EPFL does great research in computer science, communication systems, and adjacen
 Now that the obvious is out of the way, here are some other good reasons to do a PhD here.
 
 **The quality of life**: PhD students at EPFL are treated more like employees than students. You receive a salary that is way above the PhD salary of almost everywhere else,
-and there are no tuition fees. You also get employee benefits such as a free half-fare card for Swiss trains, a rebate on public transport passes, and so on.
+and there are no tuition fees. You also get employee benefits such as a free half-fare card for Swiss trains and a rebate on city public transport passes.
 You get 25 days of vacation a year, which is 5 work weeks, plus holidays.
 Switzerland is not cheap, but the salary more than makes up for it. You will not have to keep a detailed budget, unless you have expensive hobbies.
 You also do not need a car, public transport can get you to virtually everywhere.
