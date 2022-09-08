@@ -31,12 +31,12 @@ Each degree should list the name of the degree, the field, your grade average, a
 If your degree's grading scheme is not obvious to international readers, you can include a quick explanation, such as "1 is the best grade, 5 is the worst".
 Do not include high school or lower, it's a waste of space.
 
-After education comes your research experience, if you have any.
+After education comes your research experience.
 Describe any and all research experience you have, such as internships and projects during your undergrad, most relevant first.
 If you have publications already, add a section for those, with each publication in citable format.
 You can usually find a way to cite your publication when viewing it online; if not, write the title, the authors, the venue, and the year.
 
-After research experience comes the rest of your work experience, if you have any.
+After research experience comes the rest of your work experience.
 Describe jobs you've had and what you did, most relevant first.
 This can include jobs at a university that aren't directly related to research, such as being an assistant for a course.
 
