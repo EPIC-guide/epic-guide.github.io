@@ -33,8 +33,12 @@ and you can even explicitly tell them that you already have strong letters from 
 
 In your email, include:
 - an introduction of who you are to remind them, unless you have worked with them recently
-- a list of the accomplishments that you suggest they can include in the letter,
-  such as the outcome of a project you did with them;
+- a list of the accomplishments that you suggest they can include in the letter:
+  what you did in a project with them, such as collecting data, implementation, and especially design decisions;
+  mentoring you did during a project with them;
+  any awards or funding you received during a project with them;
+  if you TAed a course, what you were responsible for;
+  and any other achievements you'd like mentioned such as mentoring in student associations.
 - your CV and grades transcript, as well as a draft of your statement of purpose if you already have one
 
 Letters of recommendation take time to write, and professors are often busy, so you should start months in advance to give them time, and make them aware of the deadline.
