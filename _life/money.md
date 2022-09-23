@@ -24,7 +24,7 @@ The origins of this system are historically not so clear, but nowadays it’s ba
 
 Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary.
 Here's an example breakdown for a first year monthly PhD salary **as of September 2017** (the amounts will have slightly changed since then):
-This is from a non-November/December months, in those months it would be more due to the 13th salary mentioned above.
+This is from a non-November/December month, in those months it would be more due to the 13th salary mentioned above.
 
 | Gross salary             | 3,930.80 CHF |
 | First pillar (AVS)       | -201.45 CHF  |
