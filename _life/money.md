@@ -66,7 +66,7 @@ Mandatory retirement savings, taken out of the salary, as a global pool for ever
 
 ### Second pillar
 
-Mandatory retirement savings, taken out of the salary, for yourself. Provider is always [Publica](https://publica.ch/) for EPFL employees.
+Mandatory retirement savings, taken out of the salary, for yourself. The provider is always [Publica](https://publica.ch/) for EPFL employees.
 Money is blocked until retirement or "permanently" leaving the country.
 
 ### Third pillar
