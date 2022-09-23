@@ -57,8 +57,8 @@ Their [website](https://globus.ch) is only available in French and German.
 
 ### Specialty stores
 
-- Russian: [Doushka](https://doushka.ch/), Rue Jean-Louis Galliard 02 1004 Lausanne
-- Russian: [Epicerie Villardin](https://epicerie-villardin-chez-aziz.business.site/), Avenue de Villardin 8A, 1009 Pully
+- Slavic: [Doushka](https://doushka.ch/), Rue Jean-Louis Galliard 02 1004 Lausanne
+- Ukrainian and Russian: [Epicerie Villardin](https://epicerie-villardin-chez-aziz.business.site/), Avenue de Villardin 8A, 1009 Pully
 - Asian: [Fleurs d'Asie](https://fleurs-dasie.business.site/), Avenue d'Epenex 1B, 1022 Chavannes-près-Renens
 - Asian: Jehanathan Sàrl, with 2 locations:
   - Avenue de France 2, 1004 Lausanne
@@ -123,12 +123,12 @@ If you want stuff not typically available in Swiss supermarkets, such as food an
 - [Arora Asia Shop](https://arora-asia-shop.ch/) has Southern and Eastern Asian food
 - [Asia Markt](https://www.asia-markt.ch/) has Southern and Eastern Asian food; free delivery over 50chf, but only MasterCard/Visa/PayPal
 - [Clicknpick](https://cnpmarket.ch/) has Southern and Eastern Asian food, and some health/beauty items
-- [Doushka](https://doushka.ch/) has Russian food 
+- [Doushka](https://doushka.ch/) has Ukrainian and Russian food
 - [Hethey](https://hethey.ch/) has African, East Asian, Indian, Mexican, and Latin American items, as well as food including fresh products
 - [La Cucina](https://lacucina.ch/) has loose leaf teas, spices, and related equipment
 - [Looddl](https://looddl.ch/) has Korean food, including fresh and frozen, and some other Eastern Asian food; free delivery over 50chf for non-fresh/frozen and 200chf otherwise
 - [Logam](https://logam.ch/) has Southern and Eastern Asian food, and some health/beauty items
-- [Polish Shop](https://www.polish-shop.ch/en/) has Polish food, including pierogi
+- [Polish Shop](https://www.polish-shop.ch/en/) has Polish food
 
 If you know a good one, please submit a pull request!
 
