@@ -20,8 +20,8 @@ They will be able to give more specific feedback. Feel free to contact the peopl
 
 ## Steps
 
-1. Follow [the EPIC applying to PhD guide](/applying) for statements of purpose and resumes
-2. Find _one or two_ people in the list [below](#volunteers) whose research interest match yours
+1. Follow [the Applying section of the EPIC PhD guide](/applying) for statements of purpose and resumes
+2. Find _one or two_ people in the list [below](#volunteers) or [EDIC Ambassadors](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-ambassadors/) whose research interest match yours
 3. Send them an email introducing yourself and attaching your statement of purpose and resume (we provide a template [below](#email-template))
 
 
