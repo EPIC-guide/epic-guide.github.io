@@ -7,18 +7,15 @@ layout: default
 
 ## Who is this for?
 
-**If you plan to apply to PhD programs in computer science or related
-fields this year, this is for you.** You are especially encouraged to
-participate if there aren't many people who can mentor you and help you craft your
-   application materials. For example, if you do not know anyone who has a
-   PhD in computer science, or anyone familiar with graduate
-   programs/admissions at global universities, or
-   you cannot get feedback from any professors or labs that you have
-   already worked with.
+**If you plan to apply to PhD programs in computer science or related fields this year, this is for you.**
+You are especially encouraged to participate if there aren't many people who can mentor you and help you craft your application materials.
+For example, if you do not know anyone who has a PhD in computer science, or anyone familiar with graduate programs/admissions at global universities,
+or you cannot get feedback from any professors or labs that you have already worked with.
 
 **If you are an EPFL Master's student**:
 Before contacting people below, ask members of the lab(s) you're working with for your semester project/thesis.
 They will be able to give more specific feedback. Feel free to contact the people below if you cannot get feedback from your lab.
+
 
 ## Who is this by?
 
