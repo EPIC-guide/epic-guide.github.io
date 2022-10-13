@@ -5,18 +5,22 @@ layout: default
 
 # Review of Application Materials for PhDs
 
-Do you intend to apply for PhD programs in computer science or related fields this year?
-Do you not already have access to mentorship?
+**If you plan to apply to PhD programs in computer science or related fields this year, this is for you!**
 
-Some PhD students in the Computer & Communication Sciences department at EPFL are volunteering to help review your Statement of Purpose and your resume!
+You are especially encouraged to participate if there aren't many people who can mentor you
+and help you craft your application materials, e.g., if you do not know anyone who has a PhD
+in computer science, or anyone familiar with admissions at global universities, or if there
+is no one available to give you feedback among the professors and labs you have worked with.
 
-_Please understand that this is a service the PhD students provide in their free time, and as such answers may take a few weeks and we may have to pause it_
-_if we get too many requests. We may refuse to help people who mass email our list of volunteers instead of choosing one or two,_
-_or who do not take the time to first follow the guides on this website._
+Some PhD students in the Computer & Communication Sciences department at EPFL are volunteering to help review your applications materials.
 
 **If you are an EPFL student**:
 Before contacting people below, ask members of the lab(s) you're working with for your semester project/thesis.
 They will be able to give more specific feedback. Feel free to contact the people below if you cannot get feedback from your lab.
+
+_Please understand that this is a service the PhD students provide in their free time, and as such answers may take a few weeks and we may have to pause it_
+_if we get too many requests. We may refuse to help people who mass email our list of volunteers instead of choosing one or two,_
+_or who do not take the time to first follow the guides on this website._
 
 ## Steps
 
