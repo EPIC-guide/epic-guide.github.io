@@ -16,11 +16,11 @@ _or who do not take the time to first follow the guides on this website._
 
 **If you are an EPFL student**:
 Before contacting people below, ask members of the lab(s) you're working with for your semester project/thesis.
-They will be able to give more specific feedback. Feel free to contact the people below if you cannot get feedback from your lab, though.
+They will be able to give more specific feedback. Feel free to contact the people below if you cannot get feedback from your lab.
 
 ## Steps
 
-1. Follow [the guide](./applying) for statements of purpose and resumes to the best of your ability
+1. Follow [the EPIC applying to PhD guide](./applying) for statements of purpose and resumes to the best of your ability
 2. Find _one or two_ people in the list below whose research interest match yours
 3. Send them an email introducing yourself and attaching your statement of purpose and resume (we provide a template below)
 
