@@ -31,6 +31,8 @@ _Please pick [at random](https://www.random.org/lists/) to spread the load on ou
 
 <iframe style="width: 100%; height: 600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQ8e0latgFXVknHSV3V0g0F4atgANgCuRXzuzvkShjaNirmHrmKjHokJMXnXiEi4WNfs6S5rCns6z2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+(You can also reach out to the [EDIC Ambassadors](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-ambassadors/))
+
 
 ## Email template
 
