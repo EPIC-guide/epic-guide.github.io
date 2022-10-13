@@ -5,18 +5,35 @@ layout: default
 
 # Review of Application Materials for PhDs
 
-Do you intend to apply for PhD programs in computer science or related fields this year?
-Do you not already have access to mentorship?
+## Who is this for?
 
-Some PhD students in the Computer & Communication Sciences department at EPFL are volunteering to help review your Statement of Purpose and your resume!
+If you plan to apply to PhD programs in computer science or related
+fields this year, this is for you. You are especially encouraged to
+participate if _any_ of the following apply to you:
+ * There aren't many people who can mentor you and help you craft your
+   application materials; e.g., if you do not know anyone who has a
+   PhD in computer science, or anyone familiar with graduate
+   programs/admissions at global universities.
+ * You identify with a gender, ethnicity, nationality, etc. that is
+   underrepresented in computer science.
+ * You cannot get feedback from any professors or labs that you have
+   already worked with.
 
-_Please understand that this is a service the PhD students provide in their free time, and as such answers may take a few weeks and we may have to pause it_
-_if we get too many requests. We may refuse to help people who mass email our list of volunteers instead of choosing one or two,_
-_or who do not take the time to first follow the guides on this website._
-
-**If you are an EPFL student**:
+**If you are an EPFL Master's student**:
 Before contacting people below, ask members of the lab(s) you're working with for your semester project/thesis.
 They will be able to give more specific feedback. Feel free to contact the people below if you cannot get feedback from your lab.
+
+## Who is this by?
+
+Some PhD students in the Computer & Communication Sciences department
+at EPFL are volunteering to help review your application materials.
+
+Please understand that this is a service that the PhD students are providing
+in their free time, so it may take a few weeks to get a response, and we may
+have to pause the program if we get too many requests. We may refuse to help
+people who mass email our list of volunteers instead of choosing one or two,
+or who do not take the time to first follow the guides on this website.
+
 
 ## Steps
 
