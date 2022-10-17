@@ -14,7 +14,7 @@ or you cannot get feedback from any professors or labs that you have already wor
 
 **If you are an EPFL Master's student**:
 Before contacting people below, ask members of the lab(s) you're working with for your semester project/thesis.
-They will be able to give more specific feedback. Feel free to contact the people below if you cannot get feedback from your lab.
+They will be able to give the most relevant feedback. If you cannot get feedback from your lab, you are encouraged to contact the people below.
 
 
 ## Who is this by?
