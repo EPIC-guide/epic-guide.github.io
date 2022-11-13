@@ -63,6 +63,10 @@ Their [website](https://globus.ch) is only available in French and German.
 - Asian: Jehanathan Sàrl, with 2 locations:
   - Avenue de France 2, 1004 Lausanne
   - Avenue de la Rapille 12, 1008 Prilly
+- South American / Spanish / other: [Aux Spécialités de la Palud](https://mixfood.party/magasin/) Pl. de la Palud 9, 1003 Lausanne. It is hard to describe their exact speciality, but they sell imported cured meats and cheeses as well as pantry staples, e.g. Spanish chorizo and Mexican canned chipotle in adobo. 
+- Chinese/Korean: Mika Alimentation Asiatique Rue du Flon 8, 1003 Lausanne
+- Japanese: [uchitomi](https://uchitomi.ch/) Rue Grand-Saint-Jean 4, 1003 Lausanne
+- Indian: [Marché de Tivoli](https://goo.gl/maps/yLiUBvhTmaDnwxHW9) Av. de Tivoli 8, 1007 Lausanne
 
 If you know a good one, please submit a pull request!
 
