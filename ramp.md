@@ -3,7 +3,7 @@ title: Review of Application Materials
 layout: default
 ---
 
-# Review of Application Materials for PhDs
+# Review of Application Materials (RAMP) for PhDs
 
 ## Who is this for?
 
@@ -20,7 +20,9 @@ They will be able to give the most relevant feedback. If you cannot get feedback
 ## Who is this by?
 
 Some PhD students in the Computer & Communication Sciences department
-at EPFL are volunteering to help review your application materials.
+at EPFL are volunteering to help review your application materials. This 
+initiative is called EPIC RAMP, and has started its inaugural iteration 
+for the 2022 application cycle.
 
 Please understand that this is a service that the PhD students are providing
 in their free time, so it may take a few weeks to get a response, and we may
