@@ -40,7 +40,7 @@ or who do not take the time to first follow the guides on this website.
 
 ## Volunteers
 
-_Please pick [at random](https://www.random.org/lists/) to spread the load on our volunteers._
+_Please pick [at random](https://www.random.org/lists/) from within your area to spread the load on our volunteers._
 
 <iframe style="width: 100%; height: 600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQ8e0latgFXVknHSV3V0g0F4atgANgCuRXzuzvkShjaNirmHrmKjHokJMXnXiEi4WNfs6S5rCns6z2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
