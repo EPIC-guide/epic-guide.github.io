@@ -126,7 +126,6 @@ If you want stuff not typically available in Swiss supermarkets, such as food an
 
 - [Arora Asia Shop](https://arora-asia-shop.ch/) has Southern and Eastern Asian food
 - [Asia Markt](https://www.asia-markt.ch/) has Southern and Eastern Asian food; free delivery over 50chf, but only MasterCard/Visa/PayPal
-- [Clicknpick](https://cnpmarket.ch/) has Southern and Eastern Asian food, and some health/beauty items
 - [Doushka](https://doushka.ch/) has Ukrainian and Russian food
 - [Hethey](https://hethey.ch/) has African, East Asian, Indian, Mexican, and Latin American items, as well as food including fresh products
 - [La Cucina](https://lacucina.ch/) has loose leaf teas, spices, and related equipment
