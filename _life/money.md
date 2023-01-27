@@ -14,7 +14,7 @@ It provides your payment slips, including those necessary for taxes, the reimbur
 
 ## Pay
 
-The pay for PhD students is set at the federal level. As of 2021, it is 52,400 CHF/year for the first year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years.
+The pay for PhD students is set at the federal level. As of 2023, it is 54,000 CHF/year for the first year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years.
 ([source](https://inside.epfl.ch/internalhr/fr/prestationsrh/salaires/forfaits/))
 
 There is one slightly unusual factor to take into account: the 13th salary.
@@ -23,15 +23,15 @@ with the last 1/13th being given to you partly in November and partly in Decembe
 The origins of this system are historically not so clear, but nowadays it’s basically a way for you to pay for Christmas presents and such.
 
 Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary.
-Here's an example breakdown for a first year monthly PhD salary **as of September 2017** (the amounts will have slightly changed since then):
+Here's an example breakdown for a first year monthly PhD salary **as of January 2023** (the amounts may have slightly changed since then):
 This is from a non-November/December month, in those months it would be more due to the 13th salary mentioned above.
 
-| Gross salary             | 3,930.80 CHF |
-| First pillar (AVS)       | -201.45 CHF  |
-| Various other deductions | -88.15 CHF   |
-| Second pillar (Publica)  | -137.10 CHF  |
-| Income tax               | -279.50 CHF  |
-| **Net income**           | **3,224.60 CHF** |
+| Gross salary             | 4194.65 CHF |
+| First pillar (AVS)       | -222.30 CHF  |
+| Various other deductions | -83.75 CHF   |
+| Second pillar (Publica)  | -152.70 CHF  |
+| Income tax               | -251.25 CHF  |
+| **Net income**           | **3484.65 CHF** |
 
 
 ## Banks
@@ -46,12 +46,12 @@ While it is possible to make a direct bank transfer from anywhere to Switzerland
 A cheaper way is to use a service such as [Wise](https://wise.com/) (formerly Transferwise), where fees are small and known upfront.
 Wise and Revolut both offer payment cards that can be used in any country and for online shopping with cheap / free currency conversion.
 
-Switzerland as a whole is in the process of moving away from Maestro for debit cards and towards Debit MasterCard/Visa, but until that is finished (2022?)
-depending on your bank you may need to get a credit card just so you can do online shopping, without actually using the credit part. Generally, it’s possible to pay for almost everything by card (cashless).
+You can get a credit card if you want, which may be beneficial if you get some form of rewards from buying things with it, but your Debit MasterCard/Visa from your bank is enough to pay anywhere in Switzerland,
+abroad, and online. You do not need a credit card, and Switzerland is not a place where being in debt is common; people typically pay their credit cards monthly and treat them more like debit cards.
 
 You can pay most if not all recurring bills, such as insurance or phone, with the "e-Bill" system. In your bank's online portal, go to the e-Bill section and look up your service providers to register.
 
-Do not expect any yields from non-investment bank accounts, even the savings ones, due to negative interest rates on CHF.
+Do not expect good yields from non-investment bank accounts, even the savings ones, due to negative interest rates on CHF.
 
 While you technically can cash checks, banks will charge large fees for doing so, as virtually no one in Switzerland uses checks any more.
 
