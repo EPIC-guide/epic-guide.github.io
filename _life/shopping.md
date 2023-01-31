@@ -129,7 +129,7 @@ If you want stuff not typically available in Swiss supermarkets, such as food an
 - [Doushka](https://doushka.ch/) has Ukrainian and Russian food
 - [Hethey](https://hethey.ch/) has African, East Asian, Indian, Mexican, and Latin American items, as well as food including fresh products
 - [La Cucina](https://lacucina.ch/) has loose leaf teas, spices, and related equipment
-- [Looddl](https://looddl.ch/) has Korean food, including fresh and frozen, and some other Eastern Asian food; free delivery over 50chf for non-fresh/frozen and 200chf otherwise
+- [Looddl](https://looddl.ch/) has Korean food, including fresh and frozen, and some other Asian food
 - [Logam](https://logam.ch/) has Southern and Eastern Asian food, and some health/beauty items
 - [Polish Shop](https://www.polish-shop.ch/en/) has Polish food
 
