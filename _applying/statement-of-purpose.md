@@ -44,6 +44,7 @@ The rest of your statement should convince the reader that you are motivated, co
 
 Describe your motivation: a specific challenge you want to tackle, a set of ideas you'd like to explore, the general area you want to dive deep in, and the reason why you are interested in these.
 Keep it focused enough that readers can see you as a good match, but not so focused that readers think they do not have the expertise to supervise you.
+Avoid looking like a "jack of all trades" by suggesting an overly broad range of subjects, since you cannot possibly have expertise in every topic.
 It is a good idea to use broad questions such as "How does a packet reach a server from my computer?" as a first question that you then refine into a specific interest.
 Mention specific pieces of work you find particularly inspiring, and explain why.
 

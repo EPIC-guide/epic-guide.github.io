@@ -16,6 +16,7 @@ Giving a reference's personal email may jeopardize your application since reader
 Unfortunately, academic expectations for letters of recommendation in top universities often do not match what many people think of as a letter of recommendation.
 For instance, a letter writer may genuinely believe they are writing a very strong letter, yet their letter could be perceived as weak by academic readers.
 You should suggest that your letter writers read the "Writing a letter" part of this page below, to help them help you.
+_Regardless of what your references think is a good way to write a letter, the guide below is what schools such as EPFL actually want, and not following it will penalize your application._
 
 
 ## Asking for letters
@@ -25,6 +26,7 @@ See the "Writing a letter" part below for examples of what letter writers are ex
 In practice, most people have not done research with 3 advisors before starting a PhD.
 It's acceptable to have one or even two letters from people who merely taught a course you got a good grade in,
 or people who worked with you at an industry job.
+If you mention anyone specific as a past collaborator in your statement of purpose or resume, you should get a letter from them, or explain why you cannot.
 
 You should email people who you would like a reference from by asking them whether they can write "a strong letter of recommendation",
 which is wording that allows them to easily say no rather than write a weak letter that could doom your application.
@@ -47,23 +49,28 @@ Remind them one month before the deadline, then two weeks, and more as the deadl
 One way to help your references keep track of what they have to do is to create an online spreadsheet with rows for references and columns for the places you need a letter for.
 You can then share this sheet with your references and ask them to put an 'X' in the corresponding cell when they're done, which lets you track who did what and who needs reminding.
 
+_Always_ use an institutional email address for your references in the application form, such as a university email.
+If you use a private email such as `@gmail.com`, your application may be desk-rejected as nobody knows if the person uploading the letter is really the person you named as reference.
+
 
 ## Writing a letter
 
-Someone asked you for a letter of recommendation, and you want to help that person by maximizing the impact your letter has? Great!
+Someone asked you for a letter of recommendation, and you want to help that person by following the expectations of schools like EPFL?
+Great!
 
 Recommendation letters should provide useful and detailed information about the candidate, backed up with evidence.
 A short letter, especially one filled with platitudes such as "X is an enthusiastic and quick learner, and I enjoyed working with them, they would be a great fit for your program", is useless.
 It's typically better to reject a request than to write a letter that cannot support the candidate.
-
 Assessing a candidate's skills requires honesty, and presenting a candidate's weaknesses requires tact.
 Lying is never a good idea. If someone is found to have lied, for instance after a committee meets the candidate in person,
 or after people read different letters written over the years that contradict each other, nobody will believe the writer's future letters.
 
 Letters typically start by presenting the candidate and explaining how and how well the writer knows the candidate,
 with an immediate summary of the recommendation, including the specific position the letter is recommending for.
-Readers will wonder if the writer would themselves make an offer to the candidate, so it is helpful to explicitly state that you will do so, or explain why you cannot,
+
+Readers will wonder if the writer would themselves make an offer to the candidate, so you _must_ either explicitly state that you will do so, or explain why you cannot,
 which could be due to funding, a decision by the candidate to change locations, or plenty of other good reasons.
+Not stating anything will be interpreted as a negative: why are you recommending someone you wouldn't hire yourself?
 
 A summary of the writer's qualifications helps the reader understand where the writer is coming from.
 For instance, if the writer has a degree from an institution comparable to where the candidate is applying to, and works in a field close to what the candidate wants to do,

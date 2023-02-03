@@ -2,7 +2,7 @@
 layout: post
 title: "Questions for advisors"
 category: applying
-order: 5
+order: 6
 ---
 
 There are plenty of aspects to a PhD that aren't obvious to outsiders.
