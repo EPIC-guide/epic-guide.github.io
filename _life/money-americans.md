@@ -43,11 +43,11 @@ moving to EPFL. "I", "me", etc. refer to Shardul._
 ## Who is financially a “US person”?
 
 The exact answer depends on which agency and regulation you're asking about. But
-generally, all US citizens irrespective of residence are US persons; anyone residing
-in the US for any part of the previous financial year, irrespective of nationality,
-is a US person; anyone who would for other reasons be considered a US tax resident,
-such as lawful permanent residents (a.k.a. green card holders (who hold the status of
-a lawful permanent resident even if they are not physically residing in the US)) or
+generally, all US citizens irrespective of residence are US persons; anyone who the
+IRS considers a resident in a given year due to substantial physical presence in the
+US (that phrase has a technical meaning) is a US person; anyone who, even if not
+physically present in the US, would for other reasons be considered a US tax
+resident, such as lawful permanent residents (a.k.a. green card holders) or
 the spouses of US tax residents under certain conditions, is a US person; and some
 other people are US persons for reasons that I've given up on trying to precisely
 understand, such as connections to US territories.
