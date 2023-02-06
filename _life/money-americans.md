@@ -369,7 +369,7 @@ boy can things get complicated real fast._
    [FATCA](https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca),
    and
    [Totalization agreements](https://www.irs.gov/individuals/international-taxpayers/totalization-agreements).
-   
+
  * [Taxes and finances](https://www.ch.ch/en/taxes-and-finances/)
    on ch.ch, the official "citizens' portal" of the Swiss Confederation, cantons, and
    communes
@@ -412,23 +412,22 @@ boy can things get complicated real fast._
 | SSN/TIN | Social Security Number / Taxpayer Identification Number |
 | TOU     | Taxation Ordinaire Ultérieure                           |
 
-<br>
+---
 
 [^1]: But if you ask anyone about it, they'll say, "No, we use credit cards all the
       time! I hardly carry cash these days." But they would be confusing credit cards
       with _debit cards_, which are radically different, which just goes to show how
       deep the non-credit card culture is.
 
-[^2]: It is only the case for someone moving in from a different canton within
-      Switzerland.
+[^2]: It is only the case for someone moving in from a different canton within Switzerland.
 
 [^3]: Or rather, Starbucks' bank pays Visa a variable portion of each incoming
       payment from Visa in Starbucks' name, depending on several factors. Starbucks pays
       its bank a relatively simpler fee.
-	   
+
 [^4]: Through the issuer, Wells Fargo, of course, whose rewards program also makes Wells
-	  Fargo some money. Cashback is also funded by interest on balances, late payment
-	  fees, annual fees, advertizing revenue, etc.
+      Fargo some money. Cashback is also funded by interest on balances, late payment
+      fees, annual fees, advertizing revenue, etc.
 
 [^5]: Why do they offer cashback? Because it incentivizes you to buy more, making
       them more money, and proving the point they pitched to Starbucks in the
