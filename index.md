@@ -14,9 +14,11 @@ For the guide to grow and stay current over time, we need **you** to contribute!
 
 ## Contributors
 
-- **EPIC Committee** (2020 - 2021): Vinitra Swamy, Paola Domenzain, Siang-Yun (Sonia) Lee, Jade Cock, Evann Courdier, Uday Kusupati, Elsa Rizk, Viktor Sanca
-- **IC Student Representatives** (2020 - 2021): Sandra Siby, Ehsan Mohammadpour
-- **EPIC Guide Chair** (2021 - 2022): Solal Pirelli
-- **Talented PhD Volunteers**: Michalina Pacholska, Merlin Nimier-David, Arnout Devos, Theresa Stadler, Shailesh Mishra, Shardul Chiplunkar
+This guide was written by the [EPIC](https://www.epfl.ch/campus/associations/list/epic/) committee, student representatives, and other talented volunteers.
+
+The current maintainer of this guide is Solal Pirelli.
+
+Thanks to Vinitra Swamy, Paola Domenzain, Siang-Yun (Sonia) Lee, Jade Cock, Evann Courdier, Uday Kusupati, Elsa Rizk, Viktor Sanca, Sandra Siby, Ehsan Mohammadpour,
+Solal Pirelli, Michalina Pacholska, Merlin Nimier-David, Arnout Devos, Theresa Stadler, Shailesh Mishra, and Shardul Chiplunkar for their contributions.
 
 This guide was partly inspired by the PolyDoc association's [My PhD Life guide](https://www.epfl.ch/campus/associations/list/polydoc/my-phd-life/).
