@@ -16,22 +16,29 @@ are anything beyond dead simple, consult a professional financial advisor well-v
 in US/Swiss international personal finances, because boy can things get complicated
 real fast._
 
+_Most of this page was written in 2023 by Shardul Chiplunkar, an American with
+American bank, credit card, and investment accounts, and a Swiss bank account after
+moving to EPFL. "I", "me", etc. refer to Shardul._
+
 #### Table of contents
 
 -   [Who is financially a “US person”?](#who-is-financially-a-us-person)
--   [Banking](#banking)
-    -   [History](#history)
-    -   [The present day](#the-present-day)
--   [Credit cards](#credit-cards)
--   [Investing in Switzerland](#investing-in-switzerland)
-    -   [Pillar 3a retirement savings](#pillar-3a-retirement-savings)
-    -   [Pillar 2](#pillar-2)
--   [Taxes](#taxes)
-    -   [US federal taxes](#us-federal-taxes)
-    -   [US state taxes](#us-state-taxes)
-    -   [Swiss taxes](#swiss-taxes)
--   [Sources and further reading](#sources-and-further-reading)
--   [Glossary of abbreviations](#glossary-of-abbreviations)
+-   [The TL;DR: practical information](#the-tldr-practical-information)
+    -   [Banking](#banking)
+    -   [Credit cards](#credit-cards)
+    -   [Investing in Switzerland](#investing-in-switzerland)
+        -   [Pillar 3a retirement savings](#pillar-3a-retirement-savings)
+    -   [Taxes](#taxes)
+        -   [US federal taxes](#us-federal-taxes)
+        -   [US state taxes](#us-state-taxes)
+		-   [US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
+        -   [Swiss taxes](#swiss-taxes)
+-   [The full context](#the-full-context)
+    -   [Banking](#banking-1)
+    -   [Credit cards](#credit-cards-1)
+    -   [Investing in Switzerland](#investing-in-switzerland-1)
+    -   [Sources and further reading](#sources-and-further-reading)
+    -   [Glossary of abbreviations](#glossary-of-abbreviations)
 
 ## Who is financially a “US person”?
 
@@ -50,43 +57,24 @@ in the middle of a financial year, which makes you a US person for at least that
 year. If you're a US citizen or green card holder, you will be a US person in the
 following years too.
 
+The second common case: you are a US person in the past financial year because you
+did an internship in the US, but you have no other ties to the US. In that case, only
+[§&nbsp;US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
+is relevant to you.
+
+
+# The TL;DR: practical information
+
 ## Banking
 
-### History
-
-The US passed the Foreign Account Tax Compliance Act (FATCA) in 2010 to try to reduce
-tax evasion and money laundering by Americans holding foreign financial accounts. One
-important aspect of FATCA is that it requires foreign financial institutions (FFIs)
-to report to the US Internal Revenue Service (IRS) certain information about accounts
-and assets held by US persons, or face a 30% withholding tax on all US-sourced
-payments of income. This was basically the IRS strong-arming FFIs into collecting
-taxpayer identification information from American account holders and complying with
-the IRS' reporting requirements. Most FFIs complied rather than risk losing American
-business. Not so with the Swiss.
-
-Swiss banking secrecy laws made it downright _illegal_ for banks to share the sort of
-information about their banking relationships that the IRS was asking them to
-share. And beyond the law, FATCA was antithetical to the Swiss culture of privacy,
-and many in Switzerland did not see why they should compromise their values in
-deference to the IRS, especially when the banking establishment in Switzerland is
-centuries older than even the concept of the United States of America.
-
-So the gut instinct of some Swiss banks was simply to terminate American accounts and
-not open any new ones because they didn't think the regulatory hassle was worth
-it. Many Americans were, understandably, very upset by this. This is the time period
-and incident that sets off alarms in the collective memory of the Swiss when you
-speak of Americans and banking.
-
-### The present day
-
-Thankfully, that era of turmoil has passed, and many Swiss FFIs have done the
-required registration with the IRS, and are taking American clients with some extra
-paperwork. They differ in how much complexity they are willing to handle and able to
-give you good advice about (e.g., tax obligations on shares of EU companies held in
-your Swiss brokerage account). For banking in particular (as opposed to other
-financial services that I don't know much about), the large, international banks,
-like UBS and Credit Suisse, are generally better at this than the smaller, local
-ones.
+Although there was some turmoil with American accounts at Swiss financial
+institutions in the previous decade, many institutions are now taking American
+clients with some extra paperwork. They differ in how much complexity they are
+willing to handle and able to give you good advice about (e.g., tax obligations on
+shares of EU companies held in your Swiss brokerage account). For banking in
+particular (as opposed to other financial services that I don't know much about), the
+large, international banks, like UBS and Credit Suisse, are generally better at this
+than the smaller, local ones.
 
 _Personal note from Shardul:_ I personally have had a good experience with UBS. I had
 to make an appointment with presumably their 'special' banker at their main branch in
@@ -97,64 +85,28 @@ for many US accounts, and has the sole purpose of collecting your SSN/TIN) and a
 waiver of my privacy rights so that they can share information about my accounts with
 the IRS. The banker actually apologized for it.
 
-
 ## Credit cards
 
-America runs on <s>Dunkin'</s> debt. In a sense, all economies have always run on
-debt, but it's very visible in America: you have to take a student loan to go to
-college, your societal standing is determined by your credit score, Congress has to
-keep increasing the federal debt limit, the Fed sets an interest rate on inter-bank
-loans that wreaks havoc wit global monetary policy, &hellip; and of course, everyone
-pays for everything by credit card.
-
-A brief technical digression about credit cards follows but I promise it's worth
-it. Credit cards involve four transacting parties: the consumer (e.g.&nbsp;you), the
-issuer (e.g.&nbsp;Wells Fargo), the network (e.g.&nbsp;Visa), and the vendor
-(e.g.&nbsp;Starbucks). Visa convinces Starbucks to accept Visa cards because it will
-make it more convenient for you to buy coffee from Starbucks and hence more coffee
-will be bought. Visa also promises Starbucks that they will receive payments on a
-short timescale, even if you actually pay off your credit card bills on a long
-timescale or not at all. For these reasons, Starbucks pays[^1] Visa a portion of all
-sales made with Visa cards. This is called the _interchange fee_. Visa uses the
-proceeds from interchange fees to pay[^2] you _cashback_ and other rewards.[^3]
-
-Visa and Wells Fargo make a lot of money when you pay Starbucks with a Visa card, and
-even more money when you don't pay Wells Fargo the full balance back right away.
-Which is why it seems like everyone is hopping on one foot to sell you a credit card
-in the US, with offers like "3% cashback on all groceries" or "$200 cashback if you
-spend $1,000 in the first 3 months". Because credit cards are so ubiquitous, Starbucks
-sets their prices to account for the interchange fees they will have to pay for the
-predictable portion of transactions that will happen via credit card. Thus it is
-sound financial advice in the US to get and use a credit card because if you don't
-then you are just paying for cashback for those who do.[^4]
-
-So what about Europe? (Including Switzerland for this paragraph.) Well, EU financial
-regulators capped the interchange fee at 0.3% in 2015, citing a variety of reasons:
-the Single Market philosophy, leveling the playing field for innovation, fairness for
-retailers, the fact that rewards move money from the poor to the rich, etc. (not all
-of which I agree with). Compare that to US interchange fees which are typically in
-the 1&ndash;3% range. Consequently, credit card rewards programs are meager in
-Europe, and cashback if it exists is no more than 0.3% for cards without an annual
-fee. You will notice an accompanying striking lack of credit card marketing and much
-lower usage of credit cards.[^5]
-
-In short, getting a credit card in Switzerland is hardly worth the effort&mdash;if
-they are even willing to give you one. The basic, no-fee card that UBS offers to
-existing customers is granted if the customer either:
+Due to various financial regulations, credit cards in Switzerland (and the EU) do not
+offer users much in the way of rewards or cashback like American credit cards do, and
+you will consequently notice much less marketing and usage of credit cards.[^1]
+Getting a credit card in Switzerland is hardly worth the effort&mdash;if they are
+even willing to give you one. The basic, no-fee, 0.2% cashback card that UBS offers
+to existing customers is granted if the customer either:
 
  * demonstrates an employment contact valid for at least two years, which an EPFL PhD
    student cannot do, because our contracts are renewed yearly; or
  * makes a 'locked' deposit equal to the credit limit on the card that can be
    withdrawn only when the card is closed. (What's the point, then?)
-   
+
 However, if you have a US-issued credit card with no foreign transaction fees but
 good rewards and some amount of liquid money in the US that you want to transfer to
 Switzerland anyway, then it's a great idea to use that card (and pay it off with said
 liquid money) for everyday purchases in Switzerland. You're essentially earning
 US-level cashback on the USD-CHF transfer which you would otherwise have to pay a
 financial institution for, and credit cards usually have better exchange rates than
-banks. But the card issuer and network aren't making much money from interchange and
-nor can they sell you as an advertizing target to American retailers. So you're
+banks. But the card issuer and network aren't making much money from fees nor
+advertizing revenue off of you. So you're
 eating into the profits of Big Banking! Go you! At least until they close your card
 because they notice you've permanently moved out of the country.
 
@@ -164,51 +116,18 @@ on travel, dining, and streaming subscriptions, plus $200 if you spend $1,000 in
 first 3 months, which I did by booking my tickets to Switzerland and buying a bike
 after I got here. They haven't closed it yet!
 
-
 ## Investing in Switzerland
 
-Short answer: don't. Invest in the US instead.
+_(This section applies only to US citizens and tax residents.)_
 
-Long answer: still don't. The main reason is that if you do, you will enter tax hell,
-both in the sense that you will be taxed at a very high rate on investment returns,
-and that your tax returns will become very complicated. This is due to laws about
-ownership interest in foreign companies and Passive Foreign Investment Companies
-(PFICs) which to understand you _really_ need a professional tax advisor.
-
-You could _maybe_ try to get around this by only investing in US companies but then
-why not just invest from a US brokerage account instead? (If you don't have one,
-you'll have to open one before you leave, and leaving afterwards is no problem.) If
-you want to invest in the European market, you could buy shares (in USD) of ETFs
-composed of European companies, so that the broker handles the complicated foreign
-investment taxation while you technically only own shares of US ETFs. You could even
-think of these shares as being priced in CHF (the currency you originally converted
-from) so that their effective value, for you, doesn't depend on the exchange
-rate. Needless to say, this is all very speculative and shaky advice, even more so
-than anything else on this page, and don't blame me if you lose money.
+Don't. Invest in the US instead. See [§&nbsp;Swiss taxes](#swiss-taxes) for how to
+report your investments. Note that you ordinarily have to be in the US to open a US
+investment account but then leaving afterwards is no problem.
 
 ### Pillar 3a retirement savings
 
-Short answer: don't. Invest in an IRA in the US instead.
-
-Long answer: still don't. The standard advice for people living and working in
-Switzerland is to contribute to Pillar&nbsp;3a retirement savings, because they grow
-in value as they are invested in the market and the returns are taxed at a
-preferential rate, much like IRAs in the US. But these are foreign investments, and
-as discussed above, US persons should stay away from foreign investments. If anyone
-starts to try selling you a Pillar&nbsp;3a plan, tell them you're American, and they
-will immediately leave you alone.
-
-### Pillar 2
-
-For US tax purposes, your contributions to Swiss Pillar&nbsp;2 are not deductible
-from your income, because the US does not recognize this as anything other than
-ownership interest in a foreign fund. In fact, your employer's contributions to
-Pillar&nbsp;2 are considered part of your wages and should be reported as such. The
-eventual distribution from Pillar&nbsp;2 will be tax-exempt in the US when it is
-taxed in Switzerland if I am reading the US-Swiss tax treaty correctly (see
-below). You need to report the total value of your Pillar&nbsp;2 with your foreign
-assets (also see below).
-
+Don't. Invest in an IRA in the US instead. Pillar&nbsp;3a (and Pillar&nbsp;2) has
+interactions with both US and Swiss taxes, so see [§&nbsp;Taxes](#taxes) for more.
 
 ## Taxes
 
@@ -233,22 +152,30 @@ obligations in several ways:
    which types of income at which rates is best left to a professional.
  * Due to US-Swiss totalization agreements, typically you are only obligated to
    contribute to social security in one of the two countries. Swiss Pillar&nbsp;1 is
-   seen as equivalent to Social Security, and Swiss Pillar&nbsp;2 is roughly
-   equivalent to a 401(k), albeit mandatory in Switzerland (and see
-   [§&nbsp;Pillar&nbsp;2](#pillar-2)).
-   
+   seen as equivalent to Social Security, but Swiss Pillar&nbsp;2 has no privileged
+   status. See [§&nbsp;Pillar 2](#pillar-2) below.
+
 The US imposes two additional reporting requirements for foreign assets. One comes
-from FATCA (mentioned earlier in [§&nbsp;Banking](#banking)) and is called
-Form&nbsp;8938. If you are living in Switzerland on a PhD student's salary then you
-will probably be below the minimum amount of assets that would require you to file
-this, but it is worth checking anyway. The other comes from FinCEN (the Financial
-Crimes Enforcement Network&mdash;a rather scary name) and is called the FBAR. There
-is a good chance you will have to file this one. Penalties for not filing these when
-you are required to, or providing incorrect information, are quite severe, especially
-from FinCEN. (I imagine their agents must be chasing mafiosi during the week, and
-relaxing on the weekends by investigating PhD students abroad&hellip;) Luckily, the
-official IRS documentation for these requirements is helpful and not too difficult to
-follow.
+from the IRS and is called Form&nbsp;8938. If you are living in Switzerland on a PhD
+student's salary then you will probably be below the minimum amount of assets that
+would require you to file this, but it is worth checking anyway. The other comes from
+FinCEN (the Financial Crimes Enforcement Network&mdash;a rather scary name) and is
+called the FBAR. There is a good chance you will have to file this one. Penalties for
+not filing these when you are required to, or providing incorrect information, are
+quite severe, especially from FinCEN. (I imagine their agents must be chasing mafiosi
+during the week, and relaxing on the weekends by investigating PhD students abroad…)
+Luckily, the official IRS documentation for these requirements is helpful and not too
+difficult to follow.
+
+#### Pillar 2
+
+For US tax purposes, your contributions to Swiss Pillar&nbsp;2 are not deductible
+from your income, because the US does not recognize this as anything other than
+ownership interest in a foreign fund. In fact, your employer's contributions to
+Pillar&nbsp;2 are considered part of your wages and should be reported as such. The
+eventual distribution from Pillar&nbsp;2 will be tax-exempt in the US when it is
+taxed in Switzerland if I am reading the US-Swiss tax treaty correctly. You need to
+report the total value of your Pillar&nbsp;2 with your foreign assets.
 
 ### US state taxes
 
@@ -256,6 +183,27 @@ Don't forget to file a part-year resident state tax return for the year in which
 leave the US. State taxes are typically friendlier than federal taxes and will only
 tax your income sourced from that state, but may not necessarily honor federal tax
 treaties and totalization agreements, if the situation ever arises.
+
+### US taxes for nonresident aliens
+
+If you are not a US citizen ("alien") and not a US tax resident ("nonresident", which
+does not mean the same thing as in plain English), the following is true:
+
+ * You have to file US federal and state tax returns for only that year. The federal
+   return form will likely be 1040-NR.
+ * You will end up paying some US federal and state income tax. You will probably get
+   a refund out of the taxes originally deducted at source.
+ * You will not pay Swiss income tax on the same income, but it will count towards
+   determining your tax rate. It should be reported under "_Revenus d’activités
+   lucratives et rentes imposables dans un autre État_" ("Income from gainful
+   activities and pensions taxable in another state").
+ * You are not exempt from Social Security contributions if you were on an H1-B visa,
+   but you are exempt / should be able to get them back if you were on an F-1 or J-1
+   visa. Ideally they should not have been deducted to begin with.
+ * The foreign asset reporting requirements described above don't apply to you.
+
+If you are being considered a US tax resident but are on a student visa and want to
+claim you are a nonresident, file Form&nbsp;8843.
 
 ### Swiss taxes
 
@@ -265,7 +213,7 @@ than what you would have to pay if you filled out the _Taxation ordinaire ultér
 (TOU) form, so requesting a TOU if you don't have to is not worth it. In the year
 that you move to Switzerland and hence have Swiss income for only part of the year,
 you may think that your total income falls below the minimum for taxation and you
-could get a tax refund by filing a TOU. This is not the case.[^7] Tax rates for
+could get a tax refund by filing a TOU. This is not the case.[^2] Tax rates for
 "periodic" income are calculated by scaling the income up to the full year. Plus,
 even if you could get a tax refund in the first year, a TOU election cannot be
 undone, and you will end up paying more tax in following years as mentioned before.
@@ -281,9 +229,9 @@ three relevant annexes to the standard tax return:
     investments, of course, which you shouldn't.)
 
  1. Annex DA-1, _Demande d’imputation d’impôts étrangers prélevés à la source pour
-    dividendes et intérêts étrangers échus en 2022_, or Request for imputation of
+    dividendes et intérêts étrangers échus en 20XX_, or Request for imputation of
     foreign taxes already levied at the source on foreign dividends and interest
-    issued in 2022. Here I believe you can report any US taxes withheld on your
+    issued in 20XX (replace with actual year). Here I believe you can report any US taxes withheld on your
     investments in the US. If the tax administration accepts this, then they will
     refund you that amount from the Swiss taxes you paid/will pay on the same income
     to avoid double taxation. The income will still count towards your total income
@@ -296,7 +244,7 @@ three relevant annexes to the standard tax return:
 	but I can't be sure about the legal answer.
 
  1. Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d’impôt
-    USA 2022_, or Request for refund of US supplemental withholding tax 2022. This is
+    USA 20XX_, or Request for refund of US supplemental withholding tax 20XX (replace with actual year). This is
     where it gets tricky. I believe this is for US investments made through _Swiss_
     brokers, who automatically withhold some tax as a compliance measure (maybe
     something about FATCA and the vagaries of the US-Swiss tax treaties?), so that
@@ -304,9 +252,107 @@ three relevant annexes to the standard tax return:
     investments made in the US.
 
 Lastly, two points worth clarifying. One, that the Canton of Vaud's tax return filing
-deadline is March&nbsp;15, a month before your US federal tax return is due. Two,
-that the cantons collect the federal, cantonal, and communal taxes in Switzerland, so
-you only have to file one return. Good luck!
+deadline is March&nbsp;15, a month before your US federal tax return is due, although
+Vaud is known to unofficially grant automatic extensions until June. Two, that the
+cantons collect the federal, cantonal, and communal taxes in Switzerland, so you only
+have to file one return. Good luck!
+
+
+# The full context
+
+## Banking
+
+The US passed the Foreign Account Tax Compliance Act (FATCA) in 2010 to try to reduce
+tax evasion and money laundering by Americans holding foreign financial accounts. One
+important aspect of FATCA is that it requires foreign financial institutions (FFIs)
+to report to the US Internal Revenue Service (IRS) certain information about accounts
+and assets held by US persons, or face a 30% withholding tax on all US-sourced
+payments of income. This was basically the IRS strong-arming FFIs into collecting
+taxpayer identification information from American account holders and complying with
+the IRS' reporting requirements. Most FFIs complied rather than risk losing American
+business. Not so with the Swiss.
+
+Swiss banking secrecy laws made it downright _illegal_ for banks to share the sort of
+information about their banking relationships that the IRS was asking them to
+share. And beyond the law, FATCA was antithetical to the Swiss culture of privacy,
+and many in Switzerland did not see why they should compromise their values in
+deference to the IRS, especially when the banking establishment in Switzerland is
+centuries older than even the concept of the United States of America.
+
+So the gut instinct of some Swiss banks was simply to terminate American accounts and
+not open any new ones because they didn't think the regulatory hassle was worth
+it. Many Americans were, understandably, very upset by this. This is the time period
+and incident that sets off alarms in the collective memory of the Swiss when you
+speak of Americans and banking.Thankfully, that era of turmoil has passed, and many
+Swiss FFIs have done the required registration with the IRS, and are taking American
+clients with some extra paperwork.
+
+## Credit cards
+
+America runs on ~~Dunkin'~~ debt. In a sense, all economies have always run on
+debt, but it's very visible in America: you have to take a student loan to go to
+college, your societal standing is determined by your credit score, Congress has to
+keep increasing the federal debt limit, the Fed sets an interest rate on inter-bank
+loans that wreaks havoc with global monetary policy, … and of course, everyone
+pays for everything by credit card.
+
+A brief technical digression about credit cards follows but I promise it's worth
+it. Credit cards involve four transacting parties: the consumer (e.g.&nbsp;you), the
+issuer (e.g.&nbsp;Wells Fargo), the network (e.g.&nbsp;Visa), and the vendor
+(e.g.&nbsp;Starbucks). Visa convinces Starbucks to accept Visa cards because it will
+make it more convenient for you to buy coffee from Starbucks and hence more coffee
+will be bought. Visa also promises Starbucks that they will receive payments on a
+short timescale, even if you actually pay off your credit card bills on a long
+timescale or not at all. For these reasons, Starbucks pays[^3] Visa a portion of all
+sales made with Visa cards. This is called the _interchange fee_. Visa uses the
+proceeds from interchange fees to pay[^4] you _cashback_ and other rewards.[^5]
+
+Visa and Wells Fargo make a lot of money when you pay Starbucks with a Visa card, and
+even more money when you don't pay Wells Fargo the full balance back right away.
+Which is why it seems like everyone is hopping on one foot to sell you a credit card
+in the US, with offers like "3% cashback on all groceries" or "$200 cashback if you
+spend $1,000 in the first 3 months". Because credit cards are so ubiquitous, Starbucks
+sets their prices to account for the interchange fees they will have to pay for the
+predictable portion of transactions that will happen via credit card. Thus it is
+sound financial advice in the US to get and use a credit card because if you don't
+then you are just paying for cashback for those who do.[^6]
+
+So what about Europe? (Including Switzerland for this paragraph.) Well, EU financial
+regulators capped the interchange fee at 0.3% in 2015, citing a variety of reasons:
+the Single Market philosophy, leveling the playing field for innovation, fairness for
+retailers, the fact that rewards move money from the poor to the rich, etc. (not all
+of which I agree with). Compare that to US interchange fees which are typically in
+the 1&ndash;3% range. Consequently, credit card rewards programs are meager in
+Europe, and cashback if it exists is no more than 0.3% for cards without an annual
+fee. You will notice an accompanying striking lack of credit card marketing and much
+lower usage of credit cards.[^1]
+
+## Investing in Switzerland
+
+Don't. The main reason is that if you do, you will enter tax hell, both in the sense
+that you will be taxed at a very high rate on investment returns, and that your tax
+returns will become very complicated. This is due to laws about ownership interest in
+foreign companies and Passive Foreign Investment Companies (PFICs) which to
+understand you _really_ need a professional tax advisor.
+
+You could _maybe_ try to get around this by only investing in US companies but then
+why not just invest from a US brokerage account instead? (If you don't have one,
+you'll have to open one before you leave, and leaving afterwards is no problem.) If
+you want to invest in the European market, you could buy shares (in USD) of ETFs
+composed of European companies, so that the broker handles the complicated foreign
+investment taxation while you technically only own shares of US ETFs. You could even
+think of these shares as being priced in CHF (the currency you originally converted
+from) so that their effective value, for you, doesn't depend on the exchange
+rate. Needless to say, this is all very speculative and shaky advice, even more so
+than anything else on this page, and don't blame me if you lose money.
+
+There are also tax implications for Pillar&nbsp;3a retirement savings. The standard advice for people living and working in Switzerland is to
+contribute to Pillar&nbsp;3a retirement savings, because they grow in value as they
+are invested in the market and the returns are taxed at a preferential rate, much
+like IRAs in the US. But these are foreign investments, and as discussed above, US
+persons should stay away from foreign investments. If anyone starts to try selling
+you a Pillar&nbsp;3a plan, tell them you're American, and they will immediately leave
+you alone.
 
 
 ## Sources and further reading
@@ -358,7 +404,7 @@ boy can things get complicated real fast._
 
 | ETF     | Exchange-Traded Fund                                    |
 | FATCA   | Foreign Account Tax Compliance Act                      |
-| FBAR    | Report of Foreign Bank and Financial Accounts[^6]       |
+| FBAR    | Report of Foreign Bank and Financial Accounts[^7]       |
 | FFI     | Foreign Financial Institution                           |
 | FinCEN  | Financial Crimes Enforcement Network                    |
 | IRA     | Individual Retirement Account                           |
@@ -368,15 +414,23 @@ boy can things get complicated real fast._
 
 <br>
 
-[^1]: Or rather, Starbucks' bank pays Visa a variable portion of each incoming
+[^1]: But if you ask anyone about it, they'll say, "No, we use credit cards all the
+      time! I hardly carry cash these days." But they would be confusing credit cards
+      with _debit cards_, which are radically different, which just goes to show how
+      deep the non-credit card culture is.
+
+[^2]: It is only the case for someone moving in from a different canton within
+      Switzerland.
+
+[^3]: Or rather, Starbucks' bank pays Visa a variable portion of each incoming
       payment from Visa in Starbucks' name, depending on several factors. Starbucks pays
       its bank a relatively simpler fee.
 	   
-[^2]: Through the issuer, Wells Fargo, of course, whose rewards program also makes Wells
+[^4]: Through the issuer, Wells Fargo, of course, whose rewards program also makes Wells
 	  Fargo some money. Cashback is also funded by interest on balances, late payment
 	  fees, annual fees, advertizing revenue, etc.
 
-[^3]: Why do they offer cashback? Because it incentivizes you to buy more, making
+[^5]: Why do they offer cashback? Because it incentivizes you to buy more, making
       them more money, and proving the point they pitched to Starbucks in the
       beginning. Visa can also _selectively_ offer more or less cashback on purchases
       with certain vendors, which means they can charge Dunkin' extra to advertize
@@ -385,22 +439,14 @@ boy can things get complicated real fast._
       cashback offers to you, which means they can charge Dunkin' extra extra to
       promote itself to, say, middle-class consumers who live in neighborhoods with
       equal Starbucks and Dunkin' presence who don't currently buy coffee
-      regularly. Mwahahaha&hellip;
+      regularly. Mwahahaha…
 
-[^4]: It is also sound financial advice because it is how you build a credit score,
+[^6]: It is also sound financial advice because it is how you build a credit score,
       which determines your societal standing, as mentioned
       previously. Unfortunately, poorer people tend not to have access to "sound
-      financial advice"&hellip; and also are more likely to pay by cash (because they
+      financial advice"… and also are more likely to pay by cash (because they
       get _paid_ in cash), or use credit cards with less cashback (because they are
       riskier clients for Wells Fargo, and have lower credit scores). Which means
       that cashback is a great system for moving money from the poor to the rich.
 
-[^5]: But if you ask anyone about it, they'll say, "No, we use credit cards all the
-      time! I hardly carry cash these days." But they would be confusing credit cards
-      with _debit cards_, which are radically different, which just goes to show how
-      deep the non-credit card culture is.
-
-[^6]: (? ikr)
-
-[^7]: It is only the case for someone moving in from a different canton within
-      Switzerland.
+[^7]: (? ikr)
