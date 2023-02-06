@@ -8,7 +8,7 @@ order: 10
 Americans have always been and will always be a bit special compared to the rest of
 the world. Finances are no exception.
 
-_This page is only relevant to US citizens and persons considered “US persons” for
+_This page is only relevant to US citizens and persons considered "US persons" for
 financial purposes. While I have tried my best to research the information below, I
 do not guarantee that any of it is accurate. Do not consider this page official
 financial advice. If you need tax or financial advice, particularly if your finances
@@ -22,7 +22,7 @@ moving to EPFL. "I", "me", etc. refer to Shardul._
 
 #### Table of contents
 
--   [Who is financially a “US person”?](#who-is-financially-a-us-person)
+-   [Who is financially a "US person"?](#who-is-financially-a-us-person)
 -   [The TL;DR: practical information](#the-tldr-practical-information)
     -   [Banking](#banking)
     -   [Credit cards](#credit-cards)
@@ -40,7 +40,7 @@ moving to EPFL. "I", "me", etc. refer to Shardul._
     -   [Sources and further reading](#sources-and-further-reading)
     -   [Glossary of abbreviations](#glossary-of-abbreviations)
 
-## Who is financially a “US person”?
+## Who is financially a "US person"?
 
 The exact answer depends on which agency and regulation you're asking about. But
 generally, all US citizens irrespective of residence are US persons; anyone who the
@@ -59,7 +59,7 @@ following years too.
 
 The second common case: you are a US person in the past financial year because you
 did an internship in the US, but you have no other ties to the US. In that case, only
-[§&nbsp;US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
+[§ US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
 is relevant to you.
 
 
@@ -90,7 +90,7 @@ the IRS. The banker actually apologized for it.
 Due to various financial regulations, credit cards in Switzerland (and the EU) do not
 offer users much in the way of rewards or cashback like American credit cards do, and
 you will consequently notice much less marketing and usage of credit cards.[^1]
-Getting a credit card in Switzerland is hardly worth the effort&mdash;if they are
+Getting a credit card in Switzerland is hardly worth the effort—if they are
 even willing to give you one. The basic, no-fee, 0.2% cashback card that UBS offers
 to existing customers is granted if the customer either:
 
@@ -120,14 +120,14 @@ after I got here. They haven't closed it yet!
 
 _(This section applies only to US citizens and tax residents.)_
 
-Don't. Invest in the US instead. See [§&nbsp;Swiss taxes](#swiss-taxes) for how to
+Don't. Invest in the US instead. See [§ Swiss taxes](#swiss-taxes) for how to
 report your investments. Note that you ordinarily have to be in the US to open a US
 investment account but then leaving afterwards is no problem.
 
 ### Pillar 3a retirement savings
 
-Don't. Invest in an IRA in the US instead. Pillar&nbsp;3a (and Pillar&nbsp;2) has
-interactions with both US and Swiss taxes, so see [§&nbsp;Taxes](#taxes) for more.
+Don't. Invest in an IRA in the US instead. Pillar 3a (and Pillar 2) has
+interactions with both US and Swiss taxes, so see [§ Taxes](#taxes) for more.
 
 ## Taxes
 
@@ -151,15 +151,15 @@ obligations in several ways:
    on interest, dividends, pensions, estates, etc. Figuring out which country(s) for
    which types of income at which rates is best left to a professional.
  * Due to US-Swiss totalization agreements, typically you are only obligated to
-   contribute to social security in one of the two countries. Swiss Pillar&nbsp;1 is
-   seen as equivalent to Social Security, but Swiss Pillar&nbsp;2 has no privileged
-   status. See [§&nbsp;Pillar 2](#pillar-2) below.
+   contribute to social security in one of the two countries. Swiss Pillar 1 is
+   seen as equivalent to Social Security, but Swiss Pillar 2 has no privileged
+   status. See [§ Pillar 2](#pillar-2) below.
 
 The US imposes two additional reporting requirements for foreign assets. One comes
-from the IRS and is called Form&nbsp;8938. If you are living in Switzerland on a PhD
+from the IRS and is called Form 8938. If you are living in Switzerland on a PhD
 student's salary then you will probably be below the minimum amount of assets that
 would require you to file this, but it is worth checking anyway. The other comes from
-FinCEN (the Financial Crimes Enforcement Network&mdash;a rather scary name) and is
+FinCEN (the Financial Crimes Enforcement Network—a rather scary name) and is
 called the FBAR. There is a good chance you will have to file this one. Penalties for
 not filing these when you are required to, or providing incorrect information, are
 quite severe, especially from FinCEN. (I imagine their agents must be chasing mafiosi
@@ -169,13 +169,13 @@ difficult to follow.
 
 #### Pillar 2
 
-For US tax purposes, your contributions to Swiss Pillar&nbsp;2 are not deductible
+For US tax purposes, your contributions to Swiss Pillar 2 are not deductible
 from your income, because the US does not recognize this as anything other than
-Pillar&nbsp;2 are considered part of your wages and should be reported as such. The
-eventual distribution from Pillar&nbsp;2 will be tax-exempt in the US when it is
 ownership interest in a foreign fund. In fact, your employer's contributions[^8] to
+Pillar 2 are considered part of your wages and should be reported as such. The
+eventual distribution from Pillar 2 will be tax-exempt in the US when it is
 taxed in Switzerland if I am reading the US-Swiss tax treaty correctly. You need to
-report the total value of your Pillar&nbsp;2 with your foreign assets.
+report the total value of your Pillar 2 with your foreign assets.
 
 ### US state taxes
 
@@ -194,7 +194,7 @@ does not mean the same thing as in plain English), the following is true:
  * You will end up paying some US federal and state income tax. You will probably get
    a refund out of the taxes originally deducted at source.
  * You will not pay Swiss income tax on the same income, but it will count towards
-   determining your tax rate. It should be reported under "_Revenus d’activités
+   determining your tax rate. It should be reported under "_Revenus d'activités
    lucratives et rentes imposables dans un autre État_" ("Income from gainful
    activities and pensions taxable in another state").
  * You are not exempt from Social Security contributions if you were on an H1-B visa,
@@ -203,11 +203,11 @@ does not mean the same thing as in plain English), the following is true:
  * The foreign asset reporting requirements described above don't apply to you.
 
 If you are being considered a US tax resident but are on a student visa and want to
-claim you are a nonresident, file Form&nbsp;8843.
+claim you are a nonresident, file Form 8843.
 
 ### Swiss taxes
 
-The [Money](money) page covers the basics. In particular, without a Pillar&nbsp;3a,
+The [Money](money) page covers the basics. In particular, without a Pillar 3a,
 the tax deducted at source (_l'impôt à la source_) in a regular year is probably less
 than what you would have to pay if you filled out the _Taxation ordinaire ultérieure_
 (TOU) form, so requesting a TOU if you don't have to is not worth it. In the year
@@ -228,7 +228,7 @@ three relevant annexes to the standard tax return:
     number(s) copied over from the annex(es) below. (Except if you have Swiss
     investments, of course, which you shouldn't.)
 
- 1. Annex DA-1, _Demande d’imputation d’impôts étrangers prélevés à la source pour
+ 1. Annex DA-1, _Demande d'imputation d'impôts étrangers prélevés à la source pour
     dividendes et intérêts étrangers échus en 20XX_, or Request for imputation of
     foreign taxes already levied at the source on foreign dividends and interest
     issued in 20XX (replace with actual year). Here I believe you can report any US taxes withheld on your
@@ -243,7 +243,7 @@ three relevant annexes to the standard tax return:
 	amount in DA-1? Morally I feel you should be able to, to avoid double taxation,
 	but I can't be sure about the legal answer.
 
- 1. Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d’impôt
+ 1. Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d'impôt
     USA 20XX_, or Request for refund of US supplemental withholding tax 20XX (replace with actual year). This is
     where it gets tricky. I believe this is for US investments made through _Swiss_
     brokers, who automatically withhold some tax as a compliance measure (maybe
@@ -252,7 +252,7 @@ three relevant annexes to the standard tax return:
     investments made in the US.
 
 Lastly, two points worth clarifying. One, that the Canton of Vaud's tax return filing
-deadline is March&nbsp;15, a month before your US federal tax return is due, although
+deadline is March 15, a month before your US federal tax return is due, although
 Vaud is known to unofficially grant automatic extensions until June. Two, that the
 cantons collect the federal, cantonal, and communal taxes in Switzerland, so you only
 have to file one return. Good luck!
@@ -297,9 +297,9 @@ loans that wreaks havoc with global monetary policy, … and of course, everyone
 pays for everything by credit card.
 
 A brief technical digression about credit cards follows but I promise it's worth
-it. Credit cards involve four transacting parties: the consumer (e.g.&nbsp;you), the
-issuer (e.g.&nbsp;Wells Fargo), the network (e.g.&nbsp;Visa), and the vendor
-(e.g.&nbsp;Starbucks). Visa convinces Starbucks to accept Visa cards because it will
+it. Credit cards involve four transacting parties: the consumer (e.g. you), the
+issuer (e.g. Wells Fargo), the network (e.g. Visa), and the vendor
+(e.g. Starbucks). Visa convinces Starbucks to accept Visa cards because it will
 make it more convenient for you to buy coffee from Starbucks and hence more coffee
 will be bought. Visa also promises Starbucks that they will receive payments on a
 short timescale, even if you actually pay off your credit card bills on a long
@@ -322,7 +322,7 @@ regulators capped the interchange fee at 0.3% in 2015, citing a variety of reaso
 the Single Market philosophy, leveling the playing field for innovation, fairness for
 retailers, the fact that rewards move money from the poor to the rich, etc. (not all
 of which I agree with). Compare that to US interchange fees which are typically in
-the 1&ndash;3% range. Consequently, credit card rewards programs are meager in
+the 1–3% range. Consequently, credit card rewards programs are meager in
 Europe, and cashback if it exists is no more than 0.3% for cards without an annual
 fee. You will notice an accompanying striking lack of credit card marketing and much
 lower usage of credit cards.[^1]
@@ -346,12 +346,12 @@ from) so that their effective value, for you, doesn't depend on the exchange
 rate. Needless to say, this is all very speculative and shaky advice, even more so
 than anything else on this page, and don't blame me if you lose money.
 
-There are also tax implications for Pillar&nbsp;3a retirement savings. The standard advice for people living and working in Switzerland is to
-contribute to Pillar&nbsp;3a retirement savings, because they grow in value as they
+There are also tax implications for Pillar 3a retirement savings. The standard advice for people living and working in Switzerland is to
+contribute to Pillar 3a retirement savings, because they grow in value as they
 are invested in the market and the returns are taxed at a preferential rate, much
 like IRAs in the US. But these are foreign investments, and as discussed above, US
 persons should stay away from foreign investments. If anyone starts to try selling
-you a Pillar&nbsp;3a plan, tell them you're American, and they will immediately leave
+you a Pillar 3a plan, tell them you're American, and they will immediately leave
 you alone.
 
 
