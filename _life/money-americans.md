@@ -171,9 +171,9 @@ difficult to follow.
 
 For US tax purposes, your contributions to Swiss Pillar&nbsp;2 are not deductible
 from your income, because the US does not recognize this as anything other than
-ownership interest in a foreign fund. In fact, your employer's contributions to
 Pillar&nbsp;2 are considered part of your wages and should be reported as such. The
 eventual distribution from Pillar&nbsp;2 will be tax-exempt in the US when it is
+ownership interest in a foreign fund. In fact, your employer's contributions[^8] to
 taxed in Switzerland if I am reading the US-Swiss tax treaty correctly. You need to
 report the total value of your Pillar&nbsp;2 with your foreign assets.
 
@@ -450,3 +450,14 @@ boy can things get complicated real fast._
       that cashback is a great system for moving money from the poor to the rich.
 
 [^7]: (? ikr)
+
+[^8]: But note that it is a _good thing_ that EPFL contributes to your retirement
+      savings plan. In the US, employer-matched retirement plans fall into two
+      categories: FICA (Federal Insurance Contributions Act), also known as Social
+      Security and Medicare contributions, that the employer must deduct from
+      employee paychecks _and_ must match on their own; and 401(k) plans, which
+      employers can optionally choose to offer as a benefit to employees, and match
+      contributions up to an extent. _US universities are exempt from FICA
+      contributions for grad students and virtually never offer 401(k)s._ This means
+      PhD students in the US are years behind on retirement savings by the time they
+      enter the "real workforce", after having done very real work for meager pay.
