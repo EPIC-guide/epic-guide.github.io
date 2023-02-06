@@ -443,9 +443,10 @@ boy can things get complicated real fast._
 
 [^6]: It is also sound financial advice because it is how you build a credit score,
       which determines your societal standing, as mentioned
-      previously. Unfortunately, poorer people tend not to have access to "sound
-      financial advice"… and also are more likely to pay by cash (because they
-      get _paid_ in cash), or use credit cards with less cashback (because they are
+      previously. Unfortunately, poorer people are systemically excluded from the
+      financial system… and also are more likely to pay by cash (because they get
+      _paid_ in cash), or only get approved for credit cards with less cashback
+      (because they are
       riskier clients for Wells Fargo, and have lower credit scores). Which means
       that cashback is a great system for moving money from the poor to the rich.
 
