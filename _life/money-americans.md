@@ -43,11 +43,11 @@ moving to EPFL. "I", "me", etc. refer to Shardul._
 ## Who is financially a "US person"?
 
 The exact answer depends on which agency and regulation you're asking about. But
-generally, all US citizens irrespective of residence are US persons; anyone residing
-in the US for any part of the previous financial year, irrespective of nationality,
-is a US person; anyone who would for other reasons be considered a US tax resident,
-such as lawful permanent residents (a.k.a. green card holders (who hold the status of
-a lawful permanent resident even if they are not physically residing in the US)) or
+generally, all US citizens irrespective of residence are US persons; anyone who the
+IRS considers a resident in a given year due to substantial physical presence in the
+US (that phrase has a technical meaning) is a US person; anyone who, even if not
+physically present in the US, would for other reasons be considered a US tax
+resident, such as lawful permanent residents (a.k.a. green card holders) or
 the spouses of US tax residents under certain conditions, is a US person; and some
 other people are US persons for reasons that I've given up on trying to precisely
 understand, such as connections to US territories.
@@ -59,7 +59,7 @@ following years too.
 
 The second common case: you are a US person in the past financial year because you
 did an internship in the US, but you have no other ties to the US. In that case, only
-[§ US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
+[§ US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
 is relevant to you.
 
 
@@ -76,6 +76,10 @@ particular (as opposed to other financial services that I don't know much about)
 large, international banks, like UBS and Credit Suisse, are generally better at this
 than the smaller, local ones.
 
+Note that Swiss bank accounts typically have monthly maintenance fees that they are
+less likely to waive for you than in the US (where waivers for being a student, having
+a minimum daily balance, etc. are common).
+
 _Personal note from Shardul:_ I personally have had a good experience with UBS. I had
 to make an appointment with presumably their 'special' banker at their main branch in
 Lausanne (Place Saint-François). It took around 40 minutes, and they gave me free
@@ -90,7 +94,7 @@ the IRS. The banker actually apologized for it.
 Due to various financial regulations, credit cards in Switzerland (and the EU) do not
 offer users much in the way of rewards or cashback like American credit cards do, and
 you will consequently notice much less marketing and usage of credit cards.[^1]
-Getting a credit card in Switzerland is hardly worth the effort - if they are
+Getting a credit card in Switzerland is hardly worth the effort—if they are
 even willing to give you one. The basic, no-fee, 0.2% cashback card that UBS offers
 to existing customers is granted if the customer either:
 
@@ -120,14 +124,14 @@ after I got here. They haven't closed it yet!
 
 _(This section applies only to US citizens and tax residents.)_
 
-Don't. Invest in the US instead. See [§ Swiss taxes](#swiss-taxes) for how to
+Don't. Invest in the US instead. See [§ Swiss taxes](#swiss-taxes) for how to
 report your investments. Note that you ordinarily have to be in the US to open a US
 investment account but then leaving afterwards is no problem.
 
 ### Pillar 3a retirement savings
 
-Don't. Invest in an IRA in the US instead. Pillar 3a (and Pillar 2) has
-interactions with both US and Swiss taxes, so see [§ Taxes](#taxes) for more.
+Don't. Invest in an IRA in the US instead. Pillar 3a (and Pillar 2) has
+interactions with both US and Swiss taxes, so see [§ Taxes](#taxes) for more.
 
 ## Taxes
 
@@ -151,15 +155,15 @@ obligations in several ways:
    on interest, dividends, pensions, estates, etc. Figuring out which country(s) for
    which types of income at which rates is best left to a professional.
  * Due to US-Swiss totalization agreements, typically you are only obligated to
-   contribute to social security in one of the two countries. Swiss Pillar 1 is
-   seen as equivalent to Social Security, but Swiss Pillar 2 has no privileged
-   status. See [§ Pillar 2](#pillar-2) below.
+   contribute to social security in one of the two countries. Swiss Pillar 1 is
+   seen as equivalent to Social Security, but Swiss Pillar 2 has no privileged
+   status. See [§ Pillar 2](#pillar-2) below.
 
 The US imposes two additional reporting requirements for foreign assets. One comes
-from the IRS and is called Form 8938. If you are living in Switzerland on a PhD
+from the IRS and is called Form 8938. If you are living in Switzerland on a PhD
 student's salary then you will probably be below the minimum amount of assets that
 would require you to file this, but it is worth checking anyway. The other comes from
-FinCEN (the Financial Crimes Enforcement Network - a rather scary name) and is
+FinCEN (the Financial Crimes Enforcement Network—a rather scary name) and is
 called the FBAR. There is a good chance you will have to file this one. Penalties for
 not filing these when you are required to, or providing incorrect information, are
 quite severe, especially from FinCEN. (I imagine their agents must be chasing mafiosi
@@ -169,13 +173,13 @@ difficult to follow.
 
 #### Pillar 2
 
-For US tax purposes, your contributions to Swiss Pillar 2 are not deductible
+For US tax purposes, your contributions to Swiss Pillar 2 are not deductible
 from your income, because the US does not recognize this as anything other than
-ownership interest in a foreign fund. In fact, your employer's contributions to
-Pillar 2 are considered part of your wages and should be reported as such. The
-eventual distribution from Pillar 2 will be tax-exempt in the US when it is
+ownership interest in a foreign fund. In fact, your employer's contributions[^8] to
+Pillar 2 are considered part of your wages and should be reported as such. The
+eventual distribution from Pillar 2 will be tax-exempt in the US when it is
 taxed in Switzerland if I am reading the US-Swiss tax treaty correctly. You need to
-report the total value of your Pillar 2 with your foreign assets.
+report the total value of your Pillar 2 with your foreign assets.
 
 ### US state taxes
 
@@ -203,11 +207,11 @@ does not mean the same thing as in plain English), the following is true:
  * The foreign asset reporting requirements described above don't apply to you.
 
 If you are being considered a US tax resident but are on a student visa and want to
-claim you are a nonresident, file Form 8843.
+claim you are a nonresident, file Form 8843.
 
 ### Swiss taxes
 
-The [Money](money) page covers the basics. In particular, without a Pillar 3a,
+The [Money](money) page covers the basics. In particular, without a Pillar 3a,
 the tax deducted at source (_l'impôt à la source_) in a regular year is probably less
 than what you would have to pay if you filled out the _Taxation ordinaire ultérieure_
 (TOU) form, so requesting a TOU if you don't have to is not worth it. In the year
@@ -252,7 +256,7 @@ three relevant annexes to the standard tax return:
     investments made in the US.
 
 Lastly, two points worth clarifying. One, that the Canton of Vaud's tax return filing
-deadline is March 15, a month before your US federal tax return is due, although
+deadline is March 15, a month before your US federal tax return is due, although
 Vaud is known to unofficially grant automatic extensions until June. Two, that the
 cantons collect the federal, cantonal, and communal taxes in Switzerland, so you only
 have to file one return. Good luck!
@@ -297,9 +301,9 @@ loans that wreaks havoc with global monetary policy, … and of course, everyone
 pays for everything by credit card.
 
 A brief technical digression about credit cards follows but I promise it's worth
-it. Credit cards involve four transacting parties: the consumer (e.g. you), the
-issuer (e.g. Wells Fargo), the network (e.g. Visa), and the vendor
-(e.g. Starbucks). Visa convinces Starbucks to accept Visa cards because it will
+it. Credit cards involve four transacting parties: the consumer (e.g. you), the
+issuer (e.g. Wells Fargo), the network (e.g. Visa), and the vendor
+(e.g. Starbucks). Visa convinces Starbucks to accept Visa cards because it will
 make it more convenient for you to buy coffee from Starbucks and hence more coffee
 will be bought. Visa also promises Starbucks that they will receive payments on a
 short timescale, even if you actually pay off your credit card bills on a long
@@ -322,7 +326,7 @@ regulators capped the interchange fee at 0.3% in 2015, citing a variety of reaso
 the Single Market philosophy, leveling the playing field for innovation, fairness for
 retailers, the fact that rewards move money from the poor to the rich, etc. (not all
 of which I agree with). Compare that to US interchange fees which are typically in
-the 1-3% range. Consequently, credit card rewards programs are meager in
+the 1–3% range. Consequently, credit card rewards programs are meager in
 Europe, and cashback if it exists is no more than 0.3% for cards without an annual
 fee. You will notice an accompanying striking lack of credit card marketing and much
 lower usage of credit cards.[^1]
@@ -346,13 +350,12 @@ from) so that their effective value, for you, doesn't depend on the exchange
 rate. Needless to say, this is all very speculative and shaky advice, even more so
 than anything else on this page, and don't blame me if you lose money.
 
-There are also tax implications for Pillar 3a retirement savings.
-The standard advice for people living and working in Switzerland is to
-contribute to Pillar 3a retirement savings, because they grow in value as they
+There are also tax implications for Pillar 3a retirement savings. The standard advice for people living and working in Switzerland is to
+contribute to Pillar 3a retirement savings, because they grow in value as they
 are invested in the market and the returns are taxed at a preferential rate, much
 like IRAs in the US. But these are foreign investments, and as discussed above, US
 persons should stay away from foreign investments. If anyone starts to try selling
-you a Pillar 3a plan, tell them you're American, and they will immediately leave
+you a Pillar 3a plan, tell them you're American, and they will immediately leave
 you alone.
 
 
@@ -424,7 +427,7 @@ boy can things get complicated real fast._
 
 [^3]: Or rather, Starbucks' bank pays Visa a variable portion of each incoming
       payment from Visa in Starbucks' name, depending on several factors. Starbucks pays
-      its bank a relatively simpler fee
+      its bank a relatively simpler fee.
 
 [^4]: Through the issuer, Wells Fargo, of course, whose rewards program also makes Wells
       Fargo some money. Cashback is also funded by interest on balances, late payment
@@ -443,10 +446,22 @@ boy can things get complicated real fast._
 
 [^6]: It is also sound financial advice because it is how you build a credit score,
       which determines your societal standing, as mentioned
-      previously. Unfortunately, poorer people tend not to have access to "sound
-      financial advice"… and also are more likely to pay by cash (because they
-      get _paid_ in cash), or use credit cards with less cashback (because they are
+      previously. Unfortunately, poorer people are systemically excluded from the
+      financial system… and also are more likely to pay by cash (because they get
+      _paid_ in cash), or only get approved for credit cards with less cashback
+      (because they are
       riskier clients for Wells Fargo, and have lower credit scores). Which means
       that cashback is a great system for moving money from the poor to the rich.
 
 [^7]: (? ikr)
+
+[^8]: But note that it is a _good thing_ that EPFL contributes to your retirement
+      savings plan. In the US, employer-matched retirement plans fall into two
+      categories: FICA (Federal Insurance Contributions Act), also known as Social
+      Security and Medicare contributions, that the employer must deduct from
+      employee paychecks _and_ must match on their own; and 401(k) plans, which
+      employers can optionally choose to offer as a benefit to employees, and match
+      contributions up to an extent. _US universities are exempt from FICA
+      contributions for grad students and virtually never offer 401(k)s._ This means
+      PhD students in the US are years behind on retirement savings by the time they
+      enter the "real workforce", after having done very real work for meager pay.
