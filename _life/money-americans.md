@@ -76,6 +76,10 @@ particular (as opposed to other financial services that I don't know much about)
 large, international banks, like UBS and Credit Suisse, are generally better at this
 than the smaller, local ones.
 
+Note that Swiss bank accounts typically have monthly maintenance fees that they are
+less likely to waive for you than in the US (where waivers for being a student, having
+a minimum daily balance, etc. are common).
+
 _Personal note from Shardul:_ I personally have had a good experience with UBS. I had
 to make an appointment with presumably their 'special' banker at their main branch in
 Lausanne (Place Saint-François). It took around 40 minutes, and they gave me free
