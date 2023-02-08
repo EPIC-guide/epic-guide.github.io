@@ -18,7 +18,8 @@ real fast._
 
 _Most of this page was written in 2023 by Shardul Chiplunkar, an American with
 American bank, credit card, and investment accounts, and a Swiss bank account after
-moving to EPFL. "I", "me", etc. refer to Shardul._
+moving to EPFL. "I", "me", etc. refer to Shardul. Thanks to Clément Pit-Claudel,
+Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
 
 #### Table of contents
 
@@ -79,6 +80,10 @@ than the smaller, local ones.
 Note that Swiss bank accounts typically have monthly maintenance fees that they are
 less likely to waive for you than in the US (where waivers for being a student, having
 a minimum daily balance, etc. are common).
+But it doesn't hurt to ask for a waiver when opening your account.
+
+Note that you may have to report the balance of this account when filing your US
+federal taxes. See [§ US federal taxes](#us-federal-taxes).
 
 _Personal note from Shardul:_ I personally have had a good experience with UBS. I had
 to make an appointment with presumably their 'special' banker at their main branch in
@@ -171,6 +176,12 @@ during the week, and relaxing on the weekends by investigating PhD students abro
 Luckily, the official IRS documentation for these requirements is helpful and not too
 difficult to follow.
 
+The IRS also benevolently grants you an automatic two-month extension to file your
+returns because you are incurring the hardship of living abroad, so until June 15 (or
+the closest following business day) in normal cases. (All US taxpayers regardless of
+residence can request an automatic six-month extension with Form 4868.) Remember that
+the IRS will charge interest on underpaid taxes starting from the regular deadline.
+
 #### Pillar 2
 
 For US tax purposes, your contributions to Swiss Pillar 2 are not deductible
@@ -216,11 +227,11 @@ the tax deducted at source (_l'impôt à la source_) in a regular year is probab
 than what you would have to pay if you filled out the _Taxation ordinaire ultérieure_
 (TOU) form, so requesting a TOU if you don't have to is not worth it. In the year
 that you move to Switzerland and hence have Swiss income for only part of the year,
-you may think that your total income falls below the minimum for taxation and you
-could get a tax refund by filing a TOU. This is not the case.[^2] Tax rates for
-"periodic" income are calculated by scaling the income up to the full year. Plus,
-even if you could get a tax refund in the first year, a TOU election cannot be
+you may think that your total income falls below the minimum[^2] for taxation and you
+could get a tax refund by filing a TOU. Although this is true, note that a TOU election cannot be
 undone, and you will end up paying more tax in following years as mentioned before.
+However, if you will be _required_ to file a TOU in following years anyway (see next
+paragraph), it may be worth it to get the first year's taxes back.
 
 Note that you are _required_ to file a TOU under certain circumstances, one of which
 is if you have any income not subject to source withholding, such as investment
@@ -423,7 +434,14 @@ boy can things get complicated real fast._
       with _debit cards_, which are radically different, which just goes to show how
       deep the non-credit card culture is.
 
-[^2]: It is only the case for someone moving in from a different canton within Switzerland.
+[^2]: There is some nuance here. If you are moving into Vaud from abroad (but not
+      from a different Swiss canton) partway through a year, the tax _rate_ for your
+      Swiss income is determined by proportionally scaling that income to the whole
+      year, and this is reflected in the source deductions you will see on your
+      paystubs. But there is an automatic 16,000 CHF deduction from your taxable
+      income for the benefit of _contribuables modestes_ (low-income taxpayers) which
+      means that with an EPFL PhD student's salary, your taxable income for the first
+      (partial) year will be zero.
 
 [^3]: Or rather, Starbucks' bank pays Visa a variable portion of each incoming
       payment from Visa in Starbucks' name, depending on several factors. Starbucks pays
