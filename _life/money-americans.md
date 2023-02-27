@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Money and Taxes Supplement for 🇺🇸 Americans 🗽"
+title: "Money and Taxes Supplement for US citizens 🗽"
 category: life
 order: 10
 ---
 
-Americans have always been and will always be a bit special compared to the rest of
+The United States have always been and will always be a bit special compared to the rest of
 the world. Finances are no exception.
 
 _This page is only relevant to US citizens and persons considered "US persons" for
@@ -16,8 +16,8 @@ are anything beyond dead simple, consult a professional financial advisor well-v
 in US/Swiss international personal finances, because boy can things get complicated
 real fast._
 
-_Most of this page was written in 2023 by Shardul Chiplunkar, an American with
-American bank, credit card, and investment accounts, and a Swiss bank account after
+_Most of this page was written in 2023 by Shardul Chiplunkar, a US citizen with
+US bank, credit card, and investment accounts, and a Swiss bank account after
 moving to EPFL. "I", "me", etc. refer to Shardul. Thanks to Clément Pit-Claudel,
 Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
 
@@ -68,8 +68,8 @@ is relevant to you.
 
 ## Banking
 
-Although there was some turmoil with American accounts at Swiss financial
-institutions in the previous decade, many institutions are now taking American
+Although there was some turmoil with US citizens' accounts at Swiss financial
+institutions in the previous decade, many institutions are now taking US citizen
 clients with some extra paperwork. They differ in how much complexity they are
 willing to handle and able to give you good advice about (e.g., tax obligations on
 shares of EU companies held in your Swiss brokerage account). For banking in
@@ -97,7 +97,7 @@ the IRS. The banker actually apologized for it.
 ## Credit cards
 
 Due to various financial regulations, credit cards in Switzerland (and the EU) do not
-offer users much in the way of rewards or cashback like American credit cards do, and
+offer users much in the way of rewards or cashback like US credit cards do, and
 you will consequently notice much less marketing and usage of credit cards.[^1]
 Getting a credit card in Switzerland is hardly worth the effort—if they are
 even willing to give you one. The basic, no-fee, 0.2% cashback card that UBS offers
@@ -278,13 +278,13 @@ have to file one return. Good luck!
 ## Banking
 
 The US passed the Foreign Account Tax Compliance Act (FATCA) in 2010 to try to reduce
-tax evasion and money laundering by Americans holding foreign financial accounts. One
+tax evasion and money laundering by US citizens holding foreign financial accounts. One
 important aspect of FATCA is that it requires foreign financial institutions (FFIs)
 to report to the US Internal Revenue Service (IRS) certain information about accounts
 and assets held by US persons, or face a 30% withholding tax on all US-sourced
 payments of income. This was basically the IRS strong-arming FFIs into collecting
-taxpayer identification information from American account holders and complying with
-the IRS' reporting requirements. Most FFIs complied rather than risk losing American
+taxpayer identification information from USA account holders and complying with
+the IRS' reporting requirements. Most FFIs complied rather than risk losing US
 business. Not so with the Swiss.
 
 Swiss banking secrecy laws made it downright _illegal_ for banks to share the sort of
@@ -294,12 +294,12 @@ and many in Switzerland did not see why they should compromise their values in
 deference to the IRS, especially when the banking establishment in Switzerland is
 centuries older than even the concept of the United States of America.
 
-So the gut instinct of some Swiss banks was simply to terminate American accounts and
+So the gut instinct of some Swiss banks was simply to terminate US accounts and
 not open any new ones because they didn't think the regulatory hassle was worth
-it. Many Americans were, understandably, very upset by this. This is the time period
+it. Many US citizens were, understandably, very upset by this. This is the time period
 and incident that sets off alarms in the collective memory of the Swiss when you
-speak of Americans and banking.Thankfully, that era of turmoil has passed, and many
-Swiss FFIs have done the required registration with the IRS, and are taking American
+speak of US citizens and banking. Thankfully, that era of turmoil has passed, and many
+Swiss FFIs have done the required registration with the IRS, and are taking US
 clients with some extra paperwork.
 
 ## Credit cards
@@ -366,7 +366,7 @@ contribute to Pillar 3a retirement savings, because they grow in value as they
 are invested in the market and the returns are taxed at a preferential rate, much
 like IRAs in the US. But these are foreign investments, and as discussed above, US
 persons should stay away from foreign investments. If anyone starts to try selling
-you a Pillar 3a plan, tell them you're American, and they will immediately leave
+you a Pillar 3a plan, tell them you're a US citizen, and they will immediately leave
 you alone.
 
 

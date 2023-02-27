@@ -87,7 +87,7 @@ They can be reached directly by dialing 143 from any Swiss phone.
 The [Stop Suicide](https://stopsuicide.ch/) association is an organization working to prevent suicide among youth. Their website has many resources which may be helpful.
 
 For telephone support in English, [Samaritans](https://www.samaritans.org/) is a UK-based crisis line that can be reached by dialing +44 8457 90 90 90.
-The [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) is an American crisis line that can be reached by dialing +1-800-273-8255. This number is free to call using Skype.
+The [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) is a US-based crisis line that can be reached by dialing +1-800-273-8255. This number is free to call using Skype.
 
 ---
 
