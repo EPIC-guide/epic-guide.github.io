@@ -10,8 +10,6 @@ They are by far the most important component of your application, but you do not
 
 Typically, you will be asked for the names and emails of your references, and these references will be directly asked for a letter,
 ensuring that they can speak freely since you cannot see the contents of the letter.
-Always use institutional emails for your references, such as university or company emails.
-Giving a reference's personal email may jeopardize your application since readers cannot tell if the email was genuine or if you wrote the letter yourself and sent it from a fake email.
 
 Unfortunately, academic expectations for letters of recommendation in top universities often do not match what many people think of as a letter of recommendation.
 For instance, a letter writer may genuinely believe they are writing a very strong letter, yet their letter could be perceived as weak by academic readers.
