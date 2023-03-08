@@ -35,6 +35,7 @@ This is great if you love teaching or want experience to go into academia.
 ## Specific differences from US universities
 
 * The salary is way better, and there are no tuition fees
+* You are a normal employee for retirement savings purposes, meaning EPFL puts money for you into the state-run retirement system, rather than US-style exemption from this which leaves you way behind in terms of retirement funds
 * There are no qualifying exams, instead you have to pass a "depth" course of your choice and an oral exam called "candidacy exam" that is more of a formality as long as there is an advisor who wants to work with you
 * Switzerland is a stable country with mostly boring politics, you can rest assured you will not have to worry about political turmoil or visa issues
 * If you're not a native English speaker, you'll feel less pressure since almost everyone around is not a native English speaker either
