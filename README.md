@@ -15,6 +15,7 @@ The main contents are located in one of the `_CATEGORY` directories, where `CATE
 - `middle` (Middle Years Guide)
 - `last` (Last Year Guide)
 - `life` (Life in Lausanne)
+- `tools` (Research Tools)
 
 If you want to modify some contents of an existing article, locate its corresponding markdown file by observing its permalink:
 The article with permalink `https://epic-guide.github.io/CATEGORY/NAME` is located at `_CATEGORY/NAME.md`.
