@@ -406,4 +406,4 @@ Written for the NLP lab by Deniz Bayazit, updated to be lab-agnostic March 2023.
 
 Thank you to the IC-IT team, LSIR, and DLAB for sharing their experiences with setting up these systems with the NLP lab.
 Thank you to Soyoung Oh for documenting RunAI usage for distributed runs [here](https://github.com/sori424/runLLM). A large part of the useful RunAI commands comes from this repository. 
-Thank you to Beatriz Borges, Saibo Geng, Syrielle Montariol, Aurelio Noca, Gail Weiss for their useful feedback!
+Thank you to Beatriz Borges, Saibo Geng, Syrielle Montariol, Aurelio Noca, Arina Rak, Gail Weiss for their useful feedback!
