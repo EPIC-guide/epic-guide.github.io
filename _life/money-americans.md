@@ -205,6 +205,7 @@ treaties and totalization agreements, if the situation ever arises.
 
 ### US taxes for nonresident aliens
 
+This section will likely apply to you if you worked temporarily in the US.
 If you are not a US citizen ("alien") and not a US tax resident ("nonresident", which
 does not mean the same thing as in plain English), the following is true:
 
@@ -283,7 +284,10 @@ at a US bank soon after you arrive for your internship. Many banks offer basic
 checking accounts with _zero fees_ if you meet some relatively easy criteria, so
 don't pay unless you really have to. Some banks will require you to have a social
 security number, but if you are being paid for your internship, your employer should
-provide you with one anyway for tax purposes. There are many benefits to having a US
+provide you with one anyway for tax purposes. ([First Tech FCU](https://firsttechfed.com/)
+didn't require an SSN to open an account but did for online banking as of 2017. It
+gets a special mention here as a credit union with membership open to employees of
+several major tech companies.) There are many benefits to having a US
 bank account:
 
  1. Opening one if you're not in the US (and especially if you're not a US citizen)
@@ -307,6 +311,9 @@ bank account:
     solution. On the other hand, in recent times, services like Revolut and Wise have
     started providing 'virtual' US account details that also allow you to receive
     these payments.
+
+Speaking of taxes, [US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
+probably applies to you for the year(s) in which you did an internship in the US.
 
 
 # The full context
