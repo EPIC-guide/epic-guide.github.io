@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Money and Taxes Supplement for US citizens 🗽"
+title: "Money and Taxes Supplement for US-Affiliated Persons 🗽"
 category: life
 order: 10
 ---
 
-The United States have always been and will always be a bit special compared to the rest of
+The United States has always been and will always be a bit special compared to the rest of
 the world. Finances are no exception.
 
 _This page is only relevant to US citizens and persons considered "US persons" for
@@ -16,8 +16,8 @@ are anything beyond dead simple, consult a professional financial advisor well-v
 in US/Swiss international personal finances, because boy can things get complicated
 real fast._
 
-_Most of this page was written in 2023 by Shardul Chiplunkar, a US citizen with
-US bank, credit card, and investment accounts, and a Swiss bank account after
+_Most of this page was written in 2023 by Shardul Chiplunkar, an American with
+bank, credit card, and investment accounts in the US, and a Swiss bank account after
 moving to EPFL. "I", "me", etc. refer to Shardul. Thanks to Clément Pit-Claudel,
 Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
 
@@ -68,8 +68,8 @@ is relevant to you.
 
 ## Banking
 
-Although there was some turmoil with US citizens' accounts at Swiss financial
-institutions in the previous decade, many institutions are now taking US citizen
+Although there was some turmoil with US persons' accounts at Swiss financial
+institutions in the previous decade, many institutions are now taking US persons as
 clients with some extra paperwork. They differ in how much complexity they are
 willing to handle and able to give you good advice about (e.g., tax obligations on
 shares of EU companies held in your Swiss brokerage account). For banking in
@@ -283,7 +283,7 @@ important aspect of FATCA is that it requires foreign financial institutions (FF
 to report to the US Internal Revenue Service (IRS) certain information about accounts
 and assets held by US persons, or face a 30% withholding tax on all US-sourced
 payments of income. This was basically the IRS strong-arming FFIs into collecting
-taxpayer identification information from USA account holders and complying with
+taxpayer identification information from US-affiliated account holders and complying with
 the IRS' reporting requirements. Most FFIs complied rather than risk losing US
 business. Not so with the Swiss.
 
