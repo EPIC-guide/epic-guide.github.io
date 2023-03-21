@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Money and Taxes Supplement for US citizens 🗽"
+title: "Money and Taxes Supplement for US-Affiliated Persons 🗽"
 category: life
 order: 10
 ---
 
-The United States have always been and will always be a bit special compared to the rest of
+The United States has always been and will always be a bit special compared to the rest of
 the world. Finances are no exception.
 
 _This page is only relevant to US citizens and persons considered "US persons" for
@@ -16,10 +16,10 @@ are anything beyond dead simple, consult a professional financial advisor well-v
 in US/Swiss international personal finances, because boy can things get complicated
 real fast._
 
-_Most of this page was written in 2023 by Shardul Chiplunkar, a US citizen with
-US bank, credit card, and investment accounts, and a Swiss bank account after
+_Most of this page was written in 2023 by Shardul Chiplunkar, an American with
+bank, credit card, and investment accounts in the US, and a Swiss bank account after
 moving to EPFL. "I", "me", etc. refer to Shardul. Thanks to Clément Pit-Claudel,
-Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
+Kyle Matoba, Sepehr Elahi, Solal Pirelli, Kirill Nikitin, and others for helpful comments._
 
 #### Table of contents
 
@@ -34,6 +34,7 @@ Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
         -   [US state taxes](#us-state-taxes)
 		-   [US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
         -   [Swiss taxes](#swiss-taxes)
+    - [Internships in the US for non-citizens](#internships-in-the-us-for-non-citizens)
 -   [The full context](#the-full-context)
     -   [Banking](#banking-1)
     -   [Credit cards](#credit-cards-1)
@@ -66,10 +67,13 @@ is relevant to you.
 
 # The TL;DR: practical information
 
+Many pieces of advice below are simply stated without explanation. See
+[§ The full context](#the-full-context) for the explanations.
+
 ## Banking
 
-Although there was some turmoil with US citizens' accounts at Swiss financial
-institutions in the previous decade, many institutions are now taking US citizen
+Although there was some turmoil with US persons' accounts at Swiss financial
+institutions in the previous decade, many institutions are now taking US persons as
 clients with some extra paperwork. They differ in how much complexity they are
 willing to handle and able to give you good advice about (e.g., tax obligations on
 shares of EU companies held in your Swiss brokerage account). For banking in
@@ -201,6 +205,7 @@ treaties and totalization agreements, if the situation ever arises.
 
 ### US taxes for nonresident aliens
 
+This section will likely apply to you if you worked temporarily in the US.
 If you are not a US citizen ("alien") and not a US tax resident ("nonresident", which
 does not mean the same thing as in plain English), the following is true:
 
@@ -272,6 +277,44 @@ Vaud is known to unofficially grant automatic extensions until June. Two, that t
 cantons collect the federal, cantonal, and communal taxes in Switzerland, so you only
 have to file one return. Good luck!
 
+## Internships in the US for non-citizens
+
+If there is any possibility you might live in the US in the future, open an account
+at a US bank soon after you arrive for your internship. Many banks offer basic
+checking accounts with _zero fees_ if you meet some relatively easy criteria, so
+don't pay unless you really have to. Some banks will require you to have a social
+security number, but if you are being paid for your internship, your employer should
+provide you with one anyway for tax purposes. ([First Tech FCU](https://firsttechfed.com/)
+didn't require an SSN to open an account but did for online banking as of 2017. It
+gets a special mention here as a credit union with membership open to employees of
+several major tech companies.) There are many benefits to having a US
+bank account:
+
+ 1. Opening one if you're not in the US (and especially if you're not a US citizen)
+    is very tricky, but once you have one, you can hold on to it without issue
+    regardless of your residency, and as mentioned there are often no fees. So you
+    should consider opening one even if you think the chance that you'll move to the
+    US later is slim.
+
+ 1. For longer-term leases, landlords often want cashier's checks for the deposit and
+    first-month rent, which are easier to obtain if you have a local bank account.
+
+ 1. Banks often make it easier to apply for and get a **credit card** with the bank
+    if you also have an account at the bank. Credit cards are important if you are
+    going to live in the US! Above all, to build a credit history, which is essential
+    for both renting and buying (on mortgage) a place to live. This marvellous
+    financial system is further expounded upon in [Credit cards](#credit-cards) and
+    [Credit cards (longer)](#credit-cards-1).
+
+ 1. Of course, you need some sort of US account to receive payments, notably your
+    salary and your eventual tax refund from the IRS. Bank accounts are the canonical
+    solution. On the other hand, in recent times, services like Revolut and Wise have
+    started providing 'virtual' US account details that also allow you to receive
+    these payments.
+
+Speaking of taxes, [US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
+probably applies to you for the year(s) in which you did an internship in the US.
+
 
 # The full context
 
@@ -283,7 +326,7 @@ important aspect of FATCA is that it requires foreign financial institutions (FF
 to report to the US Internal Revenue Service (IRS) certain information about accounts
 and assets held by US persons, or face a 30% withholding tax on all US-sourced
 payments of income. This was basically the IRS strong-arming FFIs into collecting
-taxpayer identification information from USA account holders and complying with
+taxpayer identification information from US-affiliated account holders and complying with
 the IRS' reporting requirements. Most FFIs complied rather than risk losing US
 business. Not so with the Swiss.
 
