@@ -19,7 +19,7 @@ real fast._
 _Most of this page was written in 2023 by Shardul Chiplunkar, an American with
 bank, credit card, and investment accounts in the US, and a Swiss bank account after
 moving to EPFL. "I", "me", etc. refer to Shardul. Thanks to Clément Pit-Claudel,
-Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
+Kyle Matoba, Sepehr Elahi, Solal Pirelli, Kirill Nikitin, and others for helpful comments._
 
 #### Table of contents
 
@@ -34,6 +34,7 @@ Kyle Matoba, Sepehr Elahi, Solal Pirelli, and others for helpful comments._
         -   [US state taxes](#us-state-taxes)
 		-   [US taxes for nonresident aliens](#us-taxes-for-nonresident-aliens)
         -   [Swiss taxes](#swiss-taxes)
+    - [Internships in the US for non-citizens](#internships-in-the-us-for-non-citizens)
 -   [The full context](#the-full-context)
     -   [Banking](#banking-1)
     -   [Credit cards](#credit-cards-1)
@@ -65,6 +66,9 @@ is relevant to you.
 
 
 # The TL;DR: practical information
+
+Many pieces of advice below are simply stated without explanation. See
+[§ The full context](#the-full-context) for the explanations.
 
 ## Banking
 
@@ -271,6 +275,38 @@ deadline is March 15, a month before your US federal tax return is due, althoug
 Vaud is known to unofficially grant automatic extensions until June. Two, that the
 cantons collect the federal, cantonal, and communal taxes in Switzerland, so you only
 have to file one return. Good luck!
+
+## Internships in the US for non-citizens
+
+If there is any possibility you might live in the US in the future, open an account
+at a US bank soon after you arrive for your internship. Many banks offer basic
+checking accounts with _zero fees_ if you meet some relatively easy criteria, so
+don't pay unless you really have to. Some banks will require you to have a social
+security number, but if you are being paid for your internship, your employer should
+provide you with one anyway for tax purposes. There are many benefits to having a US
+bank account:
+
+ 1. Opening one if you're not in the US (and especially if you're not a US citizen)
+    is very tricky, but once you have one, you can hold on to it without issue
+    regardless of your residency, and as mentioned there are often no fees. So you
+    should consider opening one even if you think the chance that you'll move to the
+    US later is slim.
+
+ 1. For longer-term leases, landlords often want cashier's checks for the deposit and
+    first-month rent, which are easier to obtain if you have a local bank account.
+
+ 1. Banks often make it easier to apply for and get a **credit card** with the bank
+    if you also have an account at the bank. Credit cards are important if you are
+    going to live in the US! Above all, to build a credit history, which is essential
+    for both renting and buying (on mortgage) a place to live. This marvellous
+    financial system is further expounded upon in [Credit cards](#credit-cards) and
+    [Credit cards (longer)](#credit-cards-1).
+
+ 1. Of course, you need some sort of US account to receive payments, notably your
+    salary and your eventual tax refund from the IRS. Bank accounts are the canonical
+    solution. On the other hand, in recent times, services like Revolut and Wise have
+    started providing 'virtual' US account details that also allow you to receive
+    these payments.
 
 
 # The full context
