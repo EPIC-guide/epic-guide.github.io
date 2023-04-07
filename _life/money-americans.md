@@ -86,8 +86,11 @@ less likely to waive for you than in the US (where waivers for being a student, 
 a minimum daily balance, etc. are common).
 But it doesn't hurt to ask for a waiver when opening your account.
 
-Note that you may have to report the balance of this account when filing your US
+Note that you may have to report the maximum balance of this account when filing your US
 federal taxes. See [§ US federal taxes](#us-federal-taxes).
+Your bank may send you a "Tax Disclosure Statement" or similar saying that they
+disclosed your end-of-year balance to the IRS, but this is *not* the maximum balance,
+it is just for your information.
 
 _Personal note from Shardul:_ I personally have had a good experience with UBS. I had
 to make an appointment with presumably their 'special' banker at their main branch in
@@ -136,6 +139,9 @@ _(This section applies only to US citizens and tax residents.)_
 Don't. Invest in the US instead. See [§ Swiss taxes](#swiss-taxes) for how to
 report your investments. Note that you ordinarily have to be in the US to open a US
 investment account but then leaving afterwards is no problem.
+You don't need a US bank account to fund a US investment account if you can get the
+latter to draw from a 'virtual US account' provided by services like Wise and
+Revolut.
 
 ### Pillar 3a retirement savings
 
@@ -160,11 +166,13 @@ obligations in several ways:
  * You can take a foreign tax credit for foreign tax you have already paid, or you
    can deduct certain foreign earned income from your taxable income. (You may still
    owe the US some taxes after these reductions.)
+   The foreign tax credit is usually the better choice. For 2022, you need to file
+   Schedule 3 to Form 1040 and Form 1116 to claim it.
  * Due to US-Swiss tax treaties, typically only one of the two countries can tax you
    on interest, dividends, pensions, estates, etc. Figuring out which country(s) for
    which types of income at which rates is best left to a professional.
- * Due to US-Swiss totalization agreements, typically you are only obligated to
-   contribute to social security in one of the two countries. Swiss Pillar 1 is
+ * Due to US-Swiss totalization agreements, typically every income source will owe
+   social security contributions to only one of the two countries. Swiss Pillar 1 is
    seen as equivalent to Social Security, but Swiss Pillar 2 has no privileged
    status. See [§ Pillar 2](#pillar-2) below.
 
@@ -198,10 +206,18 @@ report the total value of your Pillar 2 with your foreign assets.
 
 ### US state taxes
 
-Don't forget to file a part-year resident state tax return for the year in which you
+Don't forget to file a state tax return for the year in which you
 leave the US. State taxes are typically friendlier than federal taxes and will only
 tax your income sourced from that state, but may not necessarily honor federal tax
 treaties and totalization agreements, if the situation ever arises.
+
+For many states, you will file a part-year resident or equivalent return, and you
+won't have to file in future years if you don't have income from that state. For some
+"sticky" states (notoriously including California), however, it isn't so simple.
+Their residency rules may require you to "prove" to the state that you are no longer
+a resident by showing that your primary home, driver's license, bank account, voter
+registration, etc. is no longer in that state. Absent such proof, you will be taxed
+as a resident and will have to figure out the state's tax rules about foreign income.
 
 ### US taxes for nonresident aliens
 
@@ -240,7 +256,9 @@ paragraph), it may be worth it to get the first year's taxes back.
 
 Note that you are _required_ to file a TOU under certain circumstances, one of which
 is if you have any income not subject to source withholding, such as investment
-returns. This TOU is not "sticky" like the elective TOU. Then there are two or maybe
+returns. Like the elective TOU, this TOU remains applicable for future years even if
+the obligatory conditions are no longer applicable (which makes no sense to me). Then
+there are two or maybe
 three relevant annexes to the standard tax return:
 
  1. Annex 1, _État des titres et autres placements de capitaux_, or Statement of
@@ -270,6 +288,10 @@ three relevant annexes to the standard tax return:
     something about FATCA and the vagaries of the US-Swiss tax treaties?), so that
     you have to file a return to get it back. I don't think this applies for US
     investments made in the US.
+    If you really want to learn more about situations in which this form may be
+    required,
+    [this article](https://www.mustachianpost.com/swiss-tax-guide-for-investors-in-etfs/)
+    may be helpful. (Warning: not written with a US citizen audience in mind!)
 
 Lastly, two points worth clarifying. One, that the Canton of Vaud's tax return filing
 deadline is March 15, a month before your US federal tax return is due, although
@@ -456,6 +478,9 @@ boy can things get complicated real fast._
 
  * EUR-Lex (EU law portal):
    [Fees for card-based payments](https://eur-lex.europa.eu/EN/legal-content/summary/fees-for-card-based-payments.html)
+
+ * [Mustachian Post](https://www.mustachianpost.com/), a blog by a finance geek
+   living in Vaud (warning: not written with a US citizen audience in mind!)
 
 
 ## Glossary of abbreviations
