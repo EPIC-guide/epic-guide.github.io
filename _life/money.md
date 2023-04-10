@@ -55,6 +55,12 @@ Do not expect good yields from non-investment bank accounts, even the savings on
 
 While you technically can cash checks, banks will charge large fees for doing so, as virtually no one in Switzerland uses checks any more.
 
+## Internships in the US
+
+The most likely complication in your personal finances will be if you do an
+internship in the US. Luckily, this guide has you covered with [banking, taxes, and
+other advice](/life/money-americans#internships-in-the-us-for-non-citizens) for that
+circumstance.
 
 ## Retirement
 
