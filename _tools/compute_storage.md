@@ -26,6 +26,7 @@ This guide was adapted from the EPFL NLP resource guide, therefore it may have s
     * [Setting up your own machine in HaaS](#setting-up-your-own-machine-in-haas)
     * [Interfacing with any HaaS machine](#interfacing-with-any-haas-machine)
         - [Disk Space Troubleshoot](#disk-space-troubleshoot)
+        - [VSCode for HaaS Troubleshoot](#vscode-for-haas-troubleshoot)
     * [Tentative Lab Policy](#tentative-lab-policy-2)
 6. [RunAI](#runai)
     * [Request Access & Confirm](#request-access--confirm)
@@ -35,6 +36,7 @@ This guide was adapted from the EPFL NLP resource guide, therefore it may have s
     * [Usage](#usage)
     * [Writing a Dockerfile](#writing-a-dockerfile)
     * [Useful runai / kubectl commands](#useful-runai--kubectl-commands)
+        - [VSCode for RunAI](#vscode-for-runai)
 7. [How to ask for help](#how-to-ask-for-help)
 8. [Acknowledgements](#acknowledgements)
 
@@ -65,24 +67,24 @@ This is completely up to your situation:
 
 ---
 ## NFS Storage
-This section is lab-dependent. If your lab doesn't have NFS storage, feel free to skip it. If it does, the exact folder structure may not match the examples here that are taken from the NLP lab, so be very careful and ask your lab members how you can access it and how you should be creating your personal directory. This section assumes that all of your HaaS devices are setup with a lab script that lets you login with your tequila credentials and mounts the NFS directory automatically in `/mnt`. If your lab setup script is not using such a system, feel free to ssh as root or the designated user account and mount the NFS folder yourself.
+This section is lab-dependent. If your lab doesn't have NFS storage, feel free to skip it. If it does, the exact folder structure may not match the examples here that are taken from the NLP lab, so be very careful and ask your lab members how you can access it and how you should be creating your personal directory. This section assumes that all of your HaaS devices are setup with a lab script that lets you login with your tequila credentials and mounts the NFS directory automatically in `/mnt`. If your lab setup script is not using such a system, feel free to ssh as root or the designated user account and learn from your lab members how to mount the NFS folder yourself.
 
 ### NFS Setup
 If you haven't used the NFS folder before, first make sure you create a home directory in the NFS folder with the correct permissions. To do so, login to a lab-shared or your own reserved HaaS machine (see [§Setting up your own machine in HaaS](#setting-up-your-own-machine-in-haas)):
-```console
+```shell
 ssh <your-tequila-username>@iccluster<cluster-id>.iccluster.epfl.ch
 ```
 Then go into the home directories of the NFS folder mounted on the root of the machine (not your root). Again this depends on the lab, but for NLP lab the path looks like the following, where our lab NFS name is `nlpdata1`:
-```console
+```shell
 cd /mnt/*/<lab-nfs-name>/home
 ```
 Then make a directory of your own:
-```console
+```shell
 mkdir /mnt/*/<lab-nfs-name>/home/<your-tequila-username>
 ```
 Make sure the permissions on your directory show that others can see and execute but cannot write into your directory with the group being the group identification picked by your lab. For NLP, our `<lab-group>` is directly connected to our unit in EPFL groups, hence it's called `NLP-unit`:
-```console
-ll /mnt/u14157_ic_nlp_001_files_nfs/nlpdata1/home
+```shell
+ll /mnt/*/<lab-nfs-name>/home
 
 total 1128
 drwxrwx--- 15 root             <lab-group>        4096 Jan 19 16:41 ./
@@ -90,17 +92,17 @@ drwxr-xr-x  6 root             root               4096 Dec 10  2021 ..
 drwxr-xr-x 25 <your-username>  <lab-group>        8192 Jan 18 17:58 <your-username>/
 ```
 If the group isn't correct (with respect to others' group ID in the folder) you can change with:
-```console
+```shell
 chgrp <lab-group> /mnt/*/<lab-nfs-name>/home/<your-username>
 ```
 
-(optional) If you would like any file or directory under your NFS home directory to not be read or executed by anyone but you (e.g. to store a private keys), you can run the following command:
-```console
+(optional) If you would like any file or directory under your NFS home directory to not be read or executed by anyone but you (e.g. to store private keys), you can run the following command:
+```shell
 chmod 700 /mnt/*/<lab-nfs-name>/home/<your-username>
 ```
 
 Now you are all setup! This is where you should keep your code, experiment logs, etc. *Why?* 
-1. Chances are your lab is using an LDAP setup, therefore your user's root directory in `/home/<your-username>` on the local machine are not saved in snapshots. If by some accident your machine gets wiped out, your home directory contents will be gone, but the NFS storage will persist somewhere else. 
+1. Chances are your lab is using an LDAP authentication setup for HaaS, therefore your user's root directory in `/home/<your-username>` on the local machine are not saved in snapshots. If by some accident your machine gets wiped out, your home directory contents will be gone, but the NFS storage will persist somewhere else. 
 2. This makes it easier to share files between HaaS and RunAI nodes, if you want to work with both resources and don't want to keep cloning repos and datasets left and right.
 
 ### Directory navigation
@@ -166,16 +168,16 @@ Ask your lab's members if the startup script uses an LDAP protocol or copies SSH
 If your lab's startup protocol doesn't setup a user, SSH keys, or your lab doesn't have a startup script, you can replace `<your-username>` with `root` and use the password you chose at setup time.
 
 Once you know how to authenticate, all you have to do is to ssh into the machine with the following command where `<cluster-id>` is the reserved node ID:
-```console
+```shell
 ssh <your-username>@iccluster<cluster-id>.iccluster.epfl.ch
 ```
 
 Now you should be at `/home/<your-username>` or `/root`. Feel free to upload things here but keep in mind that if your machine is reset (which can be done by someone else by accident), you will lose all progress. So if it's possible, keep most of your directories in your NFS home directory and not this local one.
 
 #### Disk Space Troubleshoot
-If you seem to get a disk space full issue (e.g. while downloading a package or creating a new environment), it’s most likely due to somebody storing a lot of files in their local home folder.
+If you seem to get a disk space full issue (e.g. while downloading a file, or creating a new environment), it’s most likely due to somebody (or you) storing a lot of files in their local home folder.
 First check that the dev folder (responsible for local folders) is the culprit by running `df -h` or `df -H`. The `/dev/sda1` row should have almost no availability:
-```
+```shell
 Filesystem                                     Size  Used Avail Use% Mounted on
 udev                                           136G     0  136G   0% /dev
 tmpfs                                           28G  4.2M   28G   1% /run
@@ -183,6 +185,18 @@ tmpfs                                           28G  4.2M   28G   1% /run
 tmpfs                                          136G  167M  136G   1% /dev/shm
 ```
 If your lab startup script uses an LDAP login system, and you are sharing the machine, you can check the usage in the local `/home` folder by running the `du -m -s * | sort -n +0 -1` command.
+
+If the problem is your own directory: a solid (but hacky) tip is to move your cache heavy folders into NFS and to link it to avoid local disk space issues. Folders that often grow are `~/.cache/`, `~/.vscode-server/`, and `~/.conda/`.
+The solution is to move these folders (or in the case of `conda` directly download them) to the NFS `/mnt/**/<lab-nfs-name>/home/<username>/` folder and create a symlink to the home folder. For example, for the `~/.cache` folder, run these 2 commands:
+```shell
+mv /home/<username>/.cache /mnt/**/<lab-nfs-name>/home/<username>/.cache
+ln -s /mnt/**/<lab-nfs-name>/home/<username>/.cache /home/<username>/.cache
+```
+
+#### VSCode for HaaS Troubleshoot
+If VSCode is having trouble connecting with the cluster you may consider:
+- Killing the server through the VSCode command, or you could consider removing the `.vscode-server` folder. 
+- Reconfiguring the host may help as well. Remove the `iccluster<cluster-id>` instance in your vscode ssh config file. Then add it back with VSCode commands.
 
 ### Tentative Lab Policy
 - **To avoid loss of data:** always save your code and data in your NFS home directory
@@ -199,7 +213,7 @@ There are 2 ways you can connect with RunAI:
 
 ### Request Access & Confirm
 1. In order to use RunAI you have to first request access from the runai admins of your lab (i.e. you probably need to be added to an EPFL group by whoever is responsible for it). Contact them to be approved. This will be only a one time thing!
-	- You can verify whether you've been approved by finding the group `runai-<your-lab-name>` on the EPFL [group directory](https://groups.epfl.ch/viewgroup?groupid=S29486) (e.g., `runai-nlp`).
+	- You can check who the admins are and verify whether you've been approved by finding the group `runai-<your-lab-name>` on the EPFL [group directory](https://groups.epfl.ch/viewgroup?groupid=S29486) (e.g., `runai-nlp`).
 	- Once you get added, you are granted access to one project called `<your-lab-name>-<your-tequila-username>` (e.g., `nlp-<your-tequila-username>`).
 2. If you get this access and your lab includes everyone in this RunAI group to have access to Harbor, then you should be able to login to [Harbor](https://ic-registry.epfl.ch/harbor/) (using your tequila credentials), where we push built Docker images. If for some reason you don't get access, message one of the runai admins of your lab.
 
@@ -210,26 +224,26 @@ Once you have access you can monitor RunAI node and GPU usage through the dashbo
 1. Install the following pre-requisites:
 	1. **kubectl** from [their website](https://kubernetes.io/docs/tasks/tools/) or if you have brew: `brew install kubectl`
 	2. **Helm** from [their website](<https://helm.sh/docs/intro/install/>) or if you have brew: `brew install helm`
-	3. **Run:AI CLI** (Command Line Interface) from the [dashboard](https://epfl.run.ai/) on the top right help icon *(?) > Researcher Command Line interface* OR [their github releases](https://github.com/run-ai/runai-cli/releases) (e.g. `darwin-amd64` for MacOS). These should include an installation script called `install-runai.sh`, you should run it. If there is a certificate expiry problem, consider adding the argument `--no-check-certificate` to the wget command. If you run into other problems, more information on the CLI installation [here](https://docs.run.ai/Administrator/Researcher-Setup/cli-install/).
+	3. **Run:AI CLI** (Command Line Interface) from the [dashboard](https://epfl.run.ai/) on the top right help icon *(?) > Researcher Command Line interface*. Keep in mind that the binary download option may need security bypassing. So we recommend the `wget` command option instead. If there is a certificate expiry problem, consider adding the argument `--no-check-certificate` to the `wget` command. Then follow [the instructions on the RunAI website](https://docs.run.ai/admin/researcher-setup/cli-install/#install-runai-cli). You just need to read the "Install Run:ai CLI" section. If you run into other problems, more information can be found on the same page.
 	4. **Docker** from [their website](https://docs.docker.com/engine/install/) or through [CLI for ubuntu](https://docs.docker.com/engine/install/ubuntu/).
 2. Then complete authentication with both Run:AI CLI and harbor.
 	1. Download the EPFL [kubernetes config file](https://icitdocs.epfl.ch/download/attachments/23986177/config?version=1&modificationDate=1656340636000&api=v2) and move it to `~/.kube`.
 	2. Export it with :
-		```console
-        `export KUBECONFIG=~/.kube/config`
-        ```
+		```shell
+		export KUBECONFIG=~/.kube/config
+		```
 	3. login to RunAI with your tequila credentials - the following command will require to paste an access key from the temporary URL it gives:
-		```console
+		```shell
         runai login
         ```
 	4. configure your project and verify your user and project:
-		```console
+		```shell
         runai config project <your-lab-name>-<your-tequila-username>
         runai whoami
 		runai list project
         ```
 	5. login to EPFL's docker (Harbor) via tequila credentials:
-	    ```console
+	    ```shell
         docker login ic-registry.epfl.ch
         ```
 
@@ -239,7 +253,8 @@ Now you should be all set!
 
 Follow the same steps as setting it up on your personal machine *BUT*:
 - If you are downloading the pre-requisites to your local home folder, consider creating a folder that you can add to your path such as `mkdir -p ~/.local/bin` and move the pre-requisites in there with `mv ./<prereq> ~/.local/bin/<prereq>`, where `<prereq>` can be `kubectl`, `runai`, or `helm`.
-For docker on the other hand, if you have reserved your own machine make sure to download docker as root or a sudo user. If you also want your user to have docker access add yourself to the docker group with `usermod -aG docker <your-username>`. Double-check you've been added with `getent group <group-name>` or `groups <group-name>`, where `<group-name>` is `docker`. Once you've done this, you will have to reboot the machine with `sudo reboot`, which should take around 1 minute. If interaction seems laggy after the reboot, re-reboot. As IC-IT once told me: *"never underestimate the power of a boot"*.
+
+- For docker on the other hand, if you have reserved your own machine make sure to download docker as root or a sudo user. If you also want your user to have docker access add yourself to the docker group with `usermod -aG docker <your-username>`. Double-check you've been added with `getent group <group-name>` or `groups <group-name>`, where `<group-name>` is `docker`. Once you've done this, you will have to reboot the machine with `sudo reboot` or the "Power Cycle" option in the portal *My Servers > List Server* section, which should take around 1 minute. If interaction seems laggy after the reboot, re-reboot. As IC-IT once told us: *"never underestimate the power of a boot"*.
 
 ### Usage
 There are two session modes to submit a job to RunAI. These are (1) training and (2) interactive [schedules](https://docs.run.ai/Researcher/scheduling/the-runai-scheduler/).
@@ -249,7 +264,7 @@ There are two session modes to submit a job to RunAI. These are (1) training and
 
 	Read also the following information on train sessions [here](https://docs.run.ai/Researcher/Walkthroughs/walkthrough-train/).
 
-2. **Interactive (i.e. Build):** The interactive/build mode will only be available to you for 12 hours and there is a limited count per lab. This is perfect for interactive sessions such as bash or Jupyter notebooks that require some temporary GPU access. Read the following information on build sessions [here](https://docs.run.ai/Researcher/Walkthroughs/walkthrough-build/).
+2. **Interactive (i.e. Build):** The interactive/build mode will only be available to you for 12 hours and there is a limited count per lab. The GPU limit for the interactive mode is 1. This is perfect for interactive sessions such as bash or Jupyter notebooks that require some temporary GPU access. Read the following information on build sessions [here](https://docs.run.ai/Researcher/Walkthroughs/walkthrough-build/).
 
 While these modes have different implications, they can be run the same way:
 1. **Write a Dockerfile to create an image.** You can imagine this image as a snapshot of a virtual machine environment. It helps with two things:
@@ -258,21 +273,21 @@ While these modes have different implications, they can be run the same way:
 	- More info on how to write a Dockerfile in [§Writing a Dockerfile](#writing-a-dockerfile). This section will include two example Dockerfile-s with bash scripts that contain the commands below.
 
 2. **Build the docker locally.** You can specify a version of the image by pushing it with a tag so it doesn't overwrite your latest one by adding `:<image-tag>` at the end of your registry URL (if not, the default tag is `latest`). You don't need the `--secret argument` if you have nothing to hide from the EPFL community (e.g. API access keys, emails, passwords etc.). Note that `<your-project-name>` here is something you pick for the specific research project you are working on, it's not the RunAI project name:
-	```console
+	```shell
 	docker build -f Dockerfile -t ic-registry.epfl.ch/<your-lab>/<your-username>/<your-project-name>:<image-tag> --secret id=my_env,src=.env .
 	```
 	Note that the docker builds each instruction one by one. If one of them fails, it caches the ones that already ran successfully. The duration of building the docker depends on a lot of factors. If you use the NFS folder to not clone your repository or download the data from a link, you may save up a lot of time. 
 
 3. **Push the built image to the remote Harbor.**  Remember to push it with a tag if you specified one at build time. Make sure that you have run `docker login ic-registry.epfl.ch` before doing the push:
-	```console
+	```shell
 	docker push ic-registry.epfl.ch/<your-lab>/<your-username>/<your-project-name>:<image-tag>
 	```
 
 4. **Submit the job.** Choose the [type of node](https://icitdocs.epfl.ch/display/clusterdocs/Servers+Details) you would like to use and submit your job. There are two ways to do this.
 	1. If there are too many arguments, you can use [this yaml file](https://icitdocs.epfl.ch/display/clusterdocs/Getting+Started+with+RunAI+SAML?preview=/23986177/36175881/example.yaml) provided by IC-IT and submit with `kubectl create -f example.yaml`
-	2. (More common) with the `runai` command. More on the arguments in the [runai docs](https://docs.run.ai/Researcher/cli-reference/runai-submit/):
+	2. (More common) with the `runai` command. We encourage you to checkout the `launch.sh` (recommended) or `submit.sh` (detailed) file in the docker folder we provide you in the [§Writing a Dockerfile](#writing-a-dockerfile) section. More on the arguments in the [runai docs](https://docs.run.ai/Researcher/cli-reference/runai-submit/):
 
-		```console
+		```shell
 		runai submit \
 		--name <your-job-name> \ # specify your job name
 		-i ic-registry.epfl.ch/<your-lab>/<your-username>/<your-project-name>:<image-tag> \ # specify the harbor image to use
@@ -280,7 +295,8 @@ While these modes have different implications, they can be run the same way:
 		--pvc <your-pvc>:<your-mount-dest> \ # if you need to mount a persistent volume (e.g. NFS or scratch) specify which one + where to mount it after the colon, to find out your pvc name, see "kubectl get pvc" in §useful-runai--kubectl-commands
 		--node-type G10 # specify node type, options shown at https://icitdocs.epfl.ch/display/clusterdocs/Servers+Details
 		# --interactive -- sleep infinity => makes it interactive and stops from logging out
-		# --command -- run.sh => overrides entrypoints
+		# --attach => if you get sleep infinity deprecated error you might just need to do attach and remove “-- sleep infinity”
+		# --command -- run.sh => overrides entrypoints specified by the docker image
 		```
 If you would like to submit a distributed workload, we suggest reading [Launch Distributed Training Workloads](https://docs.run.ai/Researcher/Walkthroughs/walkthrough-distributed-training/).
 
@@ -288,30 +304,30 @@ If you would like to submit a distributed workload, we suggest reading [Launch D
 
 > "Docker can build images automatically by reading the instructions from a Dockerfile." - [Docker website](https://docs.docker.com/engine/reference/builder/). 
 
-Your dockerfile can drastically change if you want to mount your NFS folder onto it. The primary reason is that your NFS folder requires permissions with your username, user ID, and group ID. For this reason, here are two docker folder examples:
-1. With NFS: you can download the template docker folder zip file [docker_with_nfs.zip](/assets/docker_with_NFS.zip)
-2. Without NFS: you can download the template docker folder in [docker.zip](/assets/docker.zip)
+Your dockerfile can drastically change if you want to mount your NFS folder onto it. The primary reason is that your NFS folder requires permissions with your username, user ID, and group ID. For this reason, consider:
+1. **With NFS:** you can download the template docker folder zipped at [docker_with_nfs.zip](/assets/docker_with_NFS.zip)
+2. **Without NFS:** for a docker image without the NFS setup, simply remove all instructions from the `Dockerfile` that involves setting up the user.
 
-For this section, checkout the Dockerfile in either of these template folders and carefully read the following. 
+For this section, checkout the `Dockerfile` in the template folder and carefully read the following. 
 
 1. **Docker instructions:** To understand these instructions, please read through the docker file and the comments.
 2. **Group permissions:** If you don't care about mounting the NFS volume to your runai job, this bit is not relevant. Otherwise, if you want to change the Dockerfile drastically, remember that you should always have the correct group permissions to access the NFS folder. Look at the setup user profile section of the docker file to understand how to do this.
 3. **Secrecy with the .env file:** Passing arguments to the docker build command doesn't hide the variables in the built image (which will be available to *everyone* at EPFL). For this you have to follow the convention given in the Dockerfile example, where you preceed the RUN command that uses secret information with `--mount=type=secret,id=my_env source /run/secrets/my_env`.
-	```docker
-	RUN --mount=type=secret,id=my_env source /run/secrets/my_env && \
-		git clone https://${GITHUB_PERSONAL_TOKEN}@github.com/${GITHUB_USERNAME}/<repo-name>.git
-	```
-	and your `.env` file should contain each secret variable in ${} as shown here:
-	```docker
-	GITHUB_PERSONAL_TOKEN=<your_github_access_token>
-	GITHUB_NAME="Firstname Lastname"
-	GITHUB_EMAIL="youremail@email.com"
-	GITHUB_USERNAME="<your_github_username>"
-	```
+```docker
+RUN --mount=type=secret,id=my_env source /run/secrets/my_env && \
+	git clone https://${GITHUB_PERSONAL_TOKEN}@github.com/${GITHUB_USERNAME}/<repo-name>.git
+```
+	and your `.env` file should contain each secret variable in ${} in the command above as shown here:
+```yaml
+GITHUB_PERSONAL_TOKEN=<your_github_access_token>
+GITHUB_NAME="Firstname Lastname"
+GITHUB_EMAIL="youremail@email.com"
+GITHUB_USERNAME="<your_github_username>"
+```
 	Then you can finally pass the secrets to the build command as shown in `build.sh` in `docker/build.sh` with the argument:
-	```console
-	--secret id=my_env,src=.env .
-	```
+```shell
+--secret id=my_env,src=.env .
+```
 4. **Rerunning Docker build from a certain instruction with dummy args:** There can be instances where you would like to rebuild the image from a certain instruction in the Dockerfile. For example, if you would like to re-pull a certain branch of your github repository. As far as we know, docker doesn't provide such an argument. In this case, similar to how we do in the Dockerfile, you would have to create a dummy arg at the desired point of rebuild, which gets passed to the build command with the argument `--build-arg DUMMY=''`. This will force docker to rebuild your image.
 
 Other useful links for Docker:
@@ -324,58 +340,59 @@ Other useful links for Docker:
 All the specific `runai` CLI commands are described in [this reference](https://docs.run.ai/Researcher/cli-reference/Introduction/). Here are some of the most useful ones.
 
 - To list which jobs are running:
-	```console
-	runai list jobs
-	``` 
-	If you want to check this frequently (e.g. every 2 seconds), you can use the watch command
-	```console
-	watch runai list jobs
-	```
+```shell
+runai list jobs
+``` 
+If you want to check this frequently (e.g. every 2 seconds), you can use the watch command
+```shell
+watch runai list jobs
+```
 
 - To display the details of a workload:
-	```console
-	runai describe job <job-name> 
-	```
+```shell
+runai describe job <job-name> 
+```
 
 - To display the logs of a job:
-	```console
-	runai logs <job-name>
-	```
+```shell
+runai logs <job-name>
+```
 
 - To suspend/resume the job:
-	```console
-	runai suspend <job-name>
-	runai resume <job-name>
-	```
+```shell
+runai suspend <job-name>
+runai resume <job-name>
+```
 
 - To delete the job permanently:
-	```console
-	runai delete job <job-name>
-	```
+```shell
+runai delete job <job-name>
+```
 
 - To list which persistent volumes are available to your project:
-	```console
-	kubectl get pvc -n runai-<your-lab-name>-<your-username>
-	```
+```shell
+kubectl get pvc -n runai-<your-lab-name>-<your-username>
+```
 
 - To get a bash session inside a running job:
-	```console
-	runai bash <job-name>
-	```
+```shell
+runai bash <job-name>
+```
 
-- To interact with your *interactive* job through VSCode:
-	```console
-	runai submit <job-name> \
-	-i ic-registry.epfl.ch/<your-lab>/<your-username>/<your-project-name>:<image-tag> \
-	-g 1 --interactive \
-	--service-type=nodeport --port 30022:22 # specify the port to connect to
-	```
-	Then find the cluster ID of the job by listing jobs and then ssh with VSCode. Use root if you want to connect as root, or the user you specified in the Dockerfile if you set it up for NFS permissions:
-	```console
-	ssh -p 30022 root@iccluster<cluster-id>.iccluster.epfl.ch
-	```
+#### VSCode for RunAI
 
-	Other useful tool incorporation with RunAI (e.g. VSCode for interactive mode, Jupyter notebook forwarding etc.) can be found in their docs [here](https://docs.run.ai/Researcher/tools/dev-vscode/).
+To interact with your interactive job through VSCode, make sure the entrypoint command in the `Dockerfile` points to `ENTRYPOINT ["/usr/sbin/sshd", "-D"]` (if you are using interactive mode as root) or `ENTRYPOINT ["/bin/bash"]` (if you are using interactive mode as a user)
+- Install the Kubernetes extension on VSCode.
+- Select Kubernetes on the sidebar, under it :
+```
+generic-runai-context
+├─ Workloads
+│  ├─ Pods
+│  │  ├─ <your job name>
+```
+- Right click the job and select “Attach Visual Studio Code” 
+
+Other useful tool incorporation with RunAI (e.g. VSCode for interactive mode, Jupyter notebook forwarding etc.) can be found in their docs [here](https://docs.run.ai/Researcher/tools/dev-vscode/).
 
 ---
 ## How to ask for help
@@ -393,17 +410,19 @@ When contacting IC-IT, always email [support-icit@epfl.ch](mailto:support-icit@e
 
 - After a few minutes of sending the email, you will receive a confirmation that your ticket has been submitted.
 
-- You can always see the follow-up in your [Demandes / Requests portal](https://support.epfl.ch/epfl?id=epfl_requests). You can also add more people on the ticket by adding their email in the *watch list* section on the right hand-side of the ticket. This way they will get an email for every update just like you do. Note that CC-ing the person doesn't always add them to the watch list, so wait to get this confirmation and add them through the portal GUI.
+- You can always see the follow-up in your [Demandes / Requests portal](https://support.epfl.ch/epfl?id=epfl_requests). 
+
+- **Adding Others in the Ticket:** You can also add more people on the ticket by adding their email in the *watch list* section on the right hand-side of the ticket interface on the portal. This way they will get an email for every update just like you do. Note that CC-ing the person doesn't always add them to the watch list, so wait to get this confirmation and add them through the portal GUI.
 
 Here are some possible scenarios you may be stuck in and you should definitely ask for help:
 - **I am having permission issues on NFS:** This may be because you have recently joined and your group permissions are messed up (e.g. lab unit group doesn't show up in your unix groups due to some max group length problem, or your Dockerfile may be missing some magic user permission setting). It's a good idea to contact IC-IT in this case.
 - **I need more storage than what's available on NFS:** Contact your lab admins to figure out whether it's possible to increase this storage. A simple NFS storage increase request ticket from these people and the lab PI will solve your problem in a day or so.
-- **I need more GPUs then what's available on RunAI (i.e. currently 8 GPUs?):** You will most likely have to request a permission increase from IC-IT and a good reason why you need it. CC-ing your PI will also definitely help!
+- **I need more GPUs then what's available on RunAI (i.e. currently 8 GPUs):** For now this is not possible. Maximum is 8 GPUs per node. And two nodes cannot communicate in the current infrastructure (soon to be possibly added!).
 
 --- 
 ## Acknowledgements
-Written for the NLP lab by Deniz Bayazit, updated to be lab-agnostic March 2023.
+Originally written for the NLP lab by Deniz Bayazit, updated to be lab-agnostic March 2023.
 
 Thank you to the IC-IT team, LSIR, and DLAB for sharing their experiences with setting up these systems with the NLP lab.
-Thank you to Soyoung Oh for documenting RunAI usage for distributed runs [here](https://github.com/sori424/runLLM). A large part of the useful RunAI commands comes from this repository. 
-Thank you to Beatriz Borges, Saibo Geng, Syrielle Montariol, Aurelio Noca, Arina Rak, Gail Weiss for their useful feedback!
+Thank you to Soyoung Oh for documenting RunAI usage for distributed runs with VSCode [here](https://github.com/sori424/runLLM). A large part of the useful RunAI commands comes from this repository. 
+Thank you to Beatriz Borges, Gojko Cutura, Saibo Geng, Skander Moalla, Syrielle Montariol, Khanh Nguyen, Aurelio Noca, Arina Rak, and Gail Weiss (sorted alphabetically) for their useful feedback!
