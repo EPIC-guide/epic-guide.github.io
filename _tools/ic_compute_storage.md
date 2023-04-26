@@ -417,7 +417,7 @@ When contacting IC-IT, always email [support-icit@epfl.ch](mailto:support-icit@e
 Here are some possible scenarios you may be stuck in and you should definitely ask for help:
 - **I am having permission issues on NFS:** This may be because you have recently joined and your group permissions are messed up (e.g. lab unit group doesn't show up in your unix groups due to some max group length problem, or your Dockerfile may be missing some magic user permission setting). It's a good idea to contact IC-IT in this case.
 - **I need more storage than what's available on NFS:** Contact your lab admins to figure out whether it's possible to increase this storage. A simple NFS storage increase request ticket from these people and the lab PI will solve your problem in a day or so.
-- **I need more GPUs then what's available on RunAI (i.e. currently 8 GPUs):** For now this is not possible. Maximum is 8 GPUs per node. And two nodes cannot communicate in the current infrastructure (soon to be possibly added!).
+- **I have a multi-node job requiring inter-node communication on RunAI:** To the best of our knowledge, this isn't possible and the maximum amount of GPUs is 8 per node. However, you can have a multi-node job without inter-node communication.
 
 --- 
 ## Acknowledgements
