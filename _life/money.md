@@ -145,8 +145,7 @@ To file your taxes, open the VaudTax website, log in with your n° de contribuab
   - **This is crucial**, and as of 2022 the software does not automatically sync the à la source amount with the one you declared on your job, so don't skip this step
 - In the right sidebar, under "Outils" > "Gérer des pièces justificatives", in the second group you must upload your 3a certificate for the year, if applicable; nothing else
 - You can then check the entire computation using "Outils" in the right sidebar > "Calculer les impôts".
-  - For an average PhD student with a 3a pillar maxed out for the year, the taxes should be 2.5-3k, and the "solde" should be _negative_ 2-2.5k, meaning they owe you money back
-  - If it's your first year and you joined around September, you likely owe 0 in actual taxes and thus will get all of your à la source paid taxes back, typically 1.5k
+  - For a full year in Switzerland of an average PhD student with a 3a pillar maxed out for the year, the taxes should be 2.5-3k, and the "solde" should be _negative_ 2-2.5k, meaning they owe you money back
   - Without a 3a pillar your "solde" will be around zero or even positive, so there is no point in doing a "taxation ordinaire ultérieure" in that case unless you have to
 - You can then finish by clicking on "Transmettre" in the right sidebar > "Vérifier..." and clicking on the confirmation buttons
   - Once it's done, download all three documents you can download: two are PDF statements, and one is a ZIP that will make the process much easier next year as you can simply import it and only edit what changed
