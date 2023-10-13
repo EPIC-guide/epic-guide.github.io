@@ -42,11 +42,13 @@ This guide was adapted from the EPFL NLP resource guide, therefore it may have s
 
 ---
 ## Resource Summary
-In short, you have access to 4 main resources, 2 compute and 2 storage:
+In short, you have access to 3 main resources, 2 compute and 2 storage:
 - **HaaS (Hardware as a Service):** a machine reservation based service that allows you to work on your own reserved machine (see [§HaaS](#haas)).
 - **RunAI (CaaS - Cluster as a Service):** a scheduler-based service that allows you to submit jobs to a cluster of GPU nodes alongside with a Docker image (see [§RunAI](#runai)).
 - **NFS (Network File System):** chances are, your lab has a large storage service that allows you to save TBs of data (see [§NFS](#nfs-storage)). If you don't, ask your PI to request one!
-- **RunAI Scratch Volume:** finally another 40TB storage that can only be interfaced with RunAI. Keep in mind that this storage can sometimes be full due to the fact that it's shared with every lab in IC.
+
+Note that the RunAI Scratch service is no longer available.
+<!-- - **RunAI Scratch Volume:** finally another 40TB storage that can only be interfaced with RunAI. Keep in mind that this storage can sometimes be full due to the fact that it's shared with every lab in IC. -->
 
 ## Pre-reqs for all resources
 - Make sure to read the *Tentative Lab Policy* subsection of each resource before using them.
@@ -55,15 +57,15 @@ In short, you have access to 4 main resources, 2 compute and 2 storage:
 ## HaaS vs. RunAI: What should I use?
 This is completely up to your situation:
 - **I need to quickly test my code on a node with GPUs**: 
-	- *HaaS:* If your lab has a shared machine, you could quickly test a GPU-using code on 1-2 GPUs. Reserving a whole machine for yourself to quickly try something may slow your process down. However, if the lab doesn't provide such a shared HaaS machine then you will have to reserve and set it up yourself.
-	- *RunAI:* Another option is to use RunAI's interactive mode. Some people have noticed that this service is not always available due to maintenance, so choose one or the other depending on its status.
+	- *HaaS:* If your lab has a shared machine, you could quickly test a GPU-using code on 1-2 GPUs (~12GB each). Reserving a whole machine for yourself to quickly try something may slow your process down. However, if the lab doesn't provide such a shared HaaS machine then you will have to reserve and set it up yourself.
+	- *RunAI:* Another option is to use RunAI's interactive mode (only one 40GB A100 GPU). Note that you can at most use only one GPU for this purpose.
 - **I need to parallelize a {large amount of experiments / big model}**: 
-	- *RunAI:* In this case, you will most likely need RunAI, as one cannot reserve a node with more than 8 GPUs in HaaS (and if you wanted exactly 8 GPUs, those machines are scarcily available, you will have to reserve them ahead of time).
+	- *RunAI:* In this case, you will most likely need RunAI, as one cannot reserve a node with more than 8 GPUs in HaaS (and if you wanted exactly 8 GPUs, those machines (1) are scarcily available, you will have to reserve them ahead of time and (2) have only 12GB GPUs).
 - **I am starting long-term project of a few months and want a constant repo access:** 
 	- Both *Haas* and *RunAI* have access to the NFS folders, a storage service where you can directly clone your repo and make changes remotely. This way you can switch between the two resources depending on your preference. 
-	- In this case you may even consider reserving your own HaaS machine. However, we suggest starting the process with the lab shared HaaS machine first.
+	- We suggest starting the process with the lab shared HaaS machine first.
 
-*NOTE: Let us know if there are any other cases/reasons you might choose one over the other!*
+*NOTE: Please add any other cases/reasons you might choose one over the other!*
 
 ---
 ## NFS Storage
@@ -102,8 +104,9 @@ chmod 700 /mnt/*/<lab-nfs-name>/home/<your-username>
 ```
 
 Now you are all setup! This is where you should keep your code, experiment logs, etc. *Why?* 
-1. Chances are your lab is using an LDAP authentication setup for HaaS, therefore your user's root directory in `/home/<your-username>` on the local machine are not saved in snapshots. If by some accident your machine gets wiped out, your home directory contents will be gone, but the NFS storage will persist somewhere else. 
-2. This makes it easier to share files between HaaS and RunAI nodes, if you want to work with both resources and don't want to keep cloning repos and datasets left and right.
+1. If you have a lab-shared machine on HaaS with more than 8 users, you will run into disk out of space issues very quickly.
+2. Chances are your lab is using an LDAP authentication setup for HaaS, therefore your user's root directory in `/home/<your-username>` on the local machine are not saved in snapshots. If by some accident your machine gets wiped out, your home directory contents will be gone, but the NFS storage will persist somewhere else. 
+3. This makes it easier to share files between HaaS and RunAI nodes, if you want to work with both resources and don't want to keep cloning repos and datasets left and right.
 
 ### Directory navigation
 We delete the following content originally from the NLP compute guide as it is highly-lab specific. Please ask whoever is responsible of the NFS folder in your lab to understand how your it is organized and what policies you should follow. You will most likely have home directories, as well as shared directories for datasets and models.
@@ -172,11 +175,20 @@ Once you know how to authenticate, all you have to do is to ssh into the machine
 ssh <your-username>@iccluster<cluster-id>.iccluster.epfl.ch
 ```
 
-Now you should be at `/home/<your-username>` or `/root`. Feel free to upload things here but keep in mind that if your machine is reset (which can be done by someone else by accident), you will lose all progress. So if it's possible, keep most of your directories in your NFS home directory and not this local one.
+Now you should be at `/home/<your-username>` or `/root`. Keep in mind that if you upload content here instead of a NFS folder, and your machine is reset (which can be done by someone else by accident - speaking out of experience), you will lose all progress. So if it's possible, keep nearly all of your directories in your NFS home directory and not this local one.
+
+
+#### Moving HaaS & RunAI cache folders to NFS
+
+If you have a shared lab machine, it's probably a good idea to move cache folders to your NFS home folder and to create a symbolic link to the local home folder (applies to `.cache`, `.conda`, `.vscode-server` - if you didn’t directly download it into your NFS folder). Don't forget to recreate this link on RunAI entrypoints if you want to use the same cache there:
+```shell
+mv /home/<username>/.cache /mnt/**/<lab-nfs-name>/home/<username>/.cache
+ln -s /mnt/**/<lab-nfs-name>/home/<username>/.cache /home/<username>/.cache
+```
 
 #### Disk Space Troubleshoot
 If you seem to get a disk space full issue (e.g. while downloading a file, or creating a new environment), it’s most likely due to somebody (or you) storing a lot of files in their local home folder.
-First check that the dev folder (responsible for local folders) is the culprit by running `df -h` or `df -H`. The `/dev/sda1` row should have almost no availability:
+First check that the dev folder (responsible for local folders) is nearly completely used by running `df -h` or `df -H`. The `/dev/sda1` row should have almost no availability:
 ```shell
 Filesystem                                     Size  Used Avail Use% Mounted on
 udev                                           136G     0  136G   0% /dev
@@ -184,19 +196,15 @@ tmpfs                                           28G  4.2M   28G   1% /run
 /dev/sda1                                      233G  190G   32G  86% /
 tmpfs                                          136G  167M  136G   1% /dev/shm
 ```
-If your lab startup script uses an LDAP login system, and you are sharing the machine, you can check the usage in the local `/home` folder by running the `du -m -s * | sort -n +0 -1` command.
+If your lab startup script uses an LDAP login system, and you are sharing the machine, you can check the usage in the local `/home` folder by running the `du -m -s * | sort -n +0 -1` command. Or go to `/` and run `du -sh * .??* --exclude=home --exclude=mnt | sort -n +0 -1`. Then slack this owner to move their data to their NFS home folder. You can also check hidden files and folders with `du -hs .[^.]*| sort -n +0 -1`.
 
-If the problem is your own directory: a solid (but hacky) tip is to move your cache heavy folders into NFS and to link it to avoid local disk space issues. Folders that often grow are `~/.cache/`, `~/.vscode-server/`, and `~/.conda/`.
-The solution is to move these folders (or in the case of `conda` directly download them) to the NFS `/mnt/**/<lab-nfs-name>/home/<username>/` folder and create a symlink to the home folder. For example, for the `~/.cache` folder, run these 2 commands:
-```shell
-mv /home/<username>/.cache /mnt/**/<lab-nfs-name>/home/<username>/.cache
-ln -s /mnt/**/<lab-nfs-name>/home/<username>/.cache /home/<username>/.cache
-```
+If the problem is your own directory: a solid tip is to move your cache heavy folders into NFS as mentioned in the subsection above.
 
 #### VSCode for HaaS Troubleshoot
 If VSCode is having trouble connecting with the cluster you may consider:
 - Killing the server through the VSCode command, or you could consider removing the `.vscode-server` folder. 
 - Reconfiguring the host may help as well. Remove the `iccluster<cluster-id>` instance in your vscode ssh config file. Then add it back with VSCode commands.
+- Once, an unkown extension was the problem where the user couldn't ssh into any server (including HaaS). Try to SSH to non-EPFL servers to see if that's the case. To get rid of the issue you may need to re-download vscode locally.
 
 ### Tentative Lab Policy
 - **To avoid loss of data:** always save your code and data in your NFS home directory
@@ -227,7 +235,7 @@ Once you have access you can monitor RunAI node and GPU usage through the dashbo
 	3. **Run:AI CLI** (Command Line Interface) from the [dashboard](https://epfl.run.ai/) on the top right help icon *(?) > Researcher Command Line interface*. Keep in mind that the binary download option may need security bypassing. So we recommend the `wget` command option instead. If there is a certificate expiry problem, consider adding the argument `--no-check-certificate` to the `wget` command. Then follow [the instructions on the RunAI website](https://docs.run.ai/admin/researcher-setup/cli-install/#install-runai-cli). You just need to read the "Install Run:ai CLI" section. If you run into other problems, more information can be found on the same page.
 	4. **Docker** from [their website](https://docs.docker.com/engine/install/) or through [CLI for ubuntu](https://docs.docker.com/engine/install/ubuntu/).
 2. Then complete authentication with both Run:AI CLI and harbor.
-	1. Download the EPFL [kubernetes config file](https://icitdocs.epfl.ch/download/attachments/23986177/config?version=1&modificationDate=1656340636000&api=v2) and move it to `~/.kube`.
+	1. Download the EPFL [kubernetes config file](https://icitdocs.epfl.ch/download/attachments/23986177/sample_runai_kubectl_config?version=2&modificationDate=1693998652000&api=v2) and move it to `~/.kube`.
 	2. Export it with :
 		```shell
 		export KUBECONFIG=~/.kube/config
@@ -251,7 +259,9 @@ Now you should be all set!
 
 ### Setting up RunAI on a HaaS machine
 
-Follow the same steps as setting it up on your personal machine *BUT*:
+First, check-in with your lab members if RunAI prerequisites are already installed on a shared machine.
+
+If not, follow the same steps as setting it up on your personal machine *BUT*:
 - If you are downloading the pre-requisites to your local home folder, consider creating a folder that you can add to your path such as `mkdir -p ~/.local/bin` and move the pre-requisites in there with `mv ./<prereq> ~/.local/bin/<prereq>`, where `<prereq>` can be `kubectl`, `runai`, or `helm`.
 
 - For docker on the other hand, if you have reserved your own machine make sure to download docker as root or a sudo user. If you also want your user to have docker access add yourself to the docker group with `usermod -aG docker <your-username>`. Double-check you've been added with `getent group <group-name>` or `groups <group-name>`, where `<group-name>` is `docker`. Once you've done this, you will have to reboot the machine with `sudo reboot` or the "Power Cycle" option in the portal *My Servers > List Server* section, which should take around 1 minute. If interaction seems laggy after the reboot, re-reboot. As IC-IT once told us: *"never underestimate the power of a boot"*.
@@ -292,13 +302,13 @@ While these modes have different implications, they can be run the same way:
 		--name <your-job-name> \ # specify your job name
 		-i ic-registry.epfl.ch/<your-lab>/<your-username>/<your-project-name>:<image-tag> \ # specify the harbor image to use
 		--gpu 1 --cpu 1 \ # specify amount of CPUs or GPUs needed
-		--pvc <your-pvc>:<your-mount-dest> \ # if you need to mount a persistent volume (e.g. NFS or scratch) specify which one + where to mount it after the colon, to find out your pvc name, see "kubectl get pvc" in §useful-runai--kubectl-commands
+		--pvc <your-pvc>:<your-mount-dest> \ # if you need to mount a persistent volume (e.g. NFS) specify which one + where to mount it after the colon, to find out your pvc name, see "kubectl get pvc" in §useful-runai--kubectl-commands
 		--node-type G10 # specify node type, options shown at https://icitdocs.epfl.ch/display/clusterdocs/Servers+Details
 		# --interactive -- sleep infinity => makes it interactive and stops from logging out
 		# --attach => if you get sleep infinity deprecated error you might just need to do attach and remove “-- sleep infinity”
 		# --command -- run.sh => overrides entrypoints specified by the docker image
 		```
-If you would like to submit a distributed workload, we suggest reading [Launch Distributed Training Workloads](https://docs.run.ai/Researcher/Walkthroughs/walkthrough-distributed-training/).
+<!-- NOTE: The following is currently not possible on EPFL RunAI. Will keep it here in case something changes in the future. -- If you would like to submit a distributed workload, we suggest reading [Launch Distributed Training Workloads](https://docs.run.ai/Researcher/Walkthroughs/walkthrough-distributed-training/). -->
 
 ### Writing a Dockerfile
 
@@ -379,6 +389,8 @@ kubectl get pvc -n runai-<your-lab-name>-<your-username>
 runai bash <job-name>
 ```
 
+*NOTE: For the following subsections, we encourage you to add other valid methods to have interactive Jupyter notebooks, as well as VSCode tips.*
+
 #### VSCode for RunAI
 
 To interact with your interactive job through VSCode, make sure the entrypoint command in the `Dockerfile` points to `ENTRYPOINT ["/usr/sbin/sshd", "-D"]` (if you are using interactive mode as root) or `ENTRYPOINT ["/bin/bash"]` (if you are using interactive mode as a user)
@@ -393,6 +405,38 @@ generic-runai-context
 - Right click the job and select “Attach Visual Studio Code” 
 
 Other useful tool incorporation with RunAI (e.g. VSCode for interactive mode, Jupyter notebook forwarding etc.) can be found in their docs [here](https://docs.run.ai/Researcher/tools/dev-vscode/).
+
+#### Interactive Jupyter Notebook for RunAI
+
+One way to have an interactive jupyter notebook on RunAI is by forwarding ports with kubectl manually. 
+1. Don't forget to provide the necessary interactive flags in your runai submit command:
+```shell
+--interactive --attach
+```
+
+2. Find the name of the pod you want to do port forwarding:
+```shell
+kubectl get pods
+```
+
+3. Perform the port forwarding ([kubernetes docs](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)):
+```shell
+kubectl port-forward <name_of_pod> 8888:8888
+```
+- The syntax is Local port number : Remote pod port number
+- You can check if port 8888 is already in use with lsof -i :8888 on local machine
+- If port 8888 is already in use, you can use a different port
+- If you wish to spawn Jupyter notebook on a different port on the remote pod, use jupyter notebook --port 1234
+
+4. Access your pod with a bash session:
+```shell
+runai bash <name_of_pod>
+```
+
+5. Start the Jupyter notebook on remote pod:
+```shell
+jupyter notebook --port 8888
+```
 
 ---
 ## How to ask for help
@@ -425,4 +469,5 @@ Originally written for the NLP lab by Deniz Bayazit, updated to be lab-agnostic 
 
 Thank you to the IC-IT team, LSIR, and DLAB for sharing their experiences with setting up these systems with the NLP lab.
 Thank you to Soyoung Oh for documenting RunAI usage for distributed runs with VSCode [here](https://github.com/sori424/runLLM). A large part of the useful RunAI commands comes from this repository. 
-Thank you to Beatriz Borges, Gojko Cutura, Saibo Geng, Skander Moalla, Syrielle Montariol, Khanh Nguyen, Aurelio Noca, Arina Rak, and Gail Weiss (sorted alphabetically) for their useful feedback!
+Thank you to Khai Loong Aw for the section on interactive RunAI Jupyter notebooks. 
+Thank you to Badr AlKhamissi, Beatriz Borges, Gojko Cutura, Saibo Geng, Karina Halevy, Sepideh Mamooler, Skander Moalla, Syrielle Montariol, Khanh Nguyen, Aurelio Noca, Arina Rak, and Gail Weiss (sorted alphabetically) for their useful feedback!
