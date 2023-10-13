@@ -25,6 +25,7 @@ In practice, most people have not done research with 3 advisors before starting 
 It's acceptable to have one or even two letters from people who merely taught a course you got a good grade in,
 or people who worked with you at an industry job.
 If you mention anyone specific as a past collaborator in your statement of purpose or resume, you should get a letter from them, or explain why you cannot.
+This is especially true if you have published papers: at least one of your senior coauthors should be writing you a letter of recommendation.
 
 You should email people who you would like a reference from by asking them whether they can write "a strong letter of recommendation",
 which is wording that allows them to easily say no rather than write a weak letter that could doom your application.
