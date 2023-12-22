@@ -16,4 +16,4 @@ If you're preparing application materials anyway, and you think EPFL is a good o
 [applying](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/)!
 If you are still doing an undergrad, how about the [Summer@EPFL](https://summer.epfl.ch/) internship program?
 
-**Are you applying for a PhD but lacking mentorship? [Click here!](/ramp)**
+<!-- **Are you applying for a PhD but lacking mentorship? [Click here!](/ramp)** -->
