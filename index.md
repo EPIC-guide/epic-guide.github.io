@@ -8,7 +8,7 @@ This information is provided by students, for students and does not officially r
 
 ## Call for contributions
 
-We try to keep the guide up to date, but if you notice any inconsistencies please tell us at [epic@groupes.epfl.ch](mailto:epic@groupes.epfl.ch),
+We try to keep the guide up to date, but if you notice any inconsistencies please tell us at `epic [at] groupes [dot] epfl [dot] ch`,
 or make a pull request on [GitHub](https://github.com/EPIC-guide/epic-guide.github.io).
 For the guide to grow and stay current over time, we need **you** to contribute!
 
