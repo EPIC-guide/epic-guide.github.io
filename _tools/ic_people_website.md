@@ -6,12 +6,9 @@ order: 2
 number_sections: TRUE
 ---
 
-EPFL IC provides personal research page hosting at a URL like `ic-people.epfl.ch/~gaspar` domain.
+EPFL IC provides personal research page hosting at a URL of the form `ic-people.epfl.ch/~gaspar`. Details about setup, templates, and usage policies can be found in the official [IC-People GitHub repository](https://github.com/EPFL-IC/ic-people-website). Quick setup if you are connected to EPFL VPN:
 
-- Protocol: sftp
-- Host: ic-people-files.epfl.ch
-- Username: Gaspar Username
-- Password: Gaspar Password
-- Index folder: public_html
-
-Details about setup, templates, and usage policies can be found in the official [IC-People GitHub repository](https://github.com/EPFL-IC/ic-people-website).
+- Protocol: SFTP
+- Host: `ic-people-files.epfl.ch`
+- Username and password: same as GASPAR
+- Index folder: `public_html`
