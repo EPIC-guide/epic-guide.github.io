@@ -135,7 +135,7 @@ To file your taxes, open the VaudTax website, log in with your n° de contribuab
   - The rest will typically be empty (0 for the subsidy box)
 - Under "Etats des titres"
   - Under "Comptes et livrets bancaires, ...", add each of your accounts, including those closed during that year; you can use Google for the exchange rates on the 31st of December for any foreign currency accounts
-    - Your interest is typically not subject to withholding tax, unless you are sure it is
+    - If your bank statement says something about a withholding tax of 35%, then your interest is subject to withholding tax, otherwise not
   - Under "Fonds de placement", put any indexed funds you are investing in, if applicable
 - Under "Autres éléments de fortune et revenus de fortune", put any other wealth you have such as a car
 - Under "Déductions spéciales sur le revenu"
