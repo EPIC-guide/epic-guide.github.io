@@ -13,7 +13,7 @@ official Swiss languages take precedence.
 
 As an EPFL employee, you are entitled to five weeks of paid personal leave every
 calendar year, and an additional week if you are under 20 or over 50. You must
-take two consecutive weeks of leave every year, and you must use up all five
+take two consecutive weeks of leave every year, you must use up all five
 weeks in each calendar year as far as possible, and EPFL HR really does not want
 you to carry vacation days over year to year.
 
@@ -24,7 +24,7 @@ which the following are probably most relevant to PhD students:
 * first aid or medical treatment of a member of your household: up to 3 days in each instance
 * if you are moving house: 1 day per calendar year
 * the death of a parent or member of your household: 5 days
-* the death of an other family member: up to 3 days
+* the death of a family member other than the above: up to 3 days
 
 ([RS 172.220.113 art. 51](https://www.fedlex.admin.ch/eli/cc/2001/279/fr#art_51),
 [RS 172.220.113 art. 52](https://www.fedlex.admin.ch/eli/cc/2001/279/fr#art_52),
@@ -59,20 +59,16 @@ There are other provisions for adoption, illness of young children, etc. Consult
 the laws for more details. Sorry for the heteronormative language—that’s just
 how the laws are phrased (in French) and I didn’t want to introduce inaccuracies.
 
-([RS 172.220.113 arts. 47–47b](https://www.fedlex.admin.ch/eli/cc/2001/279/fr#art_47),
+([RS 172.220.113 arts. 37–37b](https://www.fedlex.admin.ch/eli/cc/2001/279/fr#art_37),
 [Maternity – EPFL HR](https://www.epfl.ch/campus/services/human-resources/en/maternity/),
 [Pregnancy, maternity, paternity, breastfeeding – EPFL Community & Support](https://www.epfl.ch/campus/community/family-and-work-life/pregnancy-maternity-paternity-breastfeeding/))
 
 ## Remote work
 
 No academic discussion of vacations is complete without mentioning remote work…
-
-“Teleworking is neither a right nor an obligation” per the rules. Any remote
-work policy/schedule has to be agreed upon by you and your supervisor and the
-agreement can be ended with one month’s notice. “[Teleworking from abroad] is
-not to exceed two weeks per year, and is subject to the requirement that the
-employee must have used her or his vacation from prior years by 30 April of the
-current year.” Occasional remote work does not have to be recorded with HR, but
-a regular remote work agreement does.
+“Teleworking is neither a right nor an obligation” per the rules. Talk with your
+supervisor to see what agreement you can come to. Usually, these agreements can
+stay informal and flexible, as long as you and your supervisor are on the same
+page. If you really want to know the rules to a tee, see the sources below.
 
 (LEX 4.1.8 [en](https://www.epfl.ch/about/overview/wp-content/uploads/2022/02/LEX-4.1.8_EN.pdf)/[fr](https://www.epfl.ch/about/overview/wp-content/uploads/2022/02/LEX-4.1.8.pdf))
