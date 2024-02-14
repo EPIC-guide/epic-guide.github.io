@@ -14,17 +14,41 @@ It provides your payment slips, including those necessary for taxes, the reimbur
 
 ## Pay
 
-The pay for PhD students is set at the federal level. As of 2023, it is 54,000 CHF/year for the first year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years.
-([source](https://inside.epfl.ch/internalhr/fr/prestationsrh/salaires/forfaits/))
+The pay for PhD students is set at the EPF level subject to the approval of the
+*Conseil des EPF* / *ETH Rat*. As of 2024, it is 54,550 CHF/year for the first
+year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years
+([source](https://www.epfl.ch/campus/services/human-resources/en/basic-starting-salary-of-doctoral-assistants-and-postdocs/)).
+
+Note that the 1,000 CHF/year increment:
+* applies every *calendar* year (not based on your ‘PhD years’), and three times
+  in total;
+* is calculated *pro rata temporis* based on what fraction of the previous year
+  you were employed (in any capacity, not just as a PhD student);
+* is added to whatever your annual salary was in the previous calendar year;
+* is not technically guaranteed, as the webpage above says that it “may be paid,
+  budgetary resources and economic situation permitting”, but has indeed been
+  applied every year as far as we know.
+
+Thus, if you start in September 2024 with a starting annual salary of
+54,550 CHF, then through December 2024, you will have worked 4/12th of the year
+at that rate and earned 4/12th of that amount. So in January 2025, your annual
+salary will be incremented by 1,000 × 4/12 = 333 CHF (not a rounding error—the
+annual salary seems to always be a whole number) to give 54,883 CHF. And if you
+work that full year, then for 2026, your annual salary will become 55,883 CHF.
+
+In some years, EPFL can announce an inflation compensation, which is applied
+after any annual increment. For instance, if they announce an adjustment of 1%
+for 2025, your annual salary for that year will be (from above) 54,883 + 1% =
+55,432 CHF. If there is then a 2% adjustment for 2026, your annual salary for
+2026 will be (55,432 + 1,000) + 2% = 57,561 CHF.
 
 There is one slightly unusual factor to take into account: the 13th salary.
-The 13th salary system means that your salary is split into 13 and you get 1/13th each month,
+The 13th salary system means that you get 1/13th of your annual salary each month,
 with the last 1/13th being given to you partly in November and partly in December.
 The origins of this system are historically not so clear, but nowadays it’s basically a way for you to pay for Christmas presents and such.
 
-Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary.
-Here's an example breakdown for a first year monthly PhD salary **as of January 2023** (the amounts may have slightly changed since then):
-This is from a non-November/December month, in those months it would be more due to the 13th salary mentioned above.
+Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary.
+Here’s an example breakdown for a first year monthly PhD student salary, for a non-November/December month (see above), **as of January 2023** (the amounts may have slightly changed since then):
 
 | Gross salary             | 4194.65 CHF |
 | First pillar (AVS)       | -222.30 CHF  |
