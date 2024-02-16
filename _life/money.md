@@ -20,8 +20,7 @@ The pay for PhD students is set at the federal level subject to the approval of 
 As of 2024, it is 54,550 CHF/year for the first year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years
 ([source](https://www.epfl.ch/campus/services/human-resources/en/basic-starting-salary-of-doctoral-assistants-and-postdocs/)).
 
-The main unusual factor is the "13th salary" system: your salary is divided into 13, not 12, parts,
-and the extra 1/13th being given to you partly in November and partly in December.
+The main unusual factor is the "13th salary" system: you receive 1/13th of your annual salary every month, not 1/12th, and the last 1/13th is given to you partly in November and partly in December.
 The origins of this system are historically not so clear, but nowadays it’s basically a way for you to pay for Christmas presents and such.
 If you did not work the whole year, for instance because you started in September, or because you did an internship in the summer,
 the 13th salary is adjusted proportionally.
