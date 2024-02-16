@@ -110,7 +110,7 @@ The general principles of Swiss taxation are:
 > ⚠️ The remainder of this page is a helpful guide to common taxable items and deductions _in the canton of Vaud_, not tax advice about your personal situation.
 > You should still read every field in the tax form at least once to ensure you do not forget anything.
 
-If you have a B permit but do not meet one of the criteria explained at the beginning of this page, typically because you have a 3a pillar, you must request an "ulterior ordinary taxation", or TOU "taxation ordinaire ultérieure" in French.
+If you have a B permit and (i) you make more than 120k, or (ii) your wealth is over 50k, or (iii) you have undeclared revenue—typically because you have a 3a pillar—you must request an "ulterior ordinary taxation", or "taxation ordinaire ultérieure" (TOU) in French.
 The form to request one is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
 Once this is done, you keep being taxed at the source, but you have to follow the procedure described below to file your taxes.
 Opting for a TOU cannot be undone. Once requested, you will have to file your taxes every year.
