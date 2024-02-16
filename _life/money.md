@@ -83,8 +83,8 @@ Switzerland has a system based on three pillars: shared mandatory, personal mand
 
 The first pillar is mandatory retirement savings, taken out of the salary, as a global pool for everyone. Called "AVS", equivalent to "social security".
 
-The secpond pillar is also mandatory retirement savings, taken out of the salary, but for yourself.
-The provider is always [Publica](https://publica.ch/) for EPFL employees.
+The second pillar is also mandatory retirement savings, taken out of the salary, but for yourself.
+The provider is always [PUBLICA](https://publica.ch/) for EPFL employees.
 Money is blocked until you retire, "permanently" leave the country, use it to buy a house, or use it to start a company.
 
 The third pillar is optional, for yourself, and can be deducted from your taxable income up to a cap of around 7000 CHF per year which increases slightly every few years.
