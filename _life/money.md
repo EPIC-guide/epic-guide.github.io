@@ -79,7 +79,7 @@ Luckily, this guide has you covered with [banking, taxes, and other advice](/lif
 
 ## Retirement
 
-Switzerland has a system based on three pillars: shared mandatory, personal mandatory, and personal optional.
+Switzerland has a retirement savings system based on three pillars: shared mandatory, personal mandatory, and personal optional.
 
 The first pillar is mandatory retirement savings, taken out of the salary, as a global pool for everyone. Called "AVS", equivalent to "social security".
 
