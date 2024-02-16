@@ -7,8 +7,8 @@ order: 9
 
 The short version:
 - PhD students get paid around 55k CHF/year, with small yearly increases, and paystubs are available on the internal [SESAME](https://sesame2.epfl.ch) tool.
-- To store this money, get an account at any Swiss bank, they are roughly equivalent in terms of services and typically have student discounts.
-- Get your bank's [TWINT](https://www.twint.ch/en/) app to easily send and receive money using phone numbers, you typically won't need a credit card.
+- To store this money, get an account at any Swiss bank. They are roughly equivalent in terms of services and typically have student discounts.
+- Get your bank's [TWINT](https://www.twint.ch/en/) app to easily send and receive money using phone numbers. You typically won't need a credit card.
 - You automatically save money for retirement as an employee in Switzerland, and you can save extra money in a "3a pillar" account which is tax-deductible up to a limit.
 - If you are on a B permit _and_ you make less than 120k _and_ your wealth is under 50k _and_ you have no undeclared revenue, taxes are taken automatically from your salary and you need not worry about them.
 - If you do not meet the criteria above, or if you have special deductions such as a 3a pillar or withheld taxes from investments or savings, you need to explicitly file your taxes, see below.
