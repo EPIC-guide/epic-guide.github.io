@@ -115,11 +115,11 @@ Filing taxes in the canton of Vaud is done via [VaudTax](https://www.vd.ch/theme
 the government-provided online tool that figures out your federal, cantonal, and communal taxes for you based on data you input.
 
 If you are not a permanent resident:
-- if (i) you make more than 120k, or (ii) your wealth is over 50k, or (iii) you have undeclared revenue, you _must_ request an "ulterior ordinary taxation",
+- If (i) you make more than 120k, or (ii) your wealth is over 50k, or (iii) you have undeclared revenue, you _must_ request an "ulterior ordinary taxation",
   referred to as "TOU" for "taxation ordinaire ultérieure" in French.
-- if you do not meet these criteria but believe you qualify for enough deductions to make a difference, typically because you have a 3a pillar, you _may_ request a TOU.
+- If you do not meet these criteria but believe you qualify for enough deductions to make a difference, typically because you have a 3a pillar, you _may_ request a TOU.
   VaudTax has a simulation mode that does not need identifiers, which you can use to decide whether requesting a TOU is worth it in your case.
-- otherwise, you have nothing to do, as the right amount of taxes is already deduced from your paycheck each month.
+- Otherwise, you have nothing to do, as the right amount of taxes is already deducted from your paycheck each month.
 
 The form to request a TOU is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
 Once this is done, you keep being taxed at the source, but you have to follow the procedure described below to file your taxes.
