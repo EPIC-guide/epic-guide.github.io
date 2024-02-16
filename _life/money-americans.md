@@ -145,7 +145,8 @@ Revolut.
 
 ### Pillar 3a retirement savings
 
-Don't. Invest in an IRA in the US instead. Pillar 3a (and Pillar 2) has
+Don't. Invest in an IRA in the US instead, but make sure you don't contribute more
+than your taxable income. Pillar 3a (and Pillar 2) has
 interactions with both US and Swiss taxes, so see [§ Taxes](#taxes) for more.
 
 ## Taxes
@@ -164,13 +165,25 @@ However, the US in its infinite benevolence provides you relief from these
 obligations in several ways:
 
  * You can take a foreign tax credit for foreign tax you have already paid, or you
-   can deduct certain foreign earned income from your taxable income. (You may still
+   can exclude certain foreign earned income from your taxable income. (You may still
    owe the US some taxes after these reductions.)
-   The foreign tax credit is usually the better choice. For 2022, you need to file
-   Schedule 3 to Form 1040 and Form 1116 to claim it.
+
+   The foreign earned income exclusion is $120k for 2023. There are some eligibility
+   conditions, notably that your tax home must have been outside the US for the whole
+   tax year. You need to file Schedule 1 to Form 1040 and Form 2555 to claim it. This
+   will let you exclude your entire PhD student salary from your taxable income.
+   EPFL's contributions to your Pillar 2 account will still be part of your taxable
+   income. The amount you can contribute to an IRA is limited to the smaller of your
+   taxable income and the general limit ($6k).
+
+   The foreign tax credit does not have the full-year condition. For 2022, you need
+   to file Schedule 3 to Form 1040 and Form 1116 to claim it.
+
  * Due to US-Swiss tax treaties, typically only one of the two countries can tax you
    on interest, dividends, pensions, estates, etc. Figuring out which country(s) for
-   which types of income at which rates is best left to a professional.
+   which types of income at which rates is best left to a professional for anything
+   beyond the simplest cases.
+
  * Due to US-Swiss totalization agreements, typically every income source will owe
    social security contributions to only one of the two countries. Swiss Pillar 1 is
    seen as equivalent to Social Security, but Swiss Pillar 2 has no privileged
@@ -196,13 +209,15 @@ the IRS will charge interest on underpaid taxes starting from the regular deadli
 
 #### Pillar 2
 
-For US tax purposes, your contributions to Swiss Pillar 2 are not deductible
-from your income, because the US does not recognize this as anything other than
-ownership interest in a foreign fund. In fact, your employer's contributions[^8] to
-Pillar 2 are considered part of your wages and should be reported as such. The
-eventual distribution from Pillar 2 will be tax-exempt in the US when it is
-taxed in Switzerland if I am reading the US-Swiss tax treaty correctly. You need to
-report the total value of your Pillar 2 with your foreign assets.
+For US tax purposes, your Pillar 2 account is considered part of a *nonexempt
+employee trust*. Your contributions (*Cotisations CP* on your paystubs) are part of
+your income. In fact, your employer's contributions[^8] (*Cotisations CP EMP*) to
+Pillar 2 are also considered part of your income and should be reported as such. The
+eventual distribution from Pillar 2, minus the amount already taxed when you
+contributed it, will be taxed in the US (assuming no Swiss tax liability at that
+point). You need to report the total value of your Pillar 2 with your foreign assets.
+Your employer's contributions cannot be excluded as part of the foreign earned income
+exclusion, if you are claiming it.
 
 ### US state taxes
 
@@ -258,8 +273,7 @@ Note that you are _required_ to file a TOU under certain circumstances, one of w
 is if you have any income not subject to source withholding, such as investment
 returns. Like the elective TOU, this TOU remains applicable for future years even if
 the obligatory conditions are no longer applicable (which makes no sense to me). Then
-there are two or maybe
-three relevant annexes to the standard tax return:
+there are two relevant annexes to the standard tax return:
 
  1. Annex 1, _État des titres et autres placements de capitaux_, or Statement of
     securities and other capital investments. Most of it will be blank except for the
@@ -281,17 +295,10 @@ three relevant annexes to the standard tax return:
 	amount in DA-1? Morally I feel you should be able to, to avoid double taxation,
 	but I can't be sure about the legal answer.
 
- 1. Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d'impôt
-    USA 20XX_, or Request for refund of US supplemental withholding tax 20XX (replace with actual year). This is
-    where it gets tricky. I believe this is for US investments made through _Swiss_
-    brokers, who automatically withhold some tax as a compliance measure (maybe
-    something about FATCA and the vagaries of the US-Swiss tax treaties?), so that
-    you have to file a return to get it back. I don't think this applies for US
-    investments made in the US.
-    If you really want to learn more about situations in which this form may be
-    required,
-    [this article](https://www.mustachianpost.com/swiss-tax-guide-for-investors-in-etfs/)
-    may be helpful. (Warning: not written with a US citizen audience in mind!)
+Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d'impôt USA_,
+or Request for refund of US supplemental withholding tax, is for US investments made
+through _Swiss_ brokers, who automatically withhold some tax as a compliance
+measure. This should not apply to you.
 
 Lastly, two points worth clarifying. One, that the Canton of Vaud's tax return filing
 deadline is March 15, a month before your US federal tax return is due, although
