@@ -112,8 +112,8 @@ The general principles of Swiss taxation are:
 
 If you have a B permit but do not meet one of the criteria explained at the beginning of this page, typically because you have a 3a pillar, you must request an "ulterior ordinary taxation", or TOU "taxation ordinaire ultérieure" in French.
 The form to request one is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
-Once this is done, you keep being taxed at the source but you follow the procedure detailed next to declare your taxes.
-This cannot be undone, once requested you will declare your taxes every year.
+Once this is done, you keep being taxed at the source, but you have to follow the procedure described below to file your taxes.
+Opting for a TOU cannot be undone. Once requested, you will have to file your taxes every year.
 
 If you have to file your taxes because you requested so (above) or because you are a permanent resident, you will receive a letter when tax season comes.
 This letter contains identifiers for [VaudTax](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/prestation-vaudtax/), a website which is basically a giant form.
