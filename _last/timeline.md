@@ -15,6 +15,6 @@ order: 3
 4. After the private defence, you need to upload the final version of your thesis (and get your supervisors approval) 15 days before the public defence. This is necessary because to get the diploma you need to first aprove the proof (a test print) of your thesis. Repro needs a couple of days to prepare the proof, but the 15 days is to be on the safe side. 
 5. You also need to inform SAC about your public defence at least 15 days before it. 
 6. For non-EU people it may make sense to look for a job before your public defense, to avoid worries about your permit expiring
-7. It is up to your supervisor how long you contract will last. In most cases, your contract can be extended a month or more after you finish your PhD. You can then help younger PhDs and search for a job comfortabely. However, EPFL only require that you are paid until your **private** defence, so you might want to discuss that with your supervisor. 
+7. It is up to your supervisor how long you contract will last. In most cases, your contract can be extended a month or more after you finish your PhD. You can then help younger PhDs and search for a job comfortably. However, EPFL only require that you are paid until your **private** defence, so you might want to discuss that with your supervisor. 
 8. After your public defence, you *should* have access to EPFL email and so to all services for six months. 
-
+9. Make sure you move your retirement savings, which will depend on your personal situation, and you get back the CAMIPRO balance on your card (there's an online form to request a bank transfer).
