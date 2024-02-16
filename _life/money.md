@@ -80,13 +80,15 @@ Luckily, this guide has you covered with [banking, taxes, and other advice](/lif
 ## Retirement
 
 Switzerland has a retirement savings system based on three pillars: shared mandatory, personal mandatory, and personal optional.
+If you leave Switzerland permanently, for instance because your "permis B" expires after you find a job in another country,
+you will need to look up which international treaties apply to your retirement savings to know when and how you will get them back.
 
 The first pillar is mandatory retirement savings, taken out of the salary, shared among all workers in Switzerland.
 It's called "AVS" and is roughly equivalent to "social security".
 
 The second pillar is also mandatory retirement savings, taken out of the salary, but for yourself.
 The provider is always [PUBLICA](https://publica.ch/) for EPFL employees.
-Money is blocked until you retire, "permanently" leave the country, use it to buy a house, or use it to start a company.
+Money is blocked until you retire, use it to buy a house, or use it to start a company.
 
 The third pillar is optional, for yourself, and can be deducted from your taxable income up to a cap of around 7000 CHF per year which increases slightly every few years.
 You can view this as an investment with a high return since its tax-deductible nature drastically lowers your taxes.
