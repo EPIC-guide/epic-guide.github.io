@@ -101,7 +101,7 @@ There are retirement accounts called "Pillar 3b" which are not tax deductible. S
 
 The general principles of Swiss taxation are:
 - Your income and your wealth are subject to taxation, no matter where you earned or store them in the world.
-- Taxes are levied by the federal government, by cantons, and by communes, but the tax declaration is a single online form.
+- Taxes are levied by the federal government, cantons, and communes, but the tax declaration is a single online form.
 - If you are married, you must file jointly.
 - Permanent residents must pay an advance on their taxes each month, while non-permanent residents have their taxes deducted directly from their salary.
 - The tax authorities will help you as long as you are honest, never lie nor try to hide money, and do not try to find loopholes or technicalities.
