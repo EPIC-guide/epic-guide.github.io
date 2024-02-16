@@ -117,7 +117,7 @@ Opting for a TOU cannot be undone. Once requested, you will have to file your ta
 
 If you have to file your taxes because you requested so (above) or because you are a permanent resident, you will receive a letter when tax season comes.
 This letter contains identifiers for [VaudTax](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/prestation-vaudtax/), a website which is basically a giant form.
-**VaudTax offers a "simulation" mode** that does not need identifiers, with which you can use to decide whether requesting a TOU is worth it or not if you are not legally required to do so but wonder whether you could benefit from extra deductions.
+**VaudTax offers a "simulation" mode** that does not need identifiers, which you can use to decide whether requesting a TOU is worth it if you are not legally required to do so but are wondering whether you could benefit from extra deductions.
 Remember that switching to a TOU is permanent, so your situation in terms of deductions should be stable long-term.
 
 Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15-minute affair:
