@@ -111,18 +111,25 @@ The general principles of Swiss taxation are:
 ⚠️ _The remainder of this page is a helpful guide to common taxable items and deductions in the canton of Vaud, not tax advice about your personal situation._
 _You should still read every field in the tax form at least once to ensure you do not forget anything._ ⚠️
 
-If you have a B permit and (i) you make more than 120k, or (ii) your wealth is over 50k, or (iii) you have undeclared revenue—typically because you have a 3a pillar—you must request an "ulterior ordinary taxation", or "taxation ordinaire ultérieure" (TOU) in French.
-The form to request one is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
-Once this is done, you keep being taxed at the source, but you have to follow the procedure described below to file your taxes.
-Opting for a TOU cannot be undone. Once requested, you will have to file your taxes every year.
+Filing taxes in the canton of Vaud is done via [VaudTax](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/prestation-vaudtax/),
+the government-provided online tool that figures out your federal, cantonal, and communal taxes for you based on data you input.
 
-If you have to file your taxes because you requested so (above) or because you are a permanent resident, you will receive a letter when tax season comes.
-This letter contains identifiers for [VaudTax](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/prestation-vaudtax/), a website which is basically a giant form.
-**VaudTax offers a "simulation" mode** that does not need identifiers, which you can use to decide whether requesting a TOU is worth it if you are not legally required to do so but are wondering whether you could benefit from extra deductions.
-Remember that switching to a TOU is permanent, so your situation in terms of deductions should be stable long-term.
+If you are not a permanent resident:
+- if (i) you make more than 120k, or (ii) your wealth is over 50k, or (iii) you have undeclared revenue, you _must_ request an "ulterior ordinary taxation",
+  referred to as "TOU" for "taxation ordinaire ultérieure" in French.
+- if you do not meet these criteria but believe you qualify for enough deductions to make a difference, typically because you have a 3a pillar, you _may_ request a TOU.
+  VaudTax has a simulation mode that does not need identifiers, which you can use to decide whether requesting a TOU is worth it in your case.
+- otherwise, you have nothing to do, as the right amount of taxes is already deduced from your paycheck each month.
+
+The form to request a TOU is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
+Once this is done, you keep being taxed at the source, but you have to follow the procedure described below to file your taxes.
+Opting for a TOU cannot be undone. Once requested, you will have to file your taxes every year,
+so if you are not obligated to do it you should only request one if your situation in terms of deductions should be stable long-term.
 
 Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15-minute affair:
 - The letter you got from the tax office that includes your "nᵒ de contribuable" and "code de contrôle" identifiers (the latter changes every year).
+  You should get this letter around the middle of February if you are a resident or have previously requested a TOU.
+  If this is the year you requested a TOU, you will get it shortly after your request, along with an extended deadline to file your taxes.
 - Your salary certificate from EPFL's SESAME portal.
 - For each bank account you had on the 31st of December of the elapsed year (in any country/currency), the account number, amount of money there was on the account on that date, and the interest you earned for the year.
   - If you opened that account in the elapsed year, you additionally need the opening date.
