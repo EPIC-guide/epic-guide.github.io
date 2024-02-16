@@ -167,4 +167,4 @@ Some help to file the most common items in VaudTax, after you've logged in with 
   - Once it's done, download all three documents you can download: two are PDF statements, and the remaining one is data that you can import next year so you only need to input changes
 
 After a delay from a few weeks to a year, a taxation decision will be made and you get refunded (or charged, if you had not paid enough).
-While it is technically possible for taxation decisions to last more than a year, this should not happen in normal situations, and you have not heard back by the next calendar year you should contact the tax authorities.
+While it is technically possible for taxation decisions to take more than a year, this should not happen in normal situations, and if you have not heard back by the next calendar year, you should contact the tax authorities.
