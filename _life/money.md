@@ -120,7 +120,7 @@ This letter contains identifiers for [VaudTax](https://www.vd.ch/themes/etat-dro
 **VaudTax offers a "simulation" mode** that does not need identifiers, with which you can use to decide whether requesting a TOU is worth it or not if you are not legally required to do so but wonder whether you could benefit from extra deductions.
 Remember that switching to a TOU is permanent, so your situation in terms of deductions should be stable long-term.
 
-Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15 minutes affair:
+Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15-minute affair:
 - The letter you got from the tax office that includes your "n° de contribuable" and "code de contrôle" identifiers (the latter changes each year)
 - Your salary certificate from EPFL's SESAME portal
 - For each bank account you had on the 31st of December of the elapsed year (in any country/currency), the account number, amount of money there was on the account on that date, and the interest you earned for the year
