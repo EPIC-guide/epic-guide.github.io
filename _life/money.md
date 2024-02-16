@@ -124,7 +124,7 @@ If you are not a permanent resident:
 The form to request a TOU is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
 Once this is done, you keep being taxed at the source, but you have to follow the procedure described below to file your taxes.
 Opting for a TOU cannot be undone. Once requested, you will have to file your taxes every year,
-so if you are not obligated to do it you should only request one if your situation in terms of deductions should be stable long-term.
+so if you are not obligated to do it, you should only request one if your situation in terms of deductions will be stable long-term.
 
 Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15-minute affair:
 - The letter you got from the tax office that includes your "nᵒ de contribuable" and "code de contrôle" identifiers (the latter changes every year).
