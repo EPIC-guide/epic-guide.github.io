@@ -7,7 +7,7 @@ order: 9
 
 The short version:
 - PhD students get paid around 55k CHF/year, with small yearly increases, and paystubs are available on the internal [SESAME](https://sesame2.epfl.ch) tool.
-- To store this money, get an account at any Swiss bank. They are roughly equivalent in terms of services and typically have student discounts.
+- To store this money, get an account at any Swiss bank. They are roughly equivalent in terms of services and typically have student discounts. App-based ones like CSX or Yuh may be even cheaper.
 - Get your bank's [TWINT](https://www.twint.ch/en/) app to easily send and receive money using phone numbers. You typically won't need a credit card.
 - You automatically save money for retirement as an employee in Switzerland, and you can save extra money in a "3a pillar" account which is tax-deductible up to a limit.
 - If you are on a B permit _and_ you make less than 120k _and_ your wealth is under 50k _and_ you have no undeclared revenue, taxes are taken automatically from your salary and you need not worry about them.
@@ -36,7 +36,7 @@ Here’s an example breakdown for a first year monthly PhD student salary, for a
 | **Net income**           | **3484.65 CHF** |
 
 Note that the 1,000 CHF/year increment:
-* applies every *calendar* year, not "PhD year", three times in total;
+* applies at the beginning of *calendar* years, not "PhD years";
 * is calculated *pro rata temporis* based on what fraction of the previous year
   you were employed (in any capacity, not just as a PhD student);
 * is added to whatever your annual salary was in the previous calendar year;
@@ -81,7 +81,8 @@ Luckily, this guide has you covered with [banking, taxes, and other advice](/lif
 
 Switzerland has a retirement savings system based on three pillars: shared mandatory, personal mandatory, and personal optional.
 
-The first pillar is mandatory retirement savings, taken out of the salary, as a global pool for everyone. Called "AVS", equivalent to "social security".
+The first pillar is mandatory retirement savings, taken out of the salary, shared among all workers in Switzerland.
+It's called "AVS" and is roughly equivalent to "social security".
 
 The second pillar is also mandatory retirement savings, taken out of the salary, but for yourself.
 The provider is always [PUBLICA](https://publica.ch/) for EPFL employees.
@@ -107,8 +108,8 @@ The general principles of Swiss taxation are:
 - The tax authorities will help you as long as you are honest, never lie nor try to hide money, and do not try to find loopholes or technicalities.
 - If you realize you filed something incorrectly, or forgot to declare something, it's always better to contact the tax authorities yourself than wait for them to find out.
 
-> ⚠️ The remainder of this page is a helpful guide to common taxable items and deductions _in the canton of Vaud_, not tax advice about your personal situation.
-> You should still read every field in the tax form at least once to ensure you do not forget anything.
+⚠️ _The remainder of this page is a helpful guide to common taxable items and deductions in the canton of Vaud, not tax advice about your personal situation._
+_You should still read every field in the tax form at least once to ensure you do not forget anything._ ⚠️
 
 If you have a B permit and (i) you make more than 120k, or (ii) your wealth is over 50k, or (iii) you have undeclared revenue—typically because you have a 3a pillar—you must request an "ulterior ordinary taxation", or "taxation ordinaire ultérieure" (TOU) in French.
 The form to request one is on the [Vaud website](https://www.vd.ch/themes/etat-droit-finances/impots/pour-les-employeurs/impot-a-la-source/personnes-imposees-a-la-source-sourciers/).
@@ -121,50 +122,50 @@ This letter contains identifiers for [VaudTax](https://www.vd.ch/themes/etat-dro
 Remember that switching to a TOU is permanent, so your situation in terms of deductions should be stable long-term.
 
 Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15-minute affair:
-- The letter you got from the tax office that includes your "n° de contribuable" and "code de contrôle" identifiers (the latter changes each year)
-- Your salary certificate from EPFL's SESAME portal
-- For each bank account you had on the 31st of December of the elapsed year (in any country/currency), the account number, amount of money there was on the account on that date, and the interest you earned for the year
-  - If you opened that account in the elapsed year, you additionally need the opening date
-  - For investment accounts, you additionally need the statements showing share purchases, share sales, and dividends received during the year
-  - If your bank provides an "e-Relevé fiscal", get it, it's a machine-readable version of this information and will save you time
-- For each bank account you closed during the elapsed year, the account number and closing date
-- The amount of money you paid for health insurance in the elapsed year (typically your health insurance gives you a PDF at the end of the year)
-- The amount of money you paid for rent, _without_ "charges" (this should be in your rental contract)
-- If you have a 3a pillar, the PDF from your bank stating how much money you put in for the year
+- The letter you got from the tax office that includes your "nᵒ de contribuable" and "code de contrôle" identifiers (the latter changes every year).
+- Your salary certificate from EPFL's SESAME portal.
+- For each bank account you had on the 31st of December of the elapsed year (in any country/currency), the account number, amount of money there was on the account on that date, and the interest you earned for the year.
+  - If you opened that account in the elapsed year, you additionally need the opening date.
+  - For investment accounts, you additionally need the statements showing share purchases, share sales, and dividends received during the year.
+  - If your bank provides an "e-Relevé fiscal", get it, it's a machine-readable version of this information and will save you time.
+- For each bank account you closed during the elapsed year, the account number and closing date.
+- The amount of money you paid for health insurance in the elapsed year (typically your health insurance gives you a PDF at the end of the year).
+- The amount of money you paid for rent, _without_ "charges" (this should be in your rental contract).
+- If you have a 3a pillar, the PDF from your bank stating how much money you put in for the year.
 
 Some help to file the most common items in VaudTax, after you've logged in with your "nᵒ de contribuable" and "code de contrôle" (_not_ in simulation mode):
 - ⚠️ Most of the boxes for numbers do not accept cents, but may screw up your copy/paste and include the cents but not the separator, leading to e.g. 1000 instead of 10.00, so double-check what you paste.
-- If you already filed your taxes last year, start by importing your previous data using the "Importer une déclaration" link on the right
+- If you already filed your taxes last year, start by importing your previous data using the "Importer une déclaration" link on the right.
 - If your bank gave you an "e-Relevé fiscal", import it using the link on the right.
 - Fill in "Identification", being very careful about the IBAN because that is the account you will get the tax refund on.
 - Fill in "Contribuable 1", as well as the second one if you are married.
-- Under "Activités salariées" > "Principale, ...", add your EPFL job; the "ch. XX" refer to number XX on your EPFL salary certificate
-  - For number 15, on the second page of the certificate there is "Cotisations PC Familles vaudoises YY CHF ..", put in that YY
-- Under "Frais professionnels"
-  - "Frais de transport", add your commute to EPFL, typically 240 days in a year, use Google Maps' pedestrian itinerary to see the number of km, and pick "Forfait"
-  - "Frais de repas", add your meals, typically the same number of days as above
-- Under "Primes et cotisations d'assurances" > "Cotisations d'assurances (prévoyance)"
-  - Put your health insurance costs
-  - If you have a 3a pillar, put the amount for that year in the corresponding box
-  - The rest will typically be empty (0 for the subsidy box)
-- Under "Etats des titres"
-  - Under "Comptes et livrets bancaires, ...", add each of your accounts, including those closed during that year; you can use Google for the exchange rates on the 31st of December for any foreign currency accounts
-    - If your bank statement says something about a withholding tax of 35%, then your interest is subject to withholding tax, otherwise not
-  - Under "Fonds de placement", put any indexed funds you are investing in, if applicable
-- Under "Autres éléments de fortune et revenus de fortune", put any other wealth you have such as a car
-  - You do _not_ need to include basic furniture and other common household items, these are explicitly excluded from taxable wealth (source: [Loi sur les impôts directs cantonaux](https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?key=1674023827046&id=8df99d51-8df8-49ed-9ef5-2fa4817d0004), art. 50 al. 3)
-- Under "Déductions spéciales sur le revenu"
-  - "Déduction sociale pour le logement", input your yearly rent without charges
-  - For the other parts, if applicable, put any donations you made to charities or political parties, as well as medical costs during the year
-- If there is anything that might look weird in your situation, such as a large increase or decrease in wealth compared to the previous year, explain it under "Informations complémentaires" > "Informations complémentaires à l'attention de l'autorité de taxation"
-- Under "Acomptes" > "Total des acomptes payés...", put your "acomptes" if you paid some and the taxes already paid à la source if applicable
-  - **This is crucial**, and as of 2022 the software does not automatically sync the à la source amount with the one you declared on your job, so don't skip this step
-- In the right sidebar, under "Outils" > "Gérer des pièces justificatives", in the second group you must upload your 3a certificate for the year, if applicable; nothing else
+- Under "Activités salariées" > "Principale, ...", add your EPFL job; the "ch. XX" refer to number XX on your EPFL salary certificate.
+  - For number 15, on the second page of the certificate there is "Cotisations PC Familles vaudoises YY CHF ..", put in that YY.
+- Under "Frais professionnels":
+  - "Frais de transport", add your commute to EPFL, typically 240 days in a year, use Google Maps' pedestrian itinerary to see the number of km, and pick "Forfait".
+  - "Frais de repas", add your meals, typically the same number of days as above.
+- Under "Primes et cotisations d'assurances" > "Cotisations d'assurances (prévoyance)":
+  - Put your health insurance costs.
+  - If you have a 3a pillar, put the amount for that year in the corresponding box.
+  - The rest will typically be empty (0 for the subsidy box).
+- Under "Etats des titres":
+  - Under "Comptes et livrets bancaires, ...", add each of your accounts, including those closed during that year; you can use Google for the exchange rates on the 31st of December for any foreign currency accounts.
+    - If your bank statement says something about a withholding tax of 35%, then your interest is subject to withholding tax, otherwise not.
+  - Under "Fonds de placement", put any indexed funds you are investing in, if applicable.
+- Under "Autres éléments de fortune et revenus de fortune", put any other wealth you have such as a car.
+  - You do _not_ need to include basic furniture and other common household items, these are explicitly excluded from taxable wealth (source: [Loi sur les impôts directs cantonaux](https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?key=1674023827046&id=8df99d51-8df8-49ed-9ef5-2fa4817d0004), art. 50 al. 3).
+- Under "Déductions spéciales sur le revenu":
+  - "Déduction sociale pour le logement", input your yearly rent without charges.
+  - For the other parts, if applicable, put any donations you made to charities or political parties, as well as medical costs during the year.
+- If there is anything that might look weird in your situation, such as a large increase or decrease in wealth compared to the previous year, explain it under "Informations complémentaires" > "Informations complémentaires à l'attention de l'autorité de taxation".
+- Under "Acomptes" > "Total des acomptes payés...", put your "acomptes" if you paid some and the taxes already paid à la source if applicable.
+  - **This is crucial**, and as of 2022 the software does not automatically sync the à la source amount with the one you declared on your job, so don't skip this step.
+- In the right sidebar, under "Outils" > "Gérer des pièces justificatives", in the second group you must upload your 3a certificate for the year, if applicable; nothing else.
 - You can then check the entire computation using "Outils" in the right sidebar > "Calculer les impôts".
-  - For a full year in Switzerland of an average PhD student with a 3a pillar maxed out for the year, the taxes should be 2.5-3k, and the "solde" should be _negative_ 2-2.5k, meaning they owe you money back
-  - Without a 3a pillar your "solde" will typically be around zero or even positive, so there is usually no point in doing a "taxation ordinaire ultérieure" in that case unless you have to
-- You can then finish by clicking on "Transmettre" in the right sidebar > "Vérifier..." and clicking on the confirmation buttons
-  - Once it's done, download all three documents you can download: two are PDF statements, and the remaining one is data that you can import next year so you only need to input changes
+  - For a full year in Switzerland of an average PhD student with a 3a pillar maxed out for the year, the taxes should be 2.5-3k, and the "solde" should be _negative_ 2-2.5k, meaning they owe you money back.
+  - Without a 3a pillar your "solde" will typically be around zero or even positive, so there is usually no point in doing a "taxation ordinaire ultérieure" in that case unless you have to.
+- You can then finish by clicking on "Transmettre" in the right sidebar > "Vérifier..." and clicking on the confirmation buttons.
+- Once it's done, download all three documents you can download: two are PDF statements, and the remaining one is data that you can import next year so you only need to input changes.
 
 After a delay from a few weeks to a year, a taxation decision will be made and you get refunded (or charged, if you had not paid enough).
 While it is technically possible for taxation decisions to take more than a year, this should not happen in normal situations, and if you have not heard back by the next calendar year, you should contact the tax authorities.
