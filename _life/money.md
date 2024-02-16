@@ -132,7 +132,7 @@ Before opening VaudTax, get the following documents and information, so that fil
 - The amount of money you paid for rent, _without_ "charges" (this should be in your rental contract)
 - If you have a 3a pillar, the PDF from your bank stating how much money you put in for the year
 
-Some help to file the most common items in VaudTax, after you've logged in with your n° de contribuable and code de contrôle (_not_ in simulation mode):
+Some help to file the most common items in VaudTax, after you've logged in with your "nᵒ de contribuable" and "code de contrôle" (_not_ in simulation mode):
 - ⚠️ Most of the boxes for numbers do not accept cents, but may screw up your copy/paste and include the cents but not the separator, leading to e.g. 1000 instead of 10.00, so double-check what you paste.
 - If you already filed your taxes last year, start by importing your previous data using the "Importer une déclaration" link on the right
 - If your bank gave you an "e-Relevé fiscal", import it using the link on the right.
