@@ -67,16 +67,18 @@ Detailed information about exchanging a foreign driver’s license for a Swiss o
   + USA is on the “only theoretical” list—but this is only because a standard US license (or to be precise, standard licenses from most US states) lets you drive some kinds of light trucks that are not covered by a standard Swiss license.
     If you are willing to give up that extra privilege, you do not have any testing requirements.
     This information is not available on the official website but was provided verbally by a staff member so you just have to fill out the form and trust the process.
-    I can confirm through personal experience that this worked for a WA driver’s license in 2023.
+    Shardul can confirm through personal experience that this worked for a WA driver’s license in 2023.
 * A section of the form is to be filled out by an optician after an eye exam.
   You can have it done at many eyeglasses shops.
   It has a standard price (15 CHF in 2023) and takes just a few minutes.
 
 You may be used to ridiculously long wait times for in-person visits to the motor vehicles office in your home country.
 Switzerland, of course, is not like that.
-When I visited the Lausanne office on a weekday morning, I had to wait for barely ten minutes, and was out the door in another ten.
+When Shardul visited the Lausanne office on a weekday morning in 2023, he had to wait for barely ten minutes, and was out the door in another ten.
 
 Exchanging your foreign license typically means that you surrender your old license and get a new Swiss one.
 However, the authorities will only take your old license if they have an agreement with the issuing country or some other means to actually cancel it.
 Absent that, there is no point, so you get to keep it.
 This is true at least for US licenses.
+
+Please let us know if you exchanged your license from another country and have additional information from the experience!
