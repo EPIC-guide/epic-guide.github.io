@@ -11,7 +11,4 @@ Having an official position in the lab comes with more responsibilities as well 
 TAing, supervising students, internships, collaborations...
 Remember that a PhD is about research, not about having the highest grades in classes or being the most available TA for students, so manage your time wisely.
 
-This list of [useful things at EPFL](https://solalpirelli.github.io/epfl) might be
-useful to you during your time at EPFL.
-
 You'll find advice and experience from senior students below.
