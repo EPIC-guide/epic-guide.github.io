@@ -45,12 +45,13 @@ Need to include a non-EPFL person in there? Create a guest on [guests.epfl.ch](h
 this will give you a SCIPER identifier starting with ‘G', add that to your group.
 
 Need a mailing list for an EPFL unit such as a lab, or an EPFL set such as all professors in a specific faculty? You're in luck, those already exist.
-Go to someone's [people.epfl.ch](https://people.epfl.ch) page, click on "Administrative data", log in, then "Automatic distribution lists for..." and you'll see the auto-generated mailing lists they're in.
 For instance, `professeurs.ic` is all professors in IC, and `personnel.lauzhack` is all people in the LauzHack association.
-
 To browse lists in general, e.g. by lab, building, affiliation, etc., you can go to [https://cadiwww.epfl.ch/listes](https://cadiwww.epfl.ch/listes). 
 
+You can also go to someone's [people.epfl.ch](https://people.epfl.ch) page, click on "Administrative data", log in, then "Automatic distribution lists for..." and you'll see the auto-generated mailing lists they're in, or do it yourself from a SCIPER, e.g., https://cadiwww.epfl.ch/listes?sciper=353675.
+
 Some of the bigger auto-generated lists are moderated, one does not simply send any random email to all students.
+For instance, `personnel.ic` lets you send an email to all IC staff including PhD students, and its moderators will typically approve announcements for talks, new courses, and so on.
 
 
 ## Printing & Scanning
@@ -143,6 +144,8 @@ All IC personnel have a personal directory on two network file systems. Both sup
 (replace `<X>` with the server number indicated at [mynas.epfl.ch](https://mynas.epfl.ch), `<gaspar>` with your GASPAR username,
 and `<local-UID>` & `<local-GID>` with the UID and GID of the user on your machine who should have access to the mounted directory;
 you can change `dir_mode` and additionally `file_mode` for finer control of local permissions)
+
+MyNAS also supports WebDAV which is good because it lets you use it for Zotero file storage (which is only 300 MB by default on free accounts).
 
 **icfiler** is meant for use within iccluster but can also be used independently.
 This seems to only be accessible to IC personnel, and each user seems to have 16 GB, but this may be inaccurate. You can mount your remote directory with
