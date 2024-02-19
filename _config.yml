@@ -19,7 +19,7 @@ collections:
     permalink: /:collection/:name
     order: 1
   middle:
-    name: Resources and Responsibilities
+    name: Resources and responsibilities
     output: true
     permalink: /:collection/:name
     order: 2

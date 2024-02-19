@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Resources and Responsibilities
+title: Resources and responsibilities
 collection: middle
 ---
 
