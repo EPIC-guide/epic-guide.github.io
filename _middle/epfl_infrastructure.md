@@ -1,8 +1,8 @@
 ---
 layout: post
 title: EPFL Infrastructure
-category: tools
-order: 999
+category: middle
+order: 20
 ---
 
 _Fun fact: the name of the Tequila authentication system is a French pun: "T'es qui, là ?"_

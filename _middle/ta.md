@@ -2,7 +2,7 @@
 layout: post
 title: "TAing"
 category: middle
-order: 1
+order: 2
 ---
 
 Goal (based on the contract): 20% of your weekly workload. In practice, it depends a lot on the course. It’s often a good idea to TA the same class multiple times, as it gets easier each time.
