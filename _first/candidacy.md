@@ -2,7 +2,7 @@
 layout: post
 title: "Candidacy exam"
 category: first
-order: 2
+order: 3
 ---
 
 The candidacy exam is your last requirement for the first year.

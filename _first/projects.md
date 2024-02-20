@@ -2,7 +2,7 @@
 layout: post
 title: "Semester projects"
 category: first
-order: 1
+order: 2
 ---
 
 As a first year fellowship student, you are expected to do two semester projects, possibly in two different labs. You are the one responsible for meeting with professors and finding the right lab for yourself. Note that at the end of each semester, you will have to compile a report of your project and present it.
