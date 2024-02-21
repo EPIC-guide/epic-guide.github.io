@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Legal formalities"
+title: "Administrative formalities"
 category: first
 order: 1
 ---

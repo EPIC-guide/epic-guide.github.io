@@ -13,7 +13,7 @@ This way you can meet and socialize with people in the same boat as you.
 
 ## Checklist
 
-* Deal with [legal formalities](/first/legal) to get a residence permit.
+* Deal with [administrative formalities](/first/admin) to get a residence permit.
 * Get [health insurance](/life/insurance) within 3 months, and it must be back-dated to cover you from your first day in Switzerland.
 * If you have a foreign driver's license, [exchange it for a Swiss one](/life/transportation#exchanging-a-foreign-drivers-license) within 12 months.
 * If you are a fellowship student, find a professor for a [semester project](/first/projects) as soon as possible.
