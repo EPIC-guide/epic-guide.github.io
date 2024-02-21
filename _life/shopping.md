@@ -132,6 +132,7 @@ If you want stuff not typically available in Swiss supermarkets, such as food an
 - [Looddl](https://looddl.ch/) has Korean food, including fresh and frozen, and some other Asian food
 - [Logam](https://logam.ch/) has Southern and Eastern Asian food, and some health/beauty items
 - [Polish Shop](https://www.polish-shop.ch/en/) has Polish food
+- [Piccantino](https://www.piccantino.com/) has spices, herbs, oils, and other such condiments
 
 If you know a good one, please submit a pull request!
 
