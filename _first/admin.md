@@ -5,11 +5,13 @@ category: first
 order: 1
 ---
 
-Unless you already have Swiss permanent residency (citizenship or "permis C"), you need to get a permit to live and work in Switzerland, called "permis B".
+Unless you already have Swiss permanent residency (citizenship or *permis C*), you need a residence permit to live and work in Switzerland, called *permis B*.
 
-The exact formalities depend on the city ("commune") since Swiss processes are typically decentralized,
-so your experience will slightly vary between Lausanne, Renens, Prilly, and so on.
-You must do this in the commune you will live in, not another one.
+The exact formalities depend on the administrative region (*commune*) you live in / will live in, because Swiss administrative processes are typically decentralized,
+so your experience will vary slightly between Lausanne, Renens, Prilly, and so on.
+Don't assume your *commune* is Lausanne!
+Check the postal address of where you will stay.
+You must follow this process in the *commune* you live in, not any other one.
 
 General protocol:
 1. (non-EU nationals only) Apply for a long-term stay visa (90+ days) for Switzerland.
@@ -17,9 +19,10 @@ General protocol:
    If you're worried you may not have your visa in time for your start date at EPFL, contact EDIC.
 2. (Lausanne only) [Pre-register](https://www.lausanne.ch/prestations/controle-des-habitants/etudiants-formalite-sejour.html) for a residence permit.
 3. Arrive in Switzerland.
+3. Ensure that your mailbox displays your name. Ask your proprietor or rental agency if it doesn't.
 4. (Lausanne only) Wait for a *convocation* to arrive in the mail which will let you schedule an in-person appointment online and tell you what documents to bring.
    This should arrive approximately two weeks after the date you said you will arrive in the pre-registration form.
-5. (non-Lausanne only) Follow the instructions of your commune to announce your arrival (could be by email, by postal mail, or in person) and apply for a residence permit.
+5. (non-Lausanne only) Follow the instructions of your *commune* to announce your arrival (could be by email, by postal mail, or in person) and apply for a residence permit.
 6. When you submit the required paperwork for a permit, also request an *attestation de domicile / déclaration de résidence*.
    This is a temporary document that you can show to banks, rental agencies, etc. to prove that you have started the process for a residence permit even if you don't have it yet.
    You should receive this immediately (if in person) or in a few days (if by mail).
@@ -30,7 +33,7 @@ General protocol:
    This will be "registered mail", so either you have to sign off on the delivery (which you most likely won't be able to, unless you work from home all the time),
    or the postal service will leave a ticket in your mailbox that you must present at your neighborhood post office to collect the delivery.
 10. You may receive one or two invoices, perhaps before the actual permit.
-    The total amount you will end up paying is up to 200 CHF depending on whether you asked for an *attestation de domicile*, whether you had to take a biometric appointment, and which commune you live in.
+    The total amount you will end up paying is up to 200 CHF depending on whether you asked for an *attestation de domicile*, whether you had to take a biometric appointment, and which *commune* you live in.
 11. You will have to renew your permit every year (non-EU nationals) or every five years (EU nationals).
     Keep an eye out for a letter about the process a couple months before it expires, but if you don't receive one, contact the *Contrôle des habitants* yourself.
 

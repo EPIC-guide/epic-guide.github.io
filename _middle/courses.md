@@ -5,12 +5,20 @@ category: middle
 order: 1
 ---
 
+[Currently offered doctoral courses](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-course-book/) are classified as depth, breadth, or other.
+
 ## Depth course
-Take a depth course in the first semester! This will give you more time in the second semester to prepare for the candidacy exam and to define your lab (and topic). It also leaves you with a backup plan in case it doesn’t work out - you can just take another course in the second semester. More, as your PhD will go on, the workload betweem TAing and thesis might get high, so you may want to take more courses in the first year than in later years.
+Take a depth course in the first semester!
+This will give you more time in the second semester to prepare for the candidacy exam and to pick your lab and research topic(s).
+It also leaves you with a backup plan in case the first depth course doesn’t work out---you can take another in the second semester.
+Use the first two weeks to shop around, and if you still can’t decide, just sign up for two depth courses and postpone the decision of which one you want to pass.
+You can still drop them later, or even fail one of them, which isn't a big problem!
+Sometimes your advisor will also have an opinion about which depth course you should take, so talk to them about it.
 
-Use the first two weeks to do course shopping, and if you can’t decide just sign up for two depth courses and decide later on which one you want to pass. You can still drop them later, or even fail one of them, that’s not a big problem! Sometimes the advisor also wants to have a say about your choice - talk to them about it.
+Don’t take other courses alongside your depth course unless requested by your advisor.
+It’s better to focus on a depth course and do well than to overload yourself with additional breadth courses and not pass the depth course.
+Depth courses are more time-consuming than you expect, so don’t underestimate the workload, in addition to your semester project and generally settling into EPFL.
 
-In your first year, don’t take other courses unless requested by your advisor. It’s better to just take a depth course and to do well than to overload yourself with additional breadth courses. The depth courses are more time-consuming than others, so don’t underestimate the workload. The semester project will require a lot of work as well, so make sure you dedicate enough time for it.
+## Breadth courses
 
-[List of current courses offer](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-course-book/)
-
+Your research workload will get heavier as your PhD progresses, so don't push off breadth courses too much in your first couple years.

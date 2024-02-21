@@ -4,24 +4,23 @@ title: Getting started
 collection: first
 ---
 
-Welcome! You just accepted your EDIC PhD offer, what's next?
+Welcome! You just accepted your EDIC PhD offer---what's next?
 
 In your first year, you will get used to doing research, and are not expected to be fully productive yet. In most fields, you will probably not publish a paper in your first year.
 It's all about showing that you _can_ do it.
-Depending on your lab, you may or may not have an office yet, but you should anyway hang out in the common room ([INR 012](https://plan.epfl.ch/?room==INR%20012) and adjacent rooms).
-This way you can meet and socialize with people in the same boat as you.
+Depending on your lab, you may or may not have an office yet, but in any case, you should hang out in the common room ([INR 012](https://plan.epfl.ch/?room==INR%20012) and adjacent rooms).
+It's a great way to meet and socialize with other students in your cohort.
 
 ## Checklist
 
-* Deal with [administrative formalities](/first/admin) to get a residence permit.
-* Get [health insurance](/life/insurance) within 3 months, and it must be back-dated to cover you from your first day in Switzerland.
-* If you have a foreign driver's license, [exchange it for a Swiss one](/life/transportation#exchanging-a-foreign-drivers-license) within 12 months.
+* Within a few days of your arrival, start some [administrative formalities](/first/admin) to get a residence permit.
+* Get [health insurance](/life/insurance) within 3 months. It must be back-dated to cover you from your first day in Switzerland.
+* If you have a foreign driver's license, you can [exchange it for a Swiss one](/life/transportation#exchanging-a-foreign-drivers-license), but only in the first 12 months.
 * If you are a fellowship student, find a professor for a [semester project](/first/projects) as soon as possible.
-* Pass a "depth course" with a grade of at least 5 out of 6 within your first PhD year,
-  i.e., a [course](/middle/courses) marked as such on the [EDIC website](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-course-book/).
-  * If you did a Masters at EPFL or ETH, you do not have to do this, talk to EDIC about it.
-* [Be a TA](/middle/ta) starting your second semester, so it's a good idea to ask your advisor and to look around for a course you'd enjoy TAing.
-* Pass a [candidacy exam](/first/candidacy) at the end of your first year.
+* Pass a [depth course](/middle/courses) with a grade of at least 5 out of 6 within your first year.
+  * If you did a Master's at EPFL or ETHZ, you do not have to do this. Talk to EDIC about it.
+* [TA a course](/middle/ta) starting from your second semester. As you wrap up your first semester, consult your advisor and look around for a course you'd enjoy TAing.
+* Organize and pass your [candidacy exam](/first/candidacy) at the end of your first year.
 
 ## Where to ask for help
 
