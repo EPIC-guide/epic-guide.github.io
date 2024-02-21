@@ -31,7 +31,7 @@ your contact person or advisor for academic questions,
 the EDIC staff for administrative questions,
 and of course the student representatives.
 
-You may also want to check out the "getting started" websites of
+Also check out the "getting started" websites of
 the [EPFL IC doctoral school](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-new-phd-students/),
 the [EPFL-wide doctoral school](http://phd.epfl.ch/new-students),
 and the [EPFL student affairs](https://www.epfl.ch/education/studies/en/).
