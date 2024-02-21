@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Last Year Guide
+title: Graduating
 collection: last
 ---
 

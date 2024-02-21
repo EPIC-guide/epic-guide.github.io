@@ -11,11 +11,10 @@ We try to keep the guide up to date, but if you notice any inconsistencies pleas
 
 This site is built with Jekyll and GitHub Pages.
 The main contents are located in one of the `_CATEGORY` directories, where `CATEGORY` is one of the following:
-- `first` (First Year Guide)
-- `middle` (Middle Years Guide)
-- `last` (Last Year Guide)
+- `first` (Getting started)
+- `middle` (Resources and Responsibilities)
+- `last` (Graduating)
 - `life` (Life in Lausanne)
-- `tools` (Research Tools)
 
 If you want to modify some contents of an existing article, locate its corresponding markdown file by observing its permalink:
 The article with permalink `https://epic-guide.github.io/CATEGORY/NAME` is located at `_CATEGORY/NAME.md`.

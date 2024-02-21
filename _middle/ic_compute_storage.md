@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IC Compute and Storage
-category: tools
-order: 1
+category: middle
+order: 10
 number_sections: TRUE
 ---
 

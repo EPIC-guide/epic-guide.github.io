@@ -1,32 +1,37 @@
 ---
 layout: guide
-title: First Year Guide
+title: Getting started
 collection: first
 ---
 
-## New PhD student at EPFL
+Welcome! You just accepted your EDIC PhD offer, what's next?
 
-You just arrived in Lausanne and you don’t know how to deal with the various administrative and practical tasks that you have to do?
+In your first year, you will get used to doing research, and are not expected to be fully productive yet. In most fields, you will probably not publish a paper in your first year.
+It's all about showing that you _can_ do it.
+Depending on your lab, you may or may not have an office yet, but you should anyway hang out in the common room ([INR 012](https://plan.epfl.ch/?room==INR%20012) and adjacent rooms).
+This way you can meet and socialize with people in the same boat as you.
 
-* [The Doctoral School at EPFL](http://phd.epfl.ch/new-students): The EPFL Doctoral School is there to help you with your thesis. The Doctoral school also organizes welcome events for new PhD students. Their very complete website provides plenty of practical informations that are relevant when starting your PhD.
-* [The Student Affairs](https://www.epfl.ch/education/studies/en/): The EPFL student affairs website gathers plenty of information for incoming PhD students. It regroups informations about for instance (but not limited to) cost of living, opening a bank account in Switzerland, or Health issues.
+## Checklist
 
-You may find [EDIC's arrival Guide](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-new-phd-students/) useful.
+* Deal with [administrative formalities](/first/admin) to get a residence permit.
+* Get [health insurance](/life/insurance) within 3 months, and it must be back-dated to cover you from your first day in Switzerland.
+* If you have a foreign driver's license, [exchange it for a Swiss one](/life/transportation#exchanging-a-foreign-drivers-license) within 12 months.
+* If you are a fellowship student, find a professor for a [semester project](/first/projects) as soon as possible.
+* Pass a "depth course" with a grade of at least 5 out of 6 within your first PhD year,
+  i.e., a [course](/middle/courses) marked as such on the [EDIC website](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-course-book/).
+  * If you did a Masters at EPFL or ETH, you do not have to do this, talk to EDIC about it.
+* [Be a TA](/middle/ta) starting your second semester, so it's a good idea to ask your advisor and to look around for a course you'd enjoy TAing.
+* Pass a [candidacy exam](/first/candidacy) at the end of your first year.
 
+## Where to ask for help
 
-## 3 words: What's next?
+In general, you can always talk to
+your buddy for personal assistance,
+your contact person or advisor for academic questions,
+the EDIC staff for administrative questions,
+and of course the student representatives.
 
-Welcome to this exciting adventure! You got accepted to the program, filled all of the forms, and looked for an apartment. So what’s next?
-
-The first year has some pretty specific regulations and rules that you need to know about, and it’s hard not to be misled by rumors and half-truths circulating in the common office and around it. Hopefully this guide will shed some light on these matters and help you to successfully accomplish your first year!
-
-In general, if you have any doubts or questions, there are some people you can always talk to: your buddy for personal assistance, your contact person or advisor for academic questions, and the EDIC staff for administrative questions. Last but not least, you can always turn to your EPIC student’s association and/or your student representatives for help!
-
-
-## Time limits
-
-Some administrative tasks have a time limit that you should be aware of.
-
-* You must announce your arrival to the commune within a few days of your arrival: 8 days for Ecublens, 14 days for Lausanne, may be shorter or longer for others.
-* You must buy a health insurance plan within 3 months, and it must be back-dated to cover you from your first day in Switzerland.
-* If you want to exchange your driver’s license for a Swiss one, you have to do it within 12 months of your arrival. See [Exchanging a foreign driver’s license](/life/transportation#exchanging-a-foreign-drivers-license).
+Also check out the "getting started" websites of
+the [EPFL IC doctoral school](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-new-phd-students/),
+the [EPFL-wide doctoral school](http://phd.epfl.ch/new-students),
+and the [EPFL student affairs](https://www.epfl.ch/education/studies/en/).
