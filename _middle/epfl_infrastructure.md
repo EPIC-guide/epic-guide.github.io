@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EPFL Infrastructure
+title: EPFL infrastructure
 category: middle
 order: 20
 ---
