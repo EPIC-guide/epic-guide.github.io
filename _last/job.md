@@ -5,6 +5,9 @@ category: last
 order: 10
 ---
 
+What if you got an offer from the place you would love to work, but it’s earlier than your planned finish date?
+If they gave you an offer, you must have done something right. Talk to your supervisor, maybe you can have your defence sooner.
+
 ## Academia
 
 Many guides have been written about this; in short, ask your advisor.
