@@ -17,7 +17,7 @@ Most information can be found on the dedicated [page](https://www.epfl.ch/school
 
 ## Interns
 
-You can also hire external Bachelor and Master's student interns to work on a related project in the summer. They will normally stay for 3 months and come from universities all over the world. It's also a great way to recruit future PhD students for the lab. Labs usually have a hiring process through the [Summer@EPFL](https://summer.epfl.ch/) program -- ask senior students or your professor about your lab's process! 
+You can also hire external Bachelor and Master's student interns to work on a related project in the summer. They will normally stay for 3 months and come from universities all over the world. It's a great way to recruit future PhD students for the lab. Labs usually have a hiring process through the [Summer@EPFL](https://summer.epfl.ch/) program -- ask senior students or your professor about your lab's process! 
 
 ## Master thesis
 
