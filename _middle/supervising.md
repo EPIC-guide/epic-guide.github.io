@@ -7,15 +7,17 @@ order: 3
 
 ## Semester projects
 
-Bachelor and Master students at EPFL must complete “semester projects” in labs. They are worth a lot of credits (8 or 12), so they spend significant time on them (12 or 18 hours a week). 
-
-The official naming of “semester projects” is “[research projects](https://staging-edu.epfl.ch/coursebook/en/research-project-in-computer-science-ii-CS-498)”.
+Bachelor and Master students at EPFL must complete “semester projects” in labs. They are worth a lot of credits (8 or 12), so they spend significant time on them (12 or 18 hours a week). The official naming of “semester projects” is “[research projects](https://staging-edu.epfl.ch/coursebook/en/research-project-in-computer-science-ii-CS-498)”.
 
 PhD students are often tasked with coming up with project topics, and more importantly supervise the students. This typically means meeting with them once per week to check their progress, help them get unstuck, etc.
 
 Most information can be found on the dedicated [page](https://www.epfl.ch/schools/ic/education/master/semester-project-msc/) ([here](https://www.epfl.ch/schools/ic/education/bachelor/semester-project/) for Bachelor students).
 
 **Pro tip:** Master students are great! They can make some interesting contributions to your work. Do not assign essential parts of your research but interesting branches that you might want to explore later.
+
+## Interns
+
+You can also hire external Bachelor and Master's student interns to work on a related project in the summer. They will normally stay for 3 months and come from universities all over the world. It's also a great way to recruit future PhD students for the lab. Labs usually have a hiring process through the [Summer@EPFL](https://summer.epfl.ch/) program -- ask senior students or your professor about your lab's process! 
 
 ## Master thesis
 
