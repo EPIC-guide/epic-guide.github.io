@@ -2,7 +2,7 @@
 layout: post
 title: "Well-being & mental health"
 category: life
-order: 1
+order: 6
 ---
 
 It is very probable that you will experience multiple ups and downs during your PhD, and that's completely normal!

@@ -6,18 +6,6 @@ order: 7
 ---
 
 
-## Vacation
-
-As an EPFL PhD student, you are entitled to 25 days of vacation, i.e., 5 weeks, per year.
-You should take at least one two-weeks block of vacation per year, for your own well-being.
-If you do not take all of the days, they roll over to the next year, but HR will be on your back and may eventually force you to take them.
-
-In general, you can take vacation whenever you want as long as your advisor agrees and, during a semester, the lecturer you are TAing for agrees.
-The latter may ask you to find someone to replace you as TA.
-
-If you are absent for medical reasons, your advisor has the right to request a doctor's note after 3 consecutive days.
-
-
 ## EPFL associations
 
 There are many associations at EPFL that focus on leisure activities, such as specific games, cultures, or events.
