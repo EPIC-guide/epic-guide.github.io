@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for a job"
 category: last
-order: 10
+order: 20
 ---
 
 What if you got an offer from the place you would love to work, but it’s earlier than your planned finish date?

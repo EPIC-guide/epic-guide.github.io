@@ -2,7 +2,7 @@
 layout: post
 title: "Dates and timeline"
 category: last
-order: 3
+order: 1
 ---
 
 1. If your suggested date of the private defence in ISA is 01.MM.YYYY, you have to have your private defence by the end of the month MM (in the year YYYY). Otherwise you need to ask for an extension. It’s OK to ask for less than half a year extension, but it’s probably good to have a clear picture why you need exactly 3.14 months extension. ;)
