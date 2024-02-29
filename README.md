@@ -50,5 +50,6 @@ If you would like to build the webpage locally to preview the changes:
 2. [Install Jeykll](https://jekyllrb.com/docs/installation/) following the steps according to your operating system.
 3. Navigate to the root directory of this repo.
 4. Run `bundle install` if this is the first time you are running these steps.
+   - To install gems under your home directory, without the need for elevated privileges, first configure Bundler's path for this repository, e.g. via `bundle config set --local path ~/.local/share/gem`.
 4. Run `bundle exec jekyll serve` to start the server. It will automatically regenerate webpages when you change the Markdown sources.
 4. Open a browser and go to [http://localhost:4000](http://localhost:4000).
