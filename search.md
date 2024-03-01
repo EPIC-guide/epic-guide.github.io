@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Search
+collection: search
+---
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Search the EPIC Guide...">
