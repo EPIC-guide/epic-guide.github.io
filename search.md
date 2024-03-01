@@ -6,19 +6,20 @@ collection: search
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Search the EPIC Guide...">
-<ul id="results-container"></ul>
+    <input type="search" name="search" id="search-input" placeholder="What are you looking for?">
+    <ul id="results-container"></ul>
 </div>
-
+    
 <!-- Script pointing to search-script.js -->
-<script src="search-script.js" type="text/javascript"></script>
+<script src="/js/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
 SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    searchResultTemplate: '<a href="{url}" tabindex="1"><p>{title}</p></a>',
+    noResultsText: '<p>No results found!</p>',
+    json: '/search.json'
 })
 </script>
-
