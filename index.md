@@ -6,7 +6,7 @@ category: home
 This guide is put together by PhD students in Computer & Communication Sciences at EPFL to help you navigate through your research career at EPFL, from applying to graduating.
 This information is provided by students, for students and does not officially represent the views of EPFL or any of its departments.
 
-**Search the EPIC Guide!**  
+✨ **Search the EPIC Guide** ✨  
 {% include google-search.html %}
 
 ## Call for contributions
