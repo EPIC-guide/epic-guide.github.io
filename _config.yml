@@ -33,3 +33,8 @@ collections:
     output: true
     permalink: /:collection/:name
     order: 4
+  search:
+    name: Search
+    output: true
+    permalink: /:collection/:name
+    order: 5
