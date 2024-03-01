@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Well-being & Mental Health"
+title: "Well-being"
 category: life
 order: 1
 ---
