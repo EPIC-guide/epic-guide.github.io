@@ -6,12 +6,12 @@ collection: search
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-    <input type="search" name="search" id="search-input" placeholder="What are you looking for?">
+    <input type="search" name="search" id="search-input" placeholder="search...">
     <ul id="results-container"></ul>
 </div>
     
 <!-- Script pointing to search-script.js -->
-<script src="/js/search-script.js" type="text/javascript"></script>
+<script src="search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
