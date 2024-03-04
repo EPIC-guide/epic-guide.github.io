@@ -42,7 +42,7 @@ Kyle Matoba, Sepehr Elahi, Solal Pirelli, Kirill Nikitin, and others for helpful
     -   [Sources and further reading](#sources-and-further-reading)
     -   [Glossary of abbreviations](#glossary-of-abbreviations)
 
-## Who is financially a "US person"?
+### Who is financially a "US person"?
 
 The exact answer depends on which agency and regulation you're asking about. But
 generally, all US citizens irrespective of residence are US persons; anyone who the
@@ -65,12 +65,12 @@ did an internship in the US, but you have no other ties to the US. In that case,
 is relevant to you.
 
 
-# The TL;DR: practical information
+## The TL;DR: practical information
 
 Many pieces of advice below are simply stated without explanation. See
 [§ The full context](#the-full-context) for the explanations.
 
-## Banking
+### Banking
 
 Although there was some turmoil with US persons' accounts at Swiss financial
 institutions in the previous decade, many institutions are now taking US persons as
@@ -101,7 +101,7 @@ for many US accounts, and has the sole purpose of collecting your SSN/TIN) and a
 waiver of my privacy rights so that they can share information about my accounts with
 the IRS. The banker actually apologized for it.
 
-## Credit cards
+### Credit cards
 
 Due to various financial regulations, credit cards in Switzerland (and the EU) do not
 offer users much in the way of rewards or cashback like US credit cards do, and
@@ -132,7 +132,7 @@ on travel, dining, and streaming subscriptions, plus $200 if you spend $1,000 in
 first 3 months, which I did by booking my tickets to Switzerland and buying a bike
 after I got here. They haven't closed it yet!
 
-## Investing in Switzerland
+### Investing in Switzerland
 
 _(This section applies only to US citizens and tax residents.)_
 
@@ -143,18 +143,18 @@ You don't need a US bank account to fund a US investment account if you can get 
 latter to draw from a 'virtual US account' provided by services like Wise and
 Revolut.
 
-### Pillar 3a retirement savings
+#### Pillar 3a retirement savings
 
 Don't. Invest in an IRA in the US instead, but make sure you don't contribute more
 than your taxable income. Pillar 3a (and Pillar 2) has
 interactions with both US and Swiss taxes, so see [§ Taxes](#taxes) for more.
 
-## Taxes
+### Taxes
 
 I used to tell a joke about enjoying doing my taxes as if it was an elaborate board
 game but I recently found out that [xkcd stole it](https://xkcd.com/1566/).
 
-### US federal taxes
+#### US federal taxes
 
 The US imposes tax obligations on US persons on their income from anywhere in the
 world, regardless of their residence. The US also imposes social security
@@ -207,7 +207,7 @@ the closest following business day) in normal cases. (All US taxpayers regardles
 residence can request an automatic six-month extension with Form 4868.) Remember that
 the IRS will charge interest on underpaid taxes starting from the regular deadline.
 
-#### Pillar 2
+##### Pillar 2
 
 For US tax purposes, your Pillar 2 account is considered part of a *nonexempt
 employee trust*. Your contributions (*Cotisations CP* on your paystubs) are part of
@@ -219,7 +219,7 @@ point). You need to report the total value of your Pillar 2 with your foreign a
 Your employer's contributions cannot be excluded as part of the foreign earned income
 exclusion, if you are claiming it.
 
-### US state taxes
+#### US state taxes
 
 Don't forget to file a state tax return for the year in which you
 leave the US. State taxes are typically friendlier than federal taxes and will only
@@ -234,7 +234,7 @@ a resident by showing that your primary home, driver's license, bank account, vo
 registration, etc. is no longer in that state. Absent such proof, you will be taxed
 as a resident and will have to figure out the state's tax rules about foreign income.
 
-### US taxes for nonresident aliens
+#### US taxes for nonresident aliens
 
 This section will likely apply to you if you worked temporarily in the US.
 If you are not a US citizen ("alien") and not a US tax resident ("nonresident", which
@@ -256,7 +256,7 @@ does not mean the same thing as in plain English), the following is true:
 If you are being considered a US tax resident but are on a student visa and want to
 claim you are a nonresident, file Form 8843.
 
-### Swiss taxes
+#### Swiss taxes
 
 The [Money](money) page covers the basics. In particular, without a Pillar 3a,
 the tax deducted at source (_l'impôt à la source_) in a regular year is probably less
@@ -306,7 +306,7 @@ Vaud is known to unofficially grant automatic extensions until June. Two, that t
 cantons collect the federal, cantonal, and communal taxes in Switzerland, so you only
 have to file one return. Good luck!
 
-## Internships in the US for non-citizens
+### Internships in the US for non-citizens
 
 If there is any possibility you might live in the US in the future, open an account
 at a US bank soon after you arrive for your internship. Many banks offer basic
@@ -345,9 +345,9 @@ Speaking of taxes, [US taxes for nonresident aliens](#us-taxes-for-nonresident-a
 probably applies to you for the year(s) in which you did an internship in the US.
 
 
-# The full context
+## The full context
 
-## Banking
+### Banking
 
 The US passed the Foreign Account Tax Compliance Act (FATCA) in 2010 to try to reduce
 tax evasion and money laundering by US citizens holding foreign financial accounts. One
@@ -374,7 +374,7 @@ speak of US citizens and banking. Thankfully, that era of turmoil has passed, an
 Swiss FFIs have done the required registration with the IRS, and are taking US
 clients with some extra paperwork.
 
-## Credit cards
+### Credit cards
 
 America runs on ~~Dunkin'~~ debt. In a sense, all economies have always run on
 debt, but it's very visible in America: you have to take a student loan to go to
@@ -414,7 +414,7 @@ Europe, and cashback if it exists is no more than 0.3% for cards without an annu
 fee. You will notice an accompanying striking lack of credit card marketing and much
 lower usage of credit cards.[^1]
 
-## Investing in Switzerland
+### Investing in Switzerland
 
 Don't. The main reason is that if you do, you will enter tax hell, both in the sense
 that you will be taxed at a very high rate on investment returns, and that your tax
