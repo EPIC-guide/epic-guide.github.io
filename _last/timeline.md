@@ -34,16 +34,18 @@ You need to do all of the following:
 - Ensure your jury president has gotten all jury members to sign the necessary forms.
 - Upload the final version of your thesis, with any corrections the jury requested, at least 2 weeks before you want to have your public defense.
 - Get your advisor to approve the final version of your thesis you uploaded.
-- Review the request Student Services will send you to confirm the exact details of your thesis.
-- If you want your public defense earlier than 4 weeks after the private defense, email Student Services to confirm that they're okay with your choice of date.
+- Review the request you will receive from the Registrar's Office confirming the exact details of your thesis.
 - Book a [room](/middle/epfl-infrastructure#rooms-occupancy-and-booking) for your defense.
 - Find a caterer for the apéro after the defense.
-- Announce your defense to Student Services using a form they will send you after your advisor has approved the final version of your thesis.
+- Announce your defense using a form you will receive after your advisor has approved the final version of your thesis.
 - Announce your defense to your family, friends, and colleagues.
 - Review the test print ("proof") that Repro, the EPFL printing center, will make of your thesis.
-- Fetch your diploma once Student Services tells you it's ready.
+- Fetch your diploma once you receive an email informing you it's ready.
 
 ## Other concerns
+
+If you have special requests, such as if you want your public defense earlier than 4 weeks after the private defense,
+email the Registrar's Office at `sac-doctorants at epfl dot ch` to confirm they're okay with your choice of date.
 
 For non-EU people, it may make sense to look for a job before your public defense, to avoid worries about your permit expiring.
 
