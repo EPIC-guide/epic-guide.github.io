@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Work at EPFL
+title: "Work at EPFL"
 collection: middle
 ---
 

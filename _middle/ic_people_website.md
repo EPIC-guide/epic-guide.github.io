@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IC People website
+title: "IC People website"
 category: middle
 order: 11
 ---
