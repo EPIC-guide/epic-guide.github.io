@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vacations"
+title: Absences
 category: middle
 order: 5
 ---
