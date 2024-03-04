@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Absences
+title: "Absences"
 category: middle
 order: 5
 ---

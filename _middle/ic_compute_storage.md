@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IC compute and storage
+title: "IC compute and storage"
 category: middle
 order: 10
 number_sections: TRUE

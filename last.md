@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Graduating
+title: "Graduating"
 collection: last
 ---
 
