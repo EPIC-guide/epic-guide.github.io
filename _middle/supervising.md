@@ -7,8 +7,9 @@ order: 3
 
 ## Research projects
 
-Master's students at EPFL must complete “research projects” in labs, as well as some Bachelor's students.
-They are worth 8 credits (Bachelor's) or 12 (Master's), which is two to three times an average course, so students are supposed to spend a significant amount of time on them (12 or 18 hours per week).
+Master's students at EPFL must complete “research projects” in labs, as must Bachelor's students in Communication Sciences (SC).
+Bachelor's students in Computer Science (IN) and Master's students may also do an optional research project.
+They are worth 8 credits (Bachelor's, Master's optional) or 12 (Master's required), which is two to three times an average course, so students are supposed to spend a significant amount of time on them (12 or 18 hours per week).
 
 PhD students are often tasked with coming up with project topics, and more importantly, supervising the students.
 This typically means meeting with them once per week to check their progress, help them get unstuck, etc.
