@@ -1,9 +1,7 @@
 ---
-title: Review of Application Materials
-layout: default
+title: "Review of Application Materials (RAMP)"
+layout: guide
 ---
-
-# Review of Application Materials (RAMP) for PhDs
 
 ## Who is this for?
 

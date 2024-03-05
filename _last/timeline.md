@@ -1,20 +1,59 @@
 ---
 layout: post
-title: "Dates and timeline"
+title: Timeline
 category: last
-order: 3
+order: 1
 ---
 
-1. If your suggested date of the private defence in ISA is 01.MM.YYYY, you have to have your private defence by the end of the month MM (in the year YYYY). Otherwise you need to ask for an extension. It’s OK to ask for less than half a year extension, but it’s probably good to have a clear picture why you need exactly 3.14 months extension. ;)
-1. As of 2024, it's better not graduate in September if you feel you are on track for dissertation awards. The EDIC committee says that it makes you ineligible for certain external awards. Graduating in August or in October are fine!  
-1. You have to hand in (electronically) your thesis 5 weeks before the private defense, so you have your final deadline only after you fill in jury proposal
-1. This version of your thesis is not final, but must contain an abstract in some Swiss language, your CV and other annoying things. If you don’t speak any such language, ask your friends/colleagues, there’s always someone willing to translate an abstract.
-1. If your defense is successful you have one month applying any corrections the jury had. If not, it’s 6 months and then you repeat the defense.
-3. After your private defense, remember to send the form to SAC (Doctoral students’ services, not EDIC). You should get from them an email with further details. 
-4. Your public defense can be any time between one and six months after your private one (given you have passed the private defence)
-5. After the private defense, you need to upload the final version of your thesis (and get your supervisors approval) 15 days before the public defense. This is necessary because to get the diploma you need to first aprove the proof (a test print) of your thesis. Repro needs a couple of days to prepare the proof, but the 15 days is to be on the safe side. 
-6. You also need to inform SAC about your public defense at least 15 days before it. 
-7. For non-EU people it may make sense to look for a job before your public defense, to avoid worries about your permit expiring
-8. It is up to your supervisor how long you contract will last. In most cases, your contract can be extended a month or more after you finish your PhD. You can then help younger PhDs and search for a job comfortably. However, EPFL only require that you are paid until your **private** defence, so you might want to discuss that with your supervisor. 
-9. After your public defense, you *should* have access to EPFL email and so to all services for six months. 
-10. Make sure you move your retirement savings, which will depend on your personal situation, and you get back the CAMIPRO balance on your card (there's an online form to request a bank transfer).
+In summary, you need to:
+- Write your thesis
+- Find a jury
+- Schedule your private defense
+- Pass your private defense
+- Finalize your thesis
+- Schedule your public defense
+- Hold your public defense
+
+
+## Scheduling your private defense
+
+Once you have a [jury](/last/jury) you and your advisor are happy with, find a date they're all available.
+Your external examiners can be remote: you will need to discuss with them whether they want to come in person or not.
+
+Keep in mind that:
+- You must upload the final version of your thesis and the names of your jury 5 weeks before your private defense.
+- If the suggested date of your private defense in ISA is 01.MM.YYYY, you have to have your private defense by the end of the month MM in the year YYYY.
+  Otherwise, you need to ask for an extension. It’s okay to ask for less than a half-year extension.
+- As of 2024, it's better not graduate in September if you feel you are on track for dissertation awards.
+  The EDIC committee says that it makes you ineligible for certain external awards.
+  Graduating in August or October is fine!
+
+## Scheduling your public defense
+
+You need to do all of the following:
+- Ensure your jury president has gotten all jury members to sign the necessary forms.
+- Upload the final version of your thesis, with any corrections the jury requested, at least 2 weeks before you want to have your public defense.
+- Get your advisor to approve the final version of your thesis you uploaded.
+- Review the request you will receive from the Registrar's Office confirming the exact details of your thesis.
+- Book a [room](/middle/epfl-infrastructure#rooms-occupancy-and-booking) for your defense.
+- Find a caterer for the apéro after the defense.
+- Announce your defense using a form you will receive after your advisor has approved the final version of your thesis.
+- Announce your defense to your family, friends, and colleagues.
+- Review the test print ("proof") that Repro, the EPFL printing center, will make of your thesis.
+- Fetch your diploma once you receive an email informing you it's ready.
+
+## Other concerns
+
+If you have special requests, such as if you want your public defense earlier than 4 weeks after the private defense,
+email the Registrar's Office at `sac-doctorants at epfl dot ch` to confirm they're okay with your choice of date.
+
+For non-EU people, it may make sense to look for a job before your public defense, to avoid worries about your permit expiring.
+
+How long your contract will last after you graduate is up to your supervisor.
+In most cases, your contract can be extended a month or more beyond your graduation.
+You can use that time to help younger PhD students and search for a job comfortably.
+However, EPFL only requires that you are paid until your _private_ defense, so you should confirm extensions beyond that with your supervisor.
+
+After your public defense, you will have access to your EPFL email for another six months, but not to employee services such as the SESAME portal.
+
+Make sure you get back the CAMIPRO balance on your card (there's an online form to request a bank transfer).

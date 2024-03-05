@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Life in Lausanne
+title: "Life in Lausanne"
 collection: life
 ---
 

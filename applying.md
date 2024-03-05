@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Applying
+title: "Applying"
 collection: applying
 ---
 

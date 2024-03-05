@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Vacations"
+title: "Absences"
 category: middle
-order: 4
+order: 5
 ---
 
 The information on this page has largely been translated from the laws in French
@@ -16,6 +16,9 @@ calendar year, and an additional week if you are under 20 or over 50. You must
 take two consecutive weeks of leave every year, you must use up all five
 weeks in each calendar year as far as possible, and EPFL HR really does not want
 you to carry vacation days over year to year.
+
+In general, you can take vacation whenever you want as long as your advisor agrees and, during a semester, the lecturer you are TAing for agrees.
+The latter may ask you to find someone to replace you as TA.
 
 Various circumstances can additionally count as paid time off (see sources), of
 which the following are probably most relevant to PhD students:

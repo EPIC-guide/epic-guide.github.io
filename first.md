@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Getting started
+title: "Getting started"
 collection: first
 ---
 
