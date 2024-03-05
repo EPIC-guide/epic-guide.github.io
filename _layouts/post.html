@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 {% if page.collection %}
   {% for coll in site.collections %}
     {% if coll.label == page.collection %}
@@ -18,35 +22,15 @@
   {% endfor %}
 {% endif %}
 
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    {% include header.html %}
-
-    <main id="content" class="main-content" role="main">
-      <div class="my-article-title">{{ page.title }}</div>
-      <hr/>
-
-      {{ content }}
-
-      <div class="pagelinks">
-        <div class="pagelink" style="text-align: start">
-          {% if prev %} <a href="{{ prev.url }}">&larr; {{ prev.title }}</a> {% endif %}
-        </div>
-        <div class="pagelink" style="text-align: center">
-          <a href="{{ page.category | prepend: "/" | relative_url }}">Back to {{ page_collection.name }}</a>
-        </div>
-        <div class="pagelink" style="text-align: end">
-          {% if next %} <a href="{{ next.url }}">{{ next.title }} &rarr;</a> {% endif %}
-        </div>
-      </div>
-
-      {% include footer.html %}
-    </main>
-  </body>
-</html>
+{{ content }}
+<div class="pagelinks">
+  <div class="pagelink" style="text-align: start">
+    {% if prev %} <a href="{{ prev.url }}">&larr; {{ prev.title }}</a> {% endif %}
+  </div>
+  <div class="pagelink" style="text-align: center">
+    <a href="{{ page.category | prepend: "/" | relative_url }}">Back to {{ page_collection.name }}</a>
+  </div>
+  <div class="pagelink" style="text-align: end">
+    {% if next %} <a href="{{ next.url }}">{{ next.title }} &rarr;</a> {% endif %}
+  </div>
+</div>

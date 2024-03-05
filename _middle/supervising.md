@@ -2,7 +2,7 @@
 layout: post
 title: "Supervising semester projects"
 category: middle
-order: 3
+order: 4
 ---
 
 Bachelor and Master students at EPFL must complete “semester projects” in labs. They are worth a lot of credits, so they spend significant time on them.

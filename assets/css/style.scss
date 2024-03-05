@@ -28,24 +28,6 @@
   }
 }
 
-.project-tagline {
-  margin-bottom: 1rem;
-  font-weight: normal;
-  opacity: 0.7;
-
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
-
-  @include small {
-    font-size: 1rem;
-  }
-}
-
 .my-logo {
   @include large {
     max-height: 40px;
@@ -58,9 +40,6 @@
   @include small {
     max-height: 20px;
   }
-}
-
-.my-title {
 }
 
 .my-topnav {
@@ -105,17 +84,12 @@
   color: white;
 }
 
-.my-article-title {
+h2.my-article-title {
   font-size: 2em;
   margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-weight: bolder;
   color: $header-bg-color-secondary;
-}
-
-.my-update-date {
-  text-align: right;
-  opacity: 0.7;
 }
 
 .my-article-list {

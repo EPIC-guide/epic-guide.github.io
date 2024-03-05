@@ -1,15 +1,44 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   <head>
-    {% include head.html %}
+    <meta charset="UTF-8" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" as="style" type="text/css" crossorigin />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#157878" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" />
+
+    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.title }}</title>
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    {% include header.html %}
+    <header class="page-header" role="banner">
+      <a href="{{ '/' | relative_url }}">
+        <div>
+          <h1 class="project-name"> <img class="my-logo" type="image/svg" src="{{ '/logo.svg' | relative_url }}"/> {{ site.title }}</h1>
+        </div>
+      </a>
+      <div class="my-topnav">
+        {% assign colls = site.collections | sort: 'order' %}
+        {% for coll in colls %}
+          {% if page.collection == coll.label %} <a href="{{ coll.label | prepend: "/" | relative_url }}"><button type="button" class="active">{{ coll.name }}</button></a>
+          {% else %} {% if coll.label != "posts" %} <a href="{{ coll.label | prepend: "/" | relative_url }}"><button type="button" >{{ coll.name }}</button></a> {% endif %} {% endif %}
+        {% endfor %}
+      </div>
+    </header>
 
     <main id="content" class="main-content" role="main">
+      <h2 class="my-article-title">{{ page.title }}</h2>
       {{ content }}
+
+      <footer class="site-footer">
+        This guide is collectively written by EDIC PhD students and maintained by <a href="https://www.epfl.ch/campus/associations/list/epic/">EPIC</a>.
+      </footer>
     </main>
   </body>
 </html>

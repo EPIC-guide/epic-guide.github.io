@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Resources and responsibilities
+title: "Work at EPFL"
 collection: middle
 ---
 

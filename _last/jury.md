@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing your jury"
 category: last
-order: 2
+order: 10
 ---
 
 1. Who chooses jury depends on the lab
