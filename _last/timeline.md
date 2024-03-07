@@ -35,9 +35,11 @@ You need to do all of the following:
 - Upload the final version of your thesis, with any corrections the jury requested, at least 2 weeks before you want to have your public defense.
 - Get your advisor to approve the final version of your thesis you uploaded.
 - Review the request you will receive from the Registrar's Office confirming the exact details of your thesis.
+- Get your advisor to approve the details you just reviewed.
 - Book a [room](/middle/epfl-infrastructure#rooms-occupancy-and-booking) for your defense.
 - Find a caterer for the apéro after the defense.
 - Announce your defense using a form you will receive after your advisor has approved the final version of your thesis.
+- Get your advisor to approve the public defense announcement.
 - Announce your defense to your family, friends, and colleagues.
 - Review the test print ("proof") that Repro, the EPFL printing center, will make of your thesis.
 - Fetch your diploma once you receive an email informing you it's ready.
