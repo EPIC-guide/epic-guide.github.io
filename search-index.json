@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+{% for coll in site.collections %}
+{% for doc in coll.docs %}
+{
+  "id": {{ doc.url | jsonify }},
+  "title": {{ doc.title | jsonify }},
+  "text": {{ doc.content | strip_html | strip_newlines | jsonify }}
+},
+{% endfor %}
+{% endfor %}
+{"id":""} {% comment %} JSON arrays can't have trailing commas and using forloop.last won't work with nested loops so this is a quick hack {% endcomment %}
+]
