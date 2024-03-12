@@ -39,7 +39,7 @@ You need to do all of the following:
 - Book a [room](/middle/epfl-infrastructure#rooms-occupancy-and-booking) for your defense.
 - Find a caterer for the apéro after the defense.
 - Announce your defense using a form you will receive after your advisor has approved the final version of your thesis.
-- Wait for the registrar's office to approve your public defense announcement.
+- Wait for the Registrar's Office to approve your public defense announcement.
 - Announce your defense to your family, friends, and colleagues.
 - Review the test print ("proof") that Repro, the EPFL printing center, will make of your thesis.
 - Fetch your diploma once you receive an email informing you it's ready.
