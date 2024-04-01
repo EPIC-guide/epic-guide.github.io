@@ -26,7 +26,6 @@ Use the [official health insurance price calculator](https://www.priminfo.admin.
 This is government-run, there is no point in using any of the private comparers such as comparis.ch for this as they are likely trying to sell you something.
 
 The EPFL Student Affairs Website provides [detailed information about health insurance](https://sae.epfl.ch/health-insurance).
-ACIDE can help PhD students to [get health insurance](http://acide.epfl.ch/services/health-insurance/).
 
 ### Complementary
 
