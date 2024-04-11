@@ -81,4 +81,7 @@ The sports center also organizes sport sessions over lunchtime on the EPFL campu
 Two types of sessions are organized and the themes are often varied: short sessions are 30-minutes sport sessions from 12:00 to 12:30 and 12:30 to 13:00,
 and campus sessions are 45-minutes sport sessions from 12:15 to 13:00.
 Find all the information about the sessions and the registration (sessions are free, but registration is mandatory) link on the [Sports Center website](https://www2.unil.ch/css/index.php?r=default/page&label=sessions).
- 
+
+### Hiking
+
+See [the dedicated hiking page](/life/hiking).
