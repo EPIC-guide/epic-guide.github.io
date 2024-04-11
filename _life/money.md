@@ -2,7 +2,7 @@
 layout: post
 title: "Money and Taxes"
 category: life
-order: 9
+order: 30
 ---
 
 The short version:
