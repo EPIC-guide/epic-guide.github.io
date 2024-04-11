@@ -34,9 +34,25 @@ async function displayResults(container, results) {
   }));
 }
 
+// based on https://www.joshwcomeau.com/snippets/javascript/debounce/
+function debounce(callback, msDelay) {
+  let timeoutId = null;
+  return (...args) => {
+    window.clearTimeout(timeoutId);
+    timeoutId = window.setTimeout(() => {
+      callback.apply(null, args);
+    }, msDelay);
+  };
+}
+
 const searchContainer = document.getElementById('search-container');
 const searchBar = document.getElementById('search-bar');
-searchBar.addEventListener('input', async e => {
-  const results = await search(e.target.value);
+async function updateSearch() {
+  const results = await search(searchBar.value);
   await displayResults(searchContainer, results);
-});
+}
+
+searchBar.addEventListener('input', debounce(updateSearch, 250));
+// if the user navigated with back/forward, the search bar may have text already
+// but this must be done in the pageshow handler otherwise the browser won't have restored the text yet
+window.addEventListener('pageshow', updateSearch);
