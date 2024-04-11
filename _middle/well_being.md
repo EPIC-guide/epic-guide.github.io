@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Well-being & mental health"
-category: life
+category: middle
 order: 6
 ---
 
