@@ -7,7 +7,7 @@ layout: null
 {
   "id": {{ doc.url | jsonify }},
   "title": {{ doc.title | jsonify }},
-  "text": {{ doc.content | strip_html | strip_newlines | jsonify }}
+  "text": {{ doc.content | strip_html | jsonify }}
 },
 {% endfor %}
 {% endfor %}

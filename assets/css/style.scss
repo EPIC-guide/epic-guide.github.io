@@ -121,7 +121,7 @@ h2.my-article-title {
   width: 100%;
 }
 
-.search-result {
-  margin-top: 0.5em !important;
+.search-result, .search-result:first-child {
+  margin-top: 0.5em;
   display: block;
 }
