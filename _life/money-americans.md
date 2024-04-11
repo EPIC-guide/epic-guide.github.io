@@ -2,7 +2,7 @@
 layout: post
 title: "Money and Taxes Supplement for US-Affiliated Persons 🗽"
 category: life
-order: 10
+order: 35
 ---
 
 The United States has always been and will always be a bit special compared to the rest of

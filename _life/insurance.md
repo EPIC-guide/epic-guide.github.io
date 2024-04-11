@@ -2,7 +2,7 @@
 layout: post
 title: "Insurance"
 category: life
-order: 8
+order: 20
 ---
 
 As a resident of Switzerland, you need to be insured against at least illness, accidents, and fire hazards.

@@ -19,6 +19,6 @@ This guide was written by the [EPIC](https://www.epfl.ch/campus/associations/lis
 The current maintainer of this guide is Shardul Chiplunkar.
 
 Special thanks to past maintainers Siang-Yun (Sonia) Lee, Solal Pirelli, and Vinitra Swamy, as well as to all contributors, in alphabetical order:
-Deniz Bayazit, Jade Cock, Basil Contovounesios, Evann Courdier, Arnout Devos, Paola Domenzain, Uday Kusupati, Shailesh Mishra, Ehsan Mohammadpour, Merlin Nimier-David, Michalina Pacholska, Elsa Rizk, Viktor Sanca, Sandra Siby, and Theresa Stadler.
+Deniz Bayazit, Jade Cock, Basil Contovounesios, Evann Courdier, Arnout Devos, Paola Domenzain, Uday Kusupati, Shailesh Mishra, Ehsan Mohammadpour, Merlin Nimier-David, Michalina Pacholska, Aditya Pradeep, Elsa Rizk, Viktor Sanca, Sandra Siby, and Theresa Stadler.
 
 This guide was partly inspired by the PolyDoc association's [My PhD Life guide](https://www.epfl.ch/campus/associations/list/polydoc/my-phd-life/).
