@@ -201,10 +201,15 @@ during the week, and relaxing on the weekends by investigating PhD students abro
 Luckily, the official IRS documentation for these requirements is helpful and not too
 difficult to follow.
 
-The IRS also benevolently grants you an automatic two-month extension to file your
-returns because you are incurring the hardship of living abroad, so until June 15 (or
-the closest following business day) in normal cases. (All US taxpayers regardless of
-residence can request an automatic six-month extension with Form 4868.) Remember that
+The IRS also benevolently grants you an automatic two-month extension to file and pay
+your taxes because you are incurring the hardship of living abroad, so until June 15
+(or the closest following business day) in normal cases. This is useful if, e.g., you
+haven't received your TOU forms before April 15 (see [§ Swiss taxes](#swiss-taxes)).
+You must attach a statement to your return explaining [why you qualify for the
+extension](https://www.irs.gov/publications/p54#en_US_2023_publink100047326).
+Alternatively, all US taxpayers, regardless of residence, can get an automatic
+six-month extension to _file_ with Form 4868, but not to pay. This means that you
+have to prepay an estimated amount of tax along with that form and that
 the IRS will charge interest on underpaid taxes starting from the regular deadline.
 
 ##### Pillar 2
