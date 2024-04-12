@@ -44,7 +44,7 @@ The Swiss Mobility app displays these three categories as yellow, red, and blue 
 The other most relevant parameters when choosing on a hike are the walking distance and the elevation.
 In addition, the app has a "fitness level" required for the hike. Even easier hikes can require a high level of fitness if they are very long.
 
-The Swiss Alpine Club has [a more detailed classification]((https://www.sac-cas.ch/fileadmin/Ausbildung_und_Wissen/Sicher_unterwegs/Sicher_unterwegs_Wandern/2020_Berg_Alpinwanderskala_EN.pdf)) ranging from T1 (easy) to T6 (very difficult), if you are interested.
+The Swiss Alpine Club has [a more detailed classification](https://www.sac-cas.ch/fileadmin/Ausbildung_und_Wissen/Sicher_unterwegs/Sicher_unterwegs_Wandern/2020_Berg_Alpinwanderskala_EN.pdf) ranging from T1 (easy) to T6 (very difficult), if you are interested.
 
 Note that "via ferratas" are not considered hikes and are essentially between hiking and mountaineering. They have a different difficulty scale.
 
