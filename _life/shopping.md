@@ -55,6 +55,12 @@ They are far more expensive than the others, but have products that you may not 
 Their [website](https://globus.ch) is only available in French and German.
 
 
+### Markets
+
+Towns and communes typically have a market with local sellers of fresh produce once or twice a week.
+Check your local commune to know when and where, for Lausanne it's Wednesdays and Saturdays around the Riponne/Palud area.
+
+
 ### Specialty stores
 
 - Slavic: [Doushka](https://doushka.ch/), Rue Jean-Louis Galliard 02 1004 Lausanne
@@ -131,6 +137,7 @@ If you want stuff not typically available in Swiss supermarkets, such as food an
 - [La Cucina](https://lacucina.ch/) has loose leaf teas, spices, and related equipment
 - [Looddl](https://looddl.ch/) has Korean food, including fresh and frozen, and some other Asian food
 - [Logam](https://logam.ch/) has Southern and Eastern Asian food, and some health/beauty items
+- [My Little Italy](https://my-little-italy.ch/) has Italian food, most of which you can also find at Aligro or the Lausanne market as it's the same provider (Padula)
 - [Polish Shop](https://www.polish-shop.ch/en/) has Polish food
 - [Piccantino](https://www.piccantino.com/) has spices, herbs, oils, and other such condiments
 
