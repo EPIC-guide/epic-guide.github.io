@@ -58,7 +58,8 @@ Their [website](https://globus.ch) is only available in French and German.
 ### Markets
 
 Towns and communes typically have a market with local sellers of fresh produce once or twice a week.
-Check your local commune to know when and where, for Lausanne it's Wednesdays and Saturdays around the Riponne/Palud area.
+Check your local commune to know when and where.
+For Lausanne, it's Wednesdays and Saturdays around the Riponne/Palud area.
 
 
 ### Specialty stores
