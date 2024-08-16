@@ -31,7 +31,6 @@ Bins for oil, aluminum/cans, and clothes are available at specific locations, su
 
 "Normal" trash uses special, taxed trash bags in Vaud. You _cannot_ use a black bag for this, you must buy a roll of trash bags, e.g. 10x35l is CHF 20.
 You have to explicitly ask a cashier for them while you're paying, they are not available on shelves.
-(Introvert pro tip: the exception is Aligro, which has them just before the cashiers, if you don't feel like asking.)
 
 
 ## Sunday
