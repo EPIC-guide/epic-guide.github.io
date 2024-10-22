@@ -153,6 +153,7 @@ Even as recently as Feb 2024, [some hikers died](https://www.swissinfo.ch/eng/s
 
 Also, be very careful when attempting difficult hikes (SAC's T4 and above).
 These hikes are rated difficult for a reason. Preferably attempt these with a hiking partner with more experience.
+Also even T3 rated hikes can be dangerous out of season with snow, ice and scree. 
 Every year, many people get into [hiking accidents](https://www.swissinfo.ch/eng/business/mountain-accidents-in-switzerland-the-figures/47805430).
 Read the [SAC safety tips](https://www.sac-cas.ch/en/training-and-safety/safety/safety-when-hiking/) before you add to that number.
 
@@ -184,6 +185,9 @@ In general, people are super nice and helpful on the mountains and you should be
 Always greet other hikers: *bonjour*/*salut* on the French side or *Grüss Gott* on the German side.
 Other hikers can also give advice and take photos for you!
 
+Remember to follow the principles of [Leave No Trace](https://lnt.org/why/7-principles/) - the idea being to minimize your impact on nature.
+The most important rule is to not leave trash behind- I recommend carrying a plastic bag to collect all trash to dispose later post-hike.
+
 Do not be too self-conscious: Swiss people are hiking beasts, and you will frequently be overtaken by young children or by elderly people.
 When the Swiss say a hike is easy, it's probably not as easy as you imagine.
 Keep hiking and one day you too will be doing Swiss-difficult hikes!
@@ -214,6 +218,12 @@ Many routes were made for this purpose, such as the *Via Francigena* (road to Ro
 and *Via Alpina* (across the alps, where J. R. R. Tolkien saw Lauterbrunnen, the most beautiful place on Earth and the inspiration for the Elvish settlement of Rivendell).
 These routes have sections and you cover one section every day which is why most sections end in towns or at mountain huts.
 
+## SAC Huts
+The Swiss Alpine Club (SAC) has many huts in the mountains where you can stay. 
+They are very useful if you are planning to do a multi day hike or if you just want to spend a day in the mountains. 
+You can read more information about the facilities and how to book them [here](https://www.myswitzerland.com/en-ch/experiences/summer-autumn/hiking/alpine-passes-trail/sac-huetten/).
+If you plan to stay more than two nights a year, it's probably worth it to become a SAC member as you then get discounts.
+Remember that many huts get fully booked out in peak summer season- so make sure to book early.
 
 ## Recommendations
 
@@ -266,19 +276,22 @@ _Italic_ hikes are personnal recommendations from the original author of this pa
 23. [_Zermatt 5 Lakes_](https://www.zermatt.ch/en/Media/Planning-hikes-tours/5-Lakes-Walk-Nr.-11)
 
 **Hard**:
+0. All sections of [_Via Alpina #1_](https://schweizmobil.ch/en/hiking-in-switzerland/route-1) or [_Alpine Passes Trail #6_](https://schweizmobil.ch/en/hiking-in-switzerland/route-6)
 1. Rochers de Naye from Haut de Caux (or even from Montreux)
 2. Leysin -- Tour d'Ai -- Leysin. Can add areas around Mayen
 3. Miex, Le Flon -- Lac de Taney -- Le Grammont
 4. [Sentier de Salanfe](https://schweizmobil.ch/en/hiking-in-switzerland/route-211), can add Col de Susanfe and end in Champery
 5. [Lac d'Emosson -- Cabane de Salanfe](https://schweizmobil.ch/en/hiking-in-switzerland/route-6/stage-38)
-6. [Glacier 3000 hike](https://www.glacier3000.ch/en/hiking/advanced/col-du-pillonscex-rouge), only in summer, check conditions
-7. [_Tanzbodeli_](https://www.hikingwalking.com/index.php/destinations/sw/sw_bernese/lauterbrunnen/tanzbodeli), Aditya's all time favorite hike
+6. [_Glacier 3000 hike_](https://www.glacier3000.ch/en/hiking/randonnees-panoramiques/scex-rougesanetsch[]) Very unique views but only in summer in good conditions.
+7. [_Tanzbodeli_](https://www.hikingwalking.com/index.php/destinations/sw/sw_bernese/lauterbrunnen/tanzbodeli), Aditya's all time favorite hike.
 8. [_Best Oeschinensee + Glacier views_](https://schweizmobil.ch/en/hiking-in-switzerland/route-1/stage-13)
 9. [Tour de l'Argentine](https://schweizmobil.ch/en/hiking-in-switzerland/route-121), can add Pas de cheville and end at Lac Derborence
 10. Col du Pillon -- Col des Anderets -- Arpillette -- Isenau -- Col du Pillon, can also add La Pare
+37. [Les Paccots-Teysachaux - Moleson](https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/teysachaux-1963/randonnee-en-montagne/les-paccots-teysachaux-le-moleson-bulle-1617/)
 11. [Montbovon -- La Bra -- L'Aiguille -- Chaux de Culand -- Rossinière](https://www.hikr.org/tour/post158310.html)
 12. [Leysin -- Les Mosses](https://schweizmobil.ch/en/hiking-in-switzerland/route-46/stage-2)
 13. Les Mosses -- Pic Chaussy
+41.  [_Gastlosen_](https://schweizmobil.ch/en/hiking-in-switzerland/route-262) Called the Swiss Dolomites.
 14. [L'Etivaz -- Rocher du Midi](https://swissmountainleader.com/2019/10/rocher-du-midi-chateau-doex/)
 15. [Tour du Grand Chavalard](https://schweizmobil.ch/en/hiking-in-switzerland/route-220)
 16. La Breya/Champex Lac -- Cabane du Trient 3169 m -- La Breya
@@ -290,18 +303,22 @@ _Italic_ hikes are personnal recommendations from the original author of this pa
 22. [Sentier Panorama 4000](https://schweizmobil.ch/en/hiking-in-switzerland/route-224)
 23. Cry d'Er -- Lac-Pointe de la Plaine Morte -- Mont Bonvin -- Cabane des Violettes, harder and more rewarding hike than Sentier Panorama 4000.
 24. [Golden Meleze Fall](https://www.nendaz.ch/en/V2907/hike-around-mont-gond) at Nendaz, alternate Tracouet -- Le Fou -- Verbier
-25. Aletschgletscher --- Loop from Fiescheralp. Largest glacier in the alps
+25. [_Aletschgletscher_](https://theportuguesetraveler.com/switzerland/aletsch-glacier-hike/) --- Bettmeralp to Fiescheralp. Largest glacier in the alps
 26. Arolla -- Cabane de dix
-27. Arolla -- Cabane des Aiguilles Rouges -- Lac Bleu -- La Gouille, fall hike
+27. _Arolla -- Cabane des Aiguilles Rouges -- Lac Bleu -- La Gouille_, fall hike
 28. [Tour du Lac Moiry](https://schweizmobil.ch/en/hiking-in-switzerland/route-221), can also go to Cabane de Moiry
-29. Zinal -- Cabane de Tracuit CAS
+29. Zinal -- Cabane de Tracuit CAS 3256m
 30. [Gruben -- Hotel Weisshorn](https://schweizmobil.ch/en/hiking-in-switzerland/route-6/stage-22)
 31. St Luc/Tignousa -- Zinal
 32. [Gruben -- St Niklaus VS via Augstbordpass](https://schweizmobil.ch/en/hiking-in-switzerland/route-6/stage-21)
-33. [Hohbalmen Zermatt](https://hikingwalking.com/index.php/destinations/sw/sw_valais/zermatt/hohbalm/hohbalm_detail)
-34. 5 lake walk++, add Oberrothorn 3400 m to [this](https://www.zermatt.ch/en/Media/Planning-hikes-tours/5-Lakes-Walk-Nr.-11)
+33. [_Hohbalmen Zermatt_](https://hikingwalking.com/index.php/destinations/sw/sw_valais/zermatt/hohbalm/hohbalm_detail)
+34. _5 lake walk++_, add Oberrothorn 3400 m to [this](https://www.zermatt.ch/en/Media/Planning-hikes-tours/5-Lakes-Walk-Nr.-11). 2nd highest hike in Switzerland.
 35. [Augstmatthorn](https://staywildtravels.com/augstmatthorn-hike/) from Habkern/Interlaken Ibex colony
-36. [Schynige Platte -- Faulhorn -- Grindelwald First](https://www.journeyera.com/schynige-platte-hike-faulhorn-first/)
+36. [_Schynige Platte -- Faulhorn -- Grindelwald First_](https://www.journeyera.com/schynige-platte-hike-faulhorn-first/)
+38. [_Tour du Grand Chavalard_](https://schweizmobil.ch/en/hiking-in-switzerland/route-220) has great views of Mont Blanc.
+39. [_Augstbordpass_](https://schweizmobil.ch/en/hiking-in-switzerland/route-6/stage-21) from Gruben - St.Niklaus. Can end in Embd. Also can peak hunt the T4 3200m Schwarzhoru.
+40. [_Üssers Barrhorn_ ](https://www.swissmountainfun.ch/ussers-barrhorn-hike-wallis-valais-switzerland/) - Highest hike in Switzerland, 2nd highest in the Alps @3610m. Not technically difficult from Gruben. The opposite approach from St.Niklaus is rated T5 due to a glacier crossing. 
+
 
 **Very hard:**
 1. [Tour d'Ai](https://www.swissmountainfun.ch/hiking-via-ferrata-tour-dai-leysin-switzerland/#medium-hike)
@@ -309,6 +326,7 @@ _Italic_ hikes are personnal recommendations from the original author of this pa
 3. [Dent de Lys](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/dent-de-lys-1086/mountain-hiking/les-paccots-dent-de-lys-les-sciernes-dalbeuve-139/)
 4. [Zermatt Hornlihutte](https://www.earthtrekkers.com/hornlihutte-hike/)
 5. [Grindelwald Schreckhornhutte](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/schreckhornhuette-sac-2147000243/mountain-hiking/from-pfingstegg-grindelwald-480/)
+6. [Grand Chavalard 2901 m](https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/grand-chavalard-364/randonnee-en-montagne/)
 
 **Extreme**:
 1. [Haute Cime in Dents du Midi](https://salanfe.ch/en/day-trips/climb-to-the-haute-cime-of-the-dents-du-midi-alt-3257m/)
@@ -320,7 +338,7 @@ _Italic_ hikes are personnal recommendations from the original author of this pa
 Hikes further away from EPFL, which in principle could be done in a day but require an early start and a day pass:
 1. [Brienzergrat](https://swissfamilyfun.com/brienzer-rothorn-ridge-trail/)
 2. Männlichen -- Eigergletscher -- Alpiglen
-3. Murren -- Schilthorn -- Griesalp
+3. _Murren -- Schilthorn -- Griesalp_ Add Schilthorn to [this](https://schweizmobil.ch/en/hiking-in-switzerland/route-1/stage-12)
 4. [Stoos Ridge](https://swissfamilyfun.com/stoos-ridgeline-hike/)
 5. Stanserhorn -- Arvigrat Ridge
 6. Federspitz
@@ -343,5 +361,5 @@ Hikes further away from EPFL, which in principle could be done in a day but requ
 ## Acknowledgements
 
 The information on this page was originally compiled by Aditya Pradeep.
-He would like to thank Karen Adam and Simon Schutz for starting his hiking journey with many useful starting hiking tips,
+He would like to thank Karen Adam, Simon Schutz, Maksym Andriushchenko and Nicolas El Maalouly for starting his hiking journey with many useful starting hiking tips,
 as well as Felix, Abdullah, Heather, and Aidan for their valuable comments and edits.
