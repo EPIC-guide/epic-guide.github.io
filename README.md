@@ -48,6 +48,7 @@ If you would like to build the webpage locally to preview the changes:
 
 1. Check (and install if not fulfilled) the [prerequisites](https://jekyllrb.com/docs/installation/#requirements): Ruby >= 2.5.0 with Dev headers, RubyGems, GCC and Make.
 1. [Install Jeykll](https://jekyllrb.com/docs/installation/) following the steps according to your operating system.
+1. Install a couple additional Jekyll gems we need: `gem install jekyll-remote-theme jekyll-seo-tag`.
 1. Navigate to the root directory of this repo.
 1. Run `jekyll serve` to start the server. It will automatically regenerate webpages when you change the Markdown sources.
 1. Open a browser and go to [http://localhost:4000](http://localhost:4000).
