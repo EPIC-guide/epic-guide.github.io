@@ -4,6 +4,27 @@
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
+body {
+  color: #262e31;
+}
+
+.main-content code {
+  color: #262e31;
+  font-size: 1rem;
+}
+
+.main-content h3 {
+  font-size: 1.5em;
+}
+
+.main-content h4 {
+  font-size: 1.2em;
+}
+
+.main-content h5 {
+  font-size: 1em;
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
