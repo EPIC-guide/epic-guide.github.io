@@ -300,6 +300,8 @@ there are two relevant annexes to the standard tax return:
 	amount in DA-1? Morally I feel you should be able to, to avoid double taxation,
 	but I can't be sure about the legal answer.
 
+    Update (2023): Shardul tried this but it was not accepted, because the amount being claimed was under 100 CHF, so the question remains moot.
+
 Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d'impôt USA_,
 or Request for refund of US supplemental withholding tax, is for US investments made
 through _Swiss_ brokers, who automatically withhold some tax as a compliance
