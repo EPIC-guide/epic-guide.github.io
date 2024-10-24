@@ -70,6 +70,7 @@ For Lausanne, it's Wednesdays and Saturdays around the Riponne/Palud area.
 - Asian: Jehanathan Sàrl, with 2 locations:
   - Avenue de France 2, 1004 Lausanne
   - Avenue de la Rapille 12, 1008 Prilly
+- Asian: [Mekong Food SA](https://www.facebook.com/mekongfood.lausanne/), Place de la Sallaz 3, 1010 Lausanne
 - South American / Spanish / other: [Aux Spécialités de la Palud](https://mixfood.party/magasin/) Pl. de la Palud 9, 1003 Lausanne. It is hard to describe their exact speciality, but they sell imported cured meats and cheeses as well as pantry staples, e.g. Spanish chorizo and Mexican canned chipotle in adobo. 
 - Chinese/Korean: Mika Alimentation Asiatique Rue du Flon 8, 1003 Lausanne
 - Japanese: [uchitomi](https://uchitomi.ch/) Rue Grand-Saint-Jean 4, 1003 Lausanne
