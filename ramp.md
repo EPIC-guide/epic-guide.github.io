@@ -1,5 +1,5 @@
 ---
-title: "Review of Application Materials (RAMP)"
+title: "Review of Application Materials Program (RAMP)"
 layout: guide
 ---
 
@@ -17,9 +17,9 @@ They will be able to give the most relevant feedback. If you cannot get feedback
 
 ## Who is this by?
 
-Some PhD students in the Computer & Communication Sciences department
+Some PhD students in the Computer & Communication Sciences (IC) department
 at EPFL are volunteering to help review your application materials. This 
-initiative is called EPIC RAMP, and it has entered its second cycle in 2023.
+initiative is called EPIC RAMP, and it has entered its third year in 2024.
 
 Please understand that this is a service that the PhD students are providing
 in their free time, so it may take a few weeks to get a response, and we may
@@ -34,10 +34,10 @@ or who do not take the time to first follow the guides on this website. -->
 
 ## Steps
 
-1. Follow [the Applying section of the EPIC PhD guide](/applying) for statements of purpose and resumes
-2. Apply for RAMP by filling the [application form](https://forms.gle/qDMRypmzfxosWL6g8)
-3. We will contact you in a few days and match you with your EPFL CS PhD mentor
-4. Reach out to your mentor with any questions you have, attaching your statement of purpose and resumè so they can best assist you
+1. Follow [the Applying section of the EPIC PhD guide](/applying) for statements of purpose and resumes.
+2. Apply for RAMP by filling the [application form](https://forms.gle/qDMRypmzfxosWL6g8).
+3. Wait for us to contact you and match you with your EPFL IC PhD student mentor.
+4. Reach out to your mentor with any questions you have, attaching your statement of purpose and résumé so they can best assist you.
 
 <!-- 2. Find _one or two_ people in the list [below](#volunteers) whose research interest match yours
 3. Send them an email introducing yourself and attaching your statement of purpose and resume (we provide a template [below](#email-template)) -->
