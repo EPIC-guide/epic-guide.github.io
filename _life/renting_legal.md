@@ -21,7 +21,9 @@ If you receive a notice of rent increase, it is important that you check that it
 - Increase of the IPC: 40% of the relative increase of the index can be applied to your rent: $\Delta R = \frac{\text{new index} - \text{old index}}{\text{old index}} \times 0.4 \times R$
 - Increase of landlord costs: this category is less clearly defined and encapsulates all increases in costs that the landlord can claim.
 
-![Example rent increase](rent_increase.jpg)
+<p align="center">
+  <img src=rent_increase.jpg/>
+</p>
 
 Above is an example of a rent increase notice, following the official format. By applying the formulas above, one can check that the increases in the first 2 categories indeed follow the law: the mortgage rate increased by 0.5 points, i.e. 2*0.25, hence an increase of  2 * 0.03 * 1210 = 72.60.
 The IPC also increased by about 1%, resulting in an increase of (169.3 - 167.5) / 167.5 * 0.4 * 1210 = 5.2 increase.
