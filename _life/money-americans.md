@@ -217,12 +217,17 @@ the IRS will charge interest on underpaid taxes starting from the regular deadli
 For US tax purposes, your Pillar 2 account is considered part of a *nonexempt
 employee trust*. Your contributions (*Cotisations CP* on your paystubs) are part of
 your income. In fact, your employer's contributions[^8] (*Cotisations CP EMP*) to
-Pillar 2 are also considered part of your income and should be reported as such. The
-eventual distribution from Pillar 2, minus the amount already taxed when you
-contributed it, will be taxed in the US (assuming no Swiss tax liability at that
-point). You need to report the total value of your Pillar 2 with your foreign assets.
+Pillar 2 are also considered part of your income and should be reported as such.
 Your employer's contributions cannot be excluded as part of the foreign earned income
 exclusion, if you are claiming it.
+
+While the money in your Pillar 2 account is not counted as “wealth” for Swiss taxes, you do need to report it alongside your other foreign assets in Form 8938 and/or the FBAR.
+The total value is listed in the annual report that PUBLICA should make available in your myPUBLICA portal around the beginning of March.
+That report also lists the yearly total of employer contributions, which is a good way to cross-check that amount with what you calculate from your paystubs.
+
+The eventual distribution from Pillar 2, minus the amount already taxed when you
+contributed it, will be taxed in the US (assuming no Swiss tax liability at that
+point).
 
 #### US state taxes
 
@@ -277,8 +282,10 @@ paragraph), it may be worth it to get the first year's taxes back.
 Note that you are _required_ to file a TOU under certain circumstances, one of which
 is if you have any income not subject to source withholding, such as investment
 returns. Like the elective TOU, this TOU remains applicable for future years even if
-the obligatory conditions are no longer applicable (which makes no sense to me). Then
-there are two relevant annexes to the standard tax return:
+the obligatory conditions are no longer applicable (which makes no sense to me).
+
+If you have US investments, you must upload the tax statements from your broker to the VaudTax platform under *relevé fiscale bancaire* (bank tax statement) and report both the income and the total amount.
+There are two relevant annexes to the standard tax return:
 
  1. Annex 1, _État des titres et autres placements de capitaux_, or Statement of
     securities and other capital investments. Most of it will be blank except for the
@@ -302,10 +309,10 @@ there are two relevant annexes to the standard tax return:
 
     Update (2023): Shardul tried this but it was not accepted, because the amount being claimed was under 100 CHF, so the question remains moot.
 
-Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d'impôt USA_,
+(Annex R-US 164, _Demande en remboursement de la retenue supplémentaire d'impôt USA_,
 or Request for refund of US supplemental withholding tax, is for US investments made
 through _Swiss_ brokers, who automatically withhold some tax as a compliance
-measure. This should not apply to you.
+measure. This should not apply to you.)
 
 Lastly, two points worth clarifying. One, that the Canton of Vaud's tax return filing
 deadline is March 15, a month before your US federal tax return is due, although
@@ -422,6 +429,8 @@ fee. You will notice an accompanying striking lack of credit card marketing and 
 lower usage of credit cards.[^1]
 
 ### Investing in Switzerland
+
+_(This section applies only to US citizens and tax residents.)_
 
 Don't. The main reason is that if you do, you will enter tax hell, both in the sense
 that you will be taxed at a very high rate on investment returns, and that your tax

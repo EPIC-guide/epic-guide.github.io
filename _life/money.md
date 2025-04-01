@@ -128,10 +128,14 @@ Once this is done, you keep being taxed at the source, but you have to follow th
 Opting for a TOU cannot be undone. Once requested, you will have to file your taxes every year,
 so if you are not obligated to do it, you should only request one if your situation in terms of deductions will be stable long-term.
 
+The deadline for filing your taxes is typically March 15.
+If it is the first year you are filing your taxes because you requested a TOU, your deadline will be set by the tax office in the letter they send you.
+(The letter may not even arrive before March 15.)
+Regardless of TOU, you have an almost-automatic extension until June 15 that you can get by emailing the tax office with no justification needed.
+
 Before opening VaudTax, get the following documents and information, so that filing your taxes becomes a quick 15-minute affair:
 - The letter you got from the tax office that includes your "nᵒ de contribuable" and "code de contrôle" identifiers (the latter changes every year).
-  You should get this letter around the middle of February if you are a resident or have previously requested a TOU.
-  If this is the year you requested a TOU, you will get it shortly after your request, along with an extended deadline to file your taxes.
+  You should get this letter around the middle of February if you are a resident or have previously requested a TOU, but it may be much later if you just requested a TOU for the current year.
 - Your salary certificate from EPFL's SESAME portal.
 - For each bank account you had on the 31st of December of the elapsed year (in any country/currency), the account number, amount of money there was on the account on that date, and the interest you earned for the year.
   - If you opened that account in the elapsed year, you additionally need the opening date.
