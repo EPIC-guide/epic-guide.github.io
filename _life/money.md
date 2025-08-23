@@ -113,7 +113,7 @@ The general principles of Swiss taxation are:
 ⚠️ _The remainder of this page is a helpful guide to common taxable items and deductions in the canton of Vaud, not tax advice about your personal situation._
 _You should still read every field in the tax form at least once to ensure you do not forget anything._ ⚠️
 
-Filing taxes in the canton of Vaud is done via [VaudTax](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/prestation-vaudtax/),
+Filing taxes in the canton of Vaud is done via [VaudTax](https://www.vd.ch/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/vaudtax),
 the government-provided online tool that figures out your federal, cantonal, and communal taxes for you based on data you input.
 
 If you are not a permanent resident:
