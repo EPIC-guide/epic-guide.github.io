@@ -9,7 +9,7 @@ Finding housing in Lausanne is possible but not always easy due to how quickly t
 
 To help you in your search, we recommend the [internal EPFL platform](http://logement.epfl.ch/PhD),
 the ["Lausanne à louer - Bouche à oreille" Facebook group](https://www.facebook.com/groups/330486193693264/) (which is not EPFL-exclusive),
-and the _#housing_ channel in the [IC PhD Slack](http://tinyurl.com/ic-phd-slack)
+and the _#housing_ channel in the [IC PhD Slack](https://join.slack.com/t/epfl-phd/shared_invite/zt-3c4lta837-tW7NVg0otxBgF5yBfBjgPw).
 
 In general, if you're planning to rent out an apartment directly from a private landlord or an agency as the main tenant,
 you will need requires certain paperwork that you will only be able to do once you arrive. The standard set of documents that would typically be needed is

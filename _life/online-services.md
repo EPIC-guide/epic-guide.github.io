@@ -33,7 +33,7 @@ Combined with the highly accurate forecasts provided [SwissMeteo](https://www.me
 
 ## Communication
 
-Join the [EPFL IC PhDs Slack](https://join.slack.com/t/epfl-phd/shared_invite/zt-456fxe9x-olxvTxmBShURPJpJsk9HuQ) to ask any question, organize events, keep up to date with EPIC, and so on if you haven't already!
+Join the [EPFL IC PhDs Slack](https://join.slack.com/t/epfl-phd/shared_invite/zt-3c4lta837-tW7NVg0otxBgF5yBfBjgPw) to ask any question, organize events, keep up to date with EPIC, and so on if you haven't already!
 
 There is also an [official EPFL IC Slack](https://epfl-ic.slack.com) which is more work-focused, you can use it to create a project channel to collaborate on a semester project.
 
