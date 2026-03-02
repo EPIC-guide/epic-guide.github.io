@@ -22,13 +22,13 @@ That is, you might buy a ticket "from Lausanne to Zurich", and you can then take
 unless your ticket also specifies a "via" station which is an additional constraint for multi-part trips.
 
 EPFL provides PhD students with a free "half-fare" card, which is good because the full fare is really more of a "tourist tax".
-Get yours as soon as possible; more information [here](https://www.epfl.ch/campus/services/wp-content/uploads/2019/06/CFF_2019AvantageMobiliteFRAANG.pdf).
+Get yours as soon as possible; more information [here](https://www.epfl.ch/campus/services/people-experience/en/remuneration-and-benefits/benefits-for-epfl-staff/).
 
 In general, the easiest option to buy a ticket is to get the SBB app and use its "EasyRide" feature: swipe to check in, swipe to check out,
 and at the end of the day the app computes the cheapest ticket corresponding to your route and bills you.
 (The computation is retroactive, thus for instance two trips in the same day might be "combined" into one trip using a ticket with a longer validity period that ends up being cheaper overall)
 
-If you use the bus/metro around Lausanne often, get a travel pass, which EPFL subsidizes; see [here](https://www.epfl.ch/campus/mobility/public-transport/mobilis-subsidy/).
+If you use the bus/metro around Lausanne often, get a travel pass, which EPFL subsidizes; see [here](https://www.epfl.ch/campus/mobility/mobility-and-travel/commuting/public-transportation/).
 
 If you are under 25, you may be interested in the [SBB seven25 Travelcard](https://www.sbb.ch/en/travelcards-and-tickets/railpasses/seven25-travelcard.html),
 which allows people under 25 to enjoy unlimited travel anywhere in Switzerland from 7pm to 5am for only 390 CHF/year.
