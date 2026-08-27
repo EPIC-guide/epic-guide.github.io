@@ -5,9 +5,6 @@ category: middle
 order: 20
 ---
 
-_Fun fact: the name of the Tequila authentication system is a French pun: "T'es qui, là ?"_
-
-
 ## Rooms, occupancy, and booking
 
 If you need the map of a room, find it on plan.epfl.ch and scroll down in its properties,
@@ -30,8 +27,6 @@ Do you go by a nickname or short name? Are you tired of your extra given/family 
 
 Go to your [people.epfl.ch](https://people.epfl.ch/) page, select "Edit profile" in the top right, then click on the pencil icon next to your name and "Change/define usual name and firstname".
 _As of writing this, it works for short names and removing extra given/family names; anything else may or may not be accepted._
-
-You can also edit your email address by going to [https://ewa.epfl.ch/tools/modify_email.aspx](https://ewa.epfl.ch/tools/modify_email.aspx).
 
 
 ## Mailing lists
