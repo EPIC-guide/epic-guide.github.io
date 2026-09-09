@@ -23,7 +23,7 @@ General protocol:
    This should arrive approximately two weeks after the date you said you will arrive in the pre-registration form.
    - If you don't receive it, or if you'd like to prepare docs in advance, see the pages for [Swiss citizens](https://www.lausanne.ch/prestations/controle-des-habitants/arrivee-citoyens-suisses.html), [Swiss permanent residents ("C permit")](https://www.lausanne.ch/prestations/controle-des-habitants/arrivee-permis-c.html), or [temporary residents (B/F/L permits)](https://www.lausanne.ch/prestations/controle-des-habitants/arrivee-etrangers-permis-b-f-l-etudiants-touristes.html)
 6. (non-Lausanne only) Follow the instructions of your *commune* to announce your arrival (could be by email, by postal mail, or in person) and apply for a residence permit.
-7. When you submit the required paperwork for a permit, also request an *attestation de domicile / déclaration de résidence*.
+7. When you submit the required paperwork for a permit, also request an *attestation de domicile / déclaration de résidence / attestation d'établissement* (do not be confused: these are the exact same document).
    This is a temporary document that you can show to banks, rental agencies, etc. to prove that you have started the process for a residence permit even if you don't have it yet.
    You should receive this immediately (if in person) or in a few days (if by mail).
 8. (non-EU nationals only) Wait for a *convocation* to arrive in the mail which will let you schedule an in-person appointment with the *Centre de biométrie*.
@@ -33,7 +33,7 @@ General protocol:
    This will be "registered mail", so either you have to sign off on the delivery (which you most likely won't be able to, unless you work from home all the time),
    or the postal service will leave a ticket in your mailbox that you must present at your neighborhood post office to collect the delivery.
 11. You may receive one or two invoices, perhaps before the actual permit.
-    The total amount you will end up paying is up to 200 CHF depending on whether you asked for an *attestation de domicile*, whether you had to take a biometric appointment, and which *commune* you live in.
+    The total amount you will end up paying is up to 200 CHF depending on whether you asked for an *attestation de domicile* (which you should ask for, as it is required to open a Swiss bank account), whether you had to take a biometric appointment, and which *commune* you live in.
 12. You will have to renew your permit every year (non-EU nationals) or every five years (EU nationals).
     Keep an eye out for a letter about the process a couple months before it expires, but if you don't receive one, contact the *Contrôle des habitants* yourself.
 
