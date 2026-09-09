@@ -14,7 +14,9 @@ It's a great way to meet and socialize with other students in your cohort.
 ## Checklist
 
 * Within a few days of your arrival, start some [administrative formalities](/first/admin) to get a residence permit.
+* Open a Swiss [bank account](/life/money). It is also recommended to obtain a Swiss [phone number](/life/utilities) as soon as possible.
 * Get [health insurance](/life/insurance) within 3 months. It must be back-dated to cover you from your first day in Switzerland.
+* Obtain your Swisspass from any train station and ask EPFL for a half-fare travel-card (more information [here](https://www.epfl.ch/campus/services/people-experience/en/remuneration-and-benefits/benefits-for-epfl-staff/#cff)).
 * If you have a foreign driver's license, you can [exchange it for a Swiss one](/life/transportation#exchanging-a-foreign-drivers-license), but only in the first 12 months.
 * If you are a fellowship student, find a professor for a [semester project](/first/projects) as soon as possible.
 * Pass a [depth course](/middle/courses) with a grade of at least 5 out of 6 within your first year.
