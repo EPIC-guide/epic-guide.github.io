@@ -54,10 +54,18 @@ for 2025, your annual salary for that year will be (from above) 54,883 + 1% =
 55,432 CHF. If there is then a 2% adjustment for 2026, your annual salary for
 2026 will be (55,432 + 1,000) + 2% = 57,561 CHF.
 
+*Note:* If you have just started your PhD, EPFL can help you settle in and set things up by paying you **half of your first month's salary upfront** (as soon as your bank account is set up). If you are a fellowship student, you can request this by emailing the payroll specialist for the IC unit from HR (you can find their contact [here](https://www.epfl.ch/campus/services/people-experience/en/teams-and-contacts/) under People Operations department). If you are a direct-hire, you can request this by asking/emailing your lab's administrative assistant.
+
 
 ## Banking
 
-While it is possible to make a direct bank transfer from anywhere to Switzerland, that could result in large transfer and currency conversion fees.
+You will need to own a Swiss bank account for your monthly salary to be credited and for your day-to-day use. 
+Most students go with the traditional options: [UBS](https://ubs.com/), which is the largest Swiss bank, or the cantonal bank of your canton (for Vaud, this is [BCV](https://bcv.ch/)). 
+You will need to visit a branch with your *attestation de domicile* to open your account at these banks.
+Make sure to ask for a "free" bank account (one with no monthly charges), for which you may need to display your EPFL ID card (Camipro) or present your enrolment certificate after you have been enrolled to your program.
+If you are not a US citizen, digital banks such as Yuh, neon, and Alpian can also be useful, but they require you to have your residence permit for account opening. 
+
+While it is possible to make a direct bank transfer from anywhere to Switzerland (or vice-versa), that could result in large transfer and currency conversion fees.
 A cheaper way is to use a service such as [Wise](https://wise.com/) (formerly Transferwise), where fees are small and known upfront.
 Wise and Revolut both offer payment cards that can be used in any country and for online shopping with cheap / free currency conversion.
 
