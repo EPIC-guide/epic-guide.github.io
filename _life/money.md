@@ -16,8 +16,8 @@ The short version:
 
 ## Pay
 
-The pay for PhD students is set at the federal level subject to the approval of the ETH council.
-As of 2024, it is 54,550 CHF/year for the first year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years
+The pay for all PhD students is set at the federal level subject to the approval of the ETH council.
+As of 2026, it is 55,225 CHF/year for the first year, and increases by 1,000 CHF/year in each of the 2nd, 3rd, and 4th years
 ([source](https://www.epfl.ch/campus/services/human-resources/en/basic-starting-salary-of-doctoral-assistants-and-postdocs/)).
 
 The main unusual factor is the "13th salary" system: you receive 1/13th of your annual salary every month, not 1/12th, and the last 1/13th is given to you partly in November and partly in December.
@@ -25,15 +25,17 @@ The origins of this system are historically not so clear, but nowadays it’s ba
 If you did not work the whole year, for instance because you started in September, or because you did an internship in the summer,
 the 13th salary is adjusted proportionally.
 
-Overall, expect to get around 3,200 CHF/month after all taxes starting in the first year, plus the 13th salary.
-Here’s an example breakdown for a first year monthly PhD student salary, for a non-November/December month (see above), **as of January 2023** (the amounts may have slightly changed since then):
+Overall, expect to get around 3,500 CHF/month after all taxes starting in the first year, plus the 13th salary.
+Here’s a typical breakdown for a first year monthly PhD student salary, for a non-November/December month (see above), **as of September 2026** (the amounts change slightly each year):
 
-| Gross salary             | 4194.65 CHF |
-| First pillar (AVS)       | -222.30 CHF  |
-| Various other deductions | -83.75 CHF   |
-| Second pillar (Publica)  | -152.70 CHF  |
-| Income tax               | -251.25 CHF  |
-| **Net income**           | **3484.65 CHF** |
+| Description              | Amount          |
+|:-------------------------|----------------:|
+| Gross salary             | 4248.10 CHF     |
+| First pillar (AVS)       | -225.15 CHF     |
+| Second pillar (Publica)  | -154.65 CHF     |
+| Income tax + permit fee  | -251.10 CHF     |
+| Various other deductions | -86.10 CHF      |
+| **Net income**           | **3531.10 CHF** |
 
 Note that the 1,000 CHF/year increment:
 * applies at the beginning of *calendar* years, not "PhD years";
@@ -41,18 +43,18 @@ Note that the 1,000 CHF/year increment:
   you were employed (in any capacity, not just as a PhD student);
 * is added to whatever your annual salary was in the previous calendar year;
 
-Thus, if you start in September 2024 with a starting annual salary of
-54,550 CHF, then through December 2024, you will have worked 4/12th of the year
-at that rate and earned 4/12th of that amount. So in January 2025, your annual
+Thus, if you start in September 2026 with a starting annual salary of
+55,225 CHF, then through December 2026, you will have worked 4/12th of the year
+at that rate and earned 4/12th of that amount. So in January 2027, your annual
 salary will be incremented by 1,000 × 4/12 = 333 CHF (not a rounding error—the
-annual salary seems to always be a whole number) to give 54,883 CHF. And if you
-work that full year, then for 2026, your annual salary will become 55,883 CHF.
+annual salary seems to always be a whole number) to give 55,558 CHF. And if you
+work that full year, then for 2028, your annual salary will become 56,558 CHF.
 
 In some years, EPFL can announce an inflation compensation, which is applied
 after any annual increment. For instance, if they announce an adjustment of 1%
-for 2025, your annual salary for that year will be (from above) 54,883 + 1% =
-55,432 CHF. If there is then a 2% adjustment for 2026, your annual salary for
-2026 will be (55,432 + 1,000) + 2% = 57,561 CHF.
+for 2027, your annual salary for that year will be (from above) 55,558 + 1% =
+56,114 CHF. If there is then a 2% adjustment for 2028, your annual salary for
+2028 will be (56,114 + 1,000) + 2% = 58,256 CHF.
 
 *Note:* If you have just started your PhD, EPFL can help you settle in and set things up by paying you **half of your first month's salary upfront** (as soon as your bank account is set up). If you are a fellowship student, you can request this by emailing the payroll specialist for the IC unit from HR (you can find their contact [here](https://www.epfl.ch/campus/services/people-experience/en/teams-and-contacts/) under People Operations department). If you are a direct-hire, you can request this by asking/emailing your lab's administrative assistant.
 
