@@ -126,6 +126,7 @@ However, they tend to focus on specific kinds of laptops such as those with GPUs
 ### Amazon
 
 There is no amazon.ch, but [amazon.fr](https://amazon.fr) and [amazon.de](https://amazon.de) do ship most of their items, sometimes even with free shipping.
+To check whether a product is cheaper on Amazon or in a Swiss shop, [Chipo](https://chipo.ch/en) shows both prices side by side, in CHF with Swiss VAT included.
 
 
 ### Specialty online stores
