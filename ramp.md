@@ -35,7 +35,7 @@ or who do not take the time to first follow the guides on this website. -->
 ## Steps
 
 1. Follow [the Applying section of the EPIC PhD guide](/applying) for statements of purpose and resumes.
-2. Apply for RAMP by filling the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeN0HqmMVtqOMlPwWhRv855EUL4bVoibeRev-oqS3MhQmUYZg/viewform?usp=send_form).
+2. Apply for RAMP by filling the [application form](https://forms.gle/gwwagd9Z2siiEXsV9).
 3. Wait for us to contact you and match you with your EPFL IC PhD student mentor.
 4. Reach out to your mentor with any questions you have, attaching your statement of purpose and résumé so they can best assist you.
 
